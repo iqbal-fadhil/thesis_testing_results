@@ -1,0 +1,851 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1764956582898,141,GET Login Page,200,OK,Users 1-1,text,true,,1146,169,6,6,https://microservices.iqbalfadhil.biz.id/login,140,0,70
+1764956583096,140,GET Login Page,200,OK,Users 1-2,text,true,,1148,169,7,7,https://microservices.iqbalfadhil.biz.id/login,140,0,48
+1764956583292,175,GET Login Page,200,OK,Users 1-3,text,true,,1152,169,8,8,https://microservices.iqbalfadhil.biz.id/login,175,0,60
+1764956583696,114,GET Login Page,200,OK,Users 1-5,text,true,,1152,169,10,10,https://microservices.iqbalfadhil.biz.id/login,114,0,53
+1764956583891,110,GET Login Page,200,OK,Users 1-6,text,true,,1154,169,11,11,https://microservices.iqbalfadhil.biz.id/login,110,0,51
+1764956584095,112,GET Login Page,200,OK,Users 1-7,text,true,,1152,169,12,12,https://microservices.iqbalfadhil.biz.id/login,112,0,51
+1764956584293,112,GET Login Page,200,OK,Users 1-8,text,true,,1154,169,13,13,https://microservices.iqbalfadhil.biz.id/login,112,0,53
+1764956583500,1128,GET Login Page,200,OK,Users 1-4,text,true,,1144,169,14,14,https://microservices.iqbalfadhil.biz.id/login,1128,0,1069
+1764956584492,137,GET Login Page,200,OK,Users 1-9,text,true,,1150,169,14,14,https://microservices.iqbalfadhil.biz.id/login,137,0,50
+1764956584693,133,GET Login Page,200,OK,Users 1-10,text,true,,1154,169,15,15,https://microservices.iqbalfadhil.biz.id/login,133,0,49
+1764956584893,115,GET Login Page,200,OK,Users 1-11,text,true,,1150,169,16,16,https://microservices.iqbalfadhil.biz.id/login,114,0,52
+1764956585092,138,GET Login Page,200,OK,Users 1-12,text,true,,1152,169,17,17,https://microservices.iqbalfadhil.biz.id/login,137,0,51
+1764956585291,112,GET Login Page,200,OK,Users 1-13,text,true,,1162,169,18,18,https://microservices.iqbalfadhil.biz.id/login,111,0,51
+1764956585490,141,GET Login Page,200,OK,Users 1-14,text,true,,1164,169,19,19,https://microservices.iqbalfadhil.biz.id/login,141,0,55
+1764956585691,111,GET Login Page,200,OK,Users 1-15,text,true,,1154,169,20,20,https://microservices.iqbalfadhil.biz.id/login,111,0,53
+1764956585894,112,GET Login Page,200,OK,Users 1-16,text,true,,1158,169,21,21,https://microservices.iqbalfadhil.biz.id/login,112,0,54
+1764956586095,107,GET Login Page,200,OK,Users 1-17,text,true,,1148,169,22,22,https://microservices.iqbalfadhil.biz.id/login,107,0,50
+1764956586291,113,GET Login Page,200,OK,Users 1-18,text,true,,1152,169,23,23,https://microservices.iqbalfadhil.biz.id/login,112,0,51
+1764956586492,111,GET Login Page,200,OK,Users 1-19,text,true,,1154,169,24,24,https://microservices.iqbalfadhil.biz.id/login,111,0,52
+1764956586692,108,GET Login Page,200,OK,Users 1-20,text,true,,1148,169,25,25,https://microservices.iqbalfadhil.biz.id/login,107,0,50
+1764956586892,117,GET Login Page,200,OK,Users 1-21,text,true,,1146,169,26,26,https://microservices.iqbalfadhil.biz.id/login,117,0,49
+1764956587093,110,GET Login Page,200,OK,Users 1-22,text,true,,1148,169,27,27,https://microservices.iqbalfadhil.biz.id/login,109,0,51
+1764956587292,111,GET Login Page,200,OK,Users 1-23,text,true,,1150,169,28,28,https://microservices.iqbalfadhil.biz.id/login,111,0,52
+1764956587496,114,GET Login Page,200,OK,Users 1-24,text,true,,1154,169,29,29,https://microservices.iqbalfadhil.biz.id/login,114,0,52
+1764956587691,115,GET Login Page,200,OK,Users 1-25,text,true,,1148,169,30,30,https://microservices.iqbalfadhil.biz.id/login,115,0,54
+1764956587893,113,GET Login Page,200,OK,Users 1-26,text,true,,1150,169,31,31,https://microservices.iqbalfadhil.biz.id/login,113,0,56
+1764956588099,104,GET Login Page,200,OK,Users 1-27,text,true,,1154,169,32,32,https://microservices.iqbalfadhil.biz.id/login,103,0,50
+1764956588293,124,GET Login Page,200,OK,Users 1-28,text,true,,1148,169,33,33,https://microservices.iqbalfadhil.biz.id/login,123,0,52
+1764956588495,113,GET Login Page,200,OK,Users 1-29,text,true,,1156,169,34,34,https://microservices.iqbalfadhil.biz.id/login,113,0,52
+1764956588696,110,GET Login Page,200,OK,Users 1-30,text,true,,1150,169,35,35,https://microservices.iqbalfadhil.biz.id/login,109,0,51
+1764956588891,117,GET Login Page,200,OK,Users 1-31,text,true,,1148,169,36,36,https://microservices.iqbalfadhil.biz.id/login,116,0,53
+1764956584043,5080,POST /api/auth/login,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-1,text,false,,3145,0,37,37,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,54
+1764956589091,110,GET Login Page,200,OK,Users 1-32,text,true,,1148,169,37,37,https://microservices.iqbalfadhil.biz.id/login,109,0,51
+1764956584239,5080,POST /api/auth/login,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-2,text,false,,3145,0,38,38,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,52
+1764956589292,113,GET Login Page,200,OK,Users 1-33,text,true,,1154,169,38,38,https://microservices.iqbalfadhil.biz.id/login,113,0,50
+1764956584470,5075,POST /api/auth/login,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-3,text,false,,3145,0,39,39,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,48
+1764956589494,113,GET Login Page,200,OK,Users 1-34,text,true,,1146,169,39,39,https://microservices.iqbalfadhil.biz.id/login,113,0,53
+1764956589694,119,GET Login Page,200,OK,Users 1-35,text,true,,1154,169,40,40,https://microservices.iqbalfadhil.biz.id/login,119,0,55
+1764956584813,5078,POST /api/auth/login,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-5,text,false,,3145,0,41,41,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,50
+1764956589891,135,GET Login Page,200,OK,Users 1-36,text,true,,1158,169,41,41,https://microservices.iqbalfadhil.biz.id/login,135,0,62
+1764956585004,5080,POST /api/auth/login,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-6,text,false,,3145,0,41,41,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,51
+1764956590091,114,GET Login Page,200,OK,Users 1-37,text,true,,1156,169,42,42,https://microservices.iqbalfadhil.biz.id/login,113,0,52
+1764956585211,5091,POST /api/auth/login,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-7,text,false,,3145,0,43,43,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,60
+1764956590291,110,GET Login Page,200,OK,Users 1-38,text,true,,1148,169,43,43,https://microservices.iqbalfadhil.biz.id/login,110,0,51
+1764956585408,5081,POST /api/auth/login,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-8,text,false,,3145,0,43,43,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,52
+1764956590494,165,GET Login Page,200,OK,Users 1-39,text,true,,1154,169,44,44,https://microservices.iqbalfadhil.biz.id/login,165,0,49
+1764956585631,5078,POST /api/auth/login,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-4,text,false,,3145,0,45,45,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,50
+1764956585632,5081,POST /api/auth/login,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-9,text,false,,3145,0,45,45,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,49
+1764956590700,125,GET Login Page,200,OK,Users 1-40,text,true,,1148,169,45,45,https://microservices.iqbalfadhil.biz.id/login,125,0,53
+1764956585828,5093,POST /api/auth/login,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-10,text,false,,3145,0,46,46,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,59
+1764956590892,121,GET Login Page,200,OK,Users 1-41,text,true,,1154,169,46,46,https://microservices.iqbalfadhil.biz.id/login,121,0,52
+1764956586011,5084,POST /api/auth/login,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-11,text,false,,3145,0,47,47,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,56
+1764956591098,120,GET Login Page,200,OK,Users 1-42,text,true,,1152,169,47,47,https://microservices.iqbalfadhil.biz.id/login,120,0,52
+1764956586231,5080,POST /api/auth/login,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-12,text,false,,3145,0,48,48,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,52
+1764956591295,118,GET Login Page,200,OK,Users 1-43,text,true,,1156,169,48,48,https://microservices.iqbalfadhil.biz.id/login,117,0,55
+1764956586405,5076,POST /api/auth/login,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-13,text,false,,3145,0,48,48,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,49
+1764956591491,136,GET Login Page,200,OK,Users 1-44,text,true,,1156,169,49,49,https://microservices.iqbalfadhil.biz.id/login,135,0,49
+1764956586634,5079,POST /api/auth/login,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-14,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,53
+1764956591693,102,GET Login Page,200,OK,Users 1-45,text,true,,1168,169,50,50,https://microservices.iqbalfadhil.biz.id/login,102,0,48
+1764956586805,5079,POST /api/auth/login,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-15,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,52
+1764956591890,148,GET Login Page,200,OK,Users 1-46,text,true,,1156,169,50,50,https://microservices.iqbalfadhil.biz.id/login,148,0,72
+1764956587008,5082,POST /api/auth/login,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-16,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,50
+1764956592091,153,GET Login Page,200,OK,Users 1-47,text,true,,1148,169,50,50,https://microservices.iqbalfadhil.biz.id/login,152,0,70
+1764956587206,5078,POST /api/auth/login,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-17,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,52
+1764956592291,130,GET Login Page,200,OK,Users 1-48,text,true,,1154,169,50,50,https://microservices.iqbalfadhil.biz.id/login,130,0,66
+1764956587406,5080,POST /api/auth/login,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-18,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,50
+1764956592490,113,GET Login Page,200,OK,Users 1-49,text,true,,1160,169,50,50,https://microservices.iqbalfadhil.biz.id/login,112,0,52
+1764956587607,5081,POST /api/auth/login,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-19,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,53
+1764956592692,110,GET Login Page,200,OK,Users 1-50,text,true,,1152,169,50,50,https://microservices.iqbalfadhil.biz.id/login,110,0,52
+1764956587802,5075,POST /api/auth/login,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-20,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,48
+1764956588012,5081,POST /api/auth/login,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-21,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,51
+1764956588207,5090,POST /api/auth/login,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-22,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,58
+1764956588406,5078,POST /api/auth/login,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-23,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,49
+1764956588613,5084,POST /api/auth/login,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-24,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,52
+1764956588807,5081,POST /api/auth/login,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-25,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,48
+1764956589008,5078,POST /api/auth/login,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-26,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,48
+1764956589204,5092,POST /api/auth/login,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-27,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,59
+1764956589418,5086,POST /api/auth/login,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-28,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,54
+1764956589610,5080,POST /api/auth/login,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-29,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,51
+1764956589809,5097,POST /api/auth/login,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-30,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,61
+1764956590012,5102,POST /api/auth/login,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-31,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,53
+1764956590149,5080,GET /api/auth/me?token=XXX,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-1,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=,0,0,50
+1764956590204,5081,POST /api/auth/login,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-32,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,52
+1764956590322,5080,GET /api/auth/me?token=XXX,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-2,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=,0,0,49
+1764956590408,5080,POST /api/auth/login,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-33,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,50
+1764956590546,5083,GET /api/auth/me?token=XXX,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-3,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=,0,0,51
+1764956590609,5078,POST /api/auth/login,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-34,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,50
+1764956590816,5078,POST /api/auth/login,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-35,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,51
+1764956590893,5083,GET /api/auth/me?token=XXX,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-5,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=,0,0,53
+1764956591030,5087,POST /api/auth/login,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-36,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,53
+1764956591088,5082,GET /api/auth/me?token=XXX,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-6,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=,0,0,53
+1764956591207,5077,POST /api/auth/login,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-37,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,51
+1764956596231,121,GET /questions,200,OK,Users 1-1,text,true,,2417,178,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,121,0,50
+1764956591304,5083,GET /api/auth/me?token=XXX,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-7,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=,0,0,58
+1764956591404,5086,POST /api/auth/login,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-38,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,55
+1764956596404,115,GET /questions,200,OK,Users 1-2,text,true,,2419,178,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,113,0,49
+1764956591490,5079,GET /api/auth/me?token=XXX,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-8,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=,0,0,50
+1764956591661,5082,POST /api/auth/login,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-39,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,52
+1764956596636,112,GET /questions,200,OK,Users 1-3,text,true,,2417,178,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,112,0,52
+1764956591714,5076,GET /api/auth/me?token=XXX,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-9,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=,0,0,48
+1764956591711,5080,GET /api/auth/me?token=XXX,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-4,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=,0,0,51
+1764956591827,5081,POST /api/auth/login,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-40,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,51
+1764956591928,5089,GET /api/auth/me?token=XXX,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-10,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=,0,0,55
+1764956596978,111,GET /questions,200,OK,Users 1-5,text,true,,2413,178,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,111,0,50
+1764956592016,5106,POST /api/auth/login,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-41,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,76
+1764956592097,5094,GET /api/auth/me?token=XXX,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-11,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=,0,0,64
+1764956597174,116,GET /questions,200,OK,Users 1-6,text,true,,2417,178,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,116,0,49
+1764956592220,5099,POST /api/auth/login,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-42,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,70
+1764956592314,5076,GET /api/auth/me?token=XXX,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-12,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=,0,0,49
+1764956597389,107,GET /questions,200,OK,Users 1-7,text,true,,2417,178,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,107,0,50
+1764956592416,5094,POST /api/auth/login,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-43,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,62
+1764956597368,173,POST /submit,401,Unauthorized,Users 1-1,text,false,,604,633,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=,173,0,50
+1764956597521,111,POST /submit,401,Unauthorized,Users 1-2,text,false,,594,633,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=,110,0,46
+1764956592628,5079,POST /api/auth/login,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-44,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,49
+1764956597569,152,GET /questions,200,OK,Users 1-8,text,true,,2413,178,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,152,0,48
+1764956592715,5077,GET /api/auth/me?token=XXX,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-14,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=,0,0,50
+1764956597757,100,POST /submit,401,Unauthorized,Users 1-3,text,false,,598,633,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=,99,0,47
+1764956592797,5078,POST /api/auth/login,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-45,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,51
+1764956597792,115,GET /questions,200,OK,Users 1-4,text,true,,2421,178,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,115,0,49
+1764956597792,150,GET /questions,200,OK,Users 1-9,text,true,,2413,178,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,150,0,49
+1764956592887,5083,GET /api/auth/me?token=XXX,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-15,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=,0,0,55
+1764956598021,105,GET /questions,200,OK,Users 1-10,text,true,,2421,178,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,104,0,49
+1764956593042,5083,POST /api/auth/login,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-46,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,53
+1764956593092,5074,GET /api/auth/me?token=XXX,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-16,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=,0,0,49
+1764956598090,107,POST /submit,401,Unauthorized,Users 1-5,text,false,,602,633,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=,107,0,48
+1764956598193,109,GET /questions,200,OK,Users 1-11,text,true,,2411,178,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,108,0,48
+1764956593251,5086,POST /api/auth/login,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-47,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,54
+1764956593286,5079,GET /api/auth/me?token=XXX,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-17,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=,0,0,54
+1764956598293,105,POST /submit,401,Unauthorized,Users 1-6,text,false,,588,633,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=,105,0,47
+1764956593423,5081,POST /api/auth/login,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-48,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,50
+1764956598392,131,GET /questions,200,OK,Users 1-12,text,true,,2413,178,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,131,0,48
+1764956593488,5078,GET /api/auth/me?token=XXX,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-18,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=,0,0,49
+1764956592485,6102,GET /api/auth/me?token=XXX,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-13,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=,0,0,1072
+1764956598500,104,POST /submit,401,Unauthorized,Users 1-7,text,false,,592,633,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=,103,0,47
+1764956593605,5080,POST /api/auth/login,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-49,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,50
+1764956593691,5075,GET /api/auth/me?token=XXX,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-19,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=,0,0,48
+1764956598723,110,POST /submit,401,Unauthorized,Users 1-8,text,false,,600,633,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=,109,0,51
+1764956593804,5082,POST /api/auth/login,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-50,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,54
+1764956598794,107,GET /questions,200,OK,Users 1-14,text,true,,2417,178,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,107,0,51
+1764956593878,5078,GET /api/auth/me?token=XXX,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-20,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=,0,0,51
+1764956598909,108,POST /submit,401,Unauthorized,Users 1-4,text,false,,600,633,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=,108,0,48
+1764956598972,113,GET /questions,200,OK,Users 1-15,text,true,,2415,178,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,113,0,51
+1764956598944,147,POST /submit,401,Unauthorized,Users 1-9,text,false,,602,633,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=,147,0,48
+1764956594095,5080,GET /api/auth/me?token=XXX,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-21,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=,0,0,51
+1764956599132,103,POST /submit,401,Unauthorized,Users 1-10,text,false,,594,633,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=,103,0,45
+1764956599168,154,GET /questions,200,OK,Users 1-16,text,true,,2413,178,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,154,0,52
+1764956594299,5077,GET /api/auth/me?token=XXX,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-22,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=,0,0,49
+1764956599304,141,POST /submit,401,Unauthorized,Users 1-11,text,false,,600,633,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=,141,0,52
+1764956599366,143,GET /questions,200,OK,Users 1-17,text,true,,2415,178,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,142,0,52
+1764956594489,5078,GET /api/auth/me?token=XXX,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-23,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=,0,0,49
+1764956599525,97,POST /submit,401,Unauthorized,Users 1-12,text,false,,600,633,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=,97,0,44
+1764956599568,103,GET /questions,200,OK,Users 1-18,text,true,,2417,178,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,103,0,48
+1764956599590,150,GET /questions,200,OK,Users 1-13,text,true,,2415,178,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,149,0,49
+1764956594703,5087,GET /api/auth/me?token=XXX,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-24,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=,0,0,56
+1764956599768,116,GET /questions,200,OK,Users 1-19,text,true,,2415,178,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,115,0,54
+1764956594890,5077,GET /api/auth/me?token=XXX,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-25,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=,0,0,51
+1764956599959,113,GET /questions,200,OK,Users 1-20,text,true,,2421,178,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,113,0,49
+1764956595089,5085,GET /api/auth/me?token=XXX,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-26,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=,0,0,58
+1764956599903,341,POST /submit,401,Unauthorized,Users 1-14,text,false,,602,633,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=,341,0,190
+1764956600089,155,POST /submit,401,Unauthorized,Users 1-15,text,false,,604,633,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=,155,0,52
+1764956600176,154,GET /questions,200,OK,Users 1-21,text,true,,2425,178,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,154,0,50
+1764956595301,5082,GET /api/auth/me?token=XXX,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-27,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=,0,0,52
+1764956600324,110,POST /submit,401,Unauthorized,Users 1-16,text,false,,600,633,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=,109,0,49
+1764956600378,115,GET /questions,200,OK,Users 1-22,text,true,,2411,178,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,115,0,52
+1764956595506,5089,GET /api/auth/me?token=XXX,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-28,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=,0,0,57
+1764956600513,112,POST /submit,401,Unauthorized,Users 1-17,text,false,,596,633,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=,112,0,50
+1764956595693,5079,GET /api/auth/me?token=XXX,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-29,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=,0,0,51
+1764956600571,246,GET /questions,200,OK,Users 1-23,text,true,,2417,178,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,245,0,143
+1764956600674,159,POST /submit,401,Unauthorized,Users 1-18,text,false,,598,633,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=,159,0,50
+1764956600744,146,POST /submit,401,Unauthorized,Users 1-13,text,false,,594,633,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=,146,0,50
+1764956595909,5076,GET /api/auth/me?token=XXX,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-30,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=,0,0,49
+1764956600886,120,POST /submit,401,Unauthorized,Users 1-19,text,false,,598,633,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=,120,0,61
+1764956600968,121,GET /questions,200,OK,Users 1-25,text,true,,2413,178,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,120,0,51
+1764956601074,106,POST /submit,401,Unauthorized,Users 1-20,text,false,,602,633,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=,105,0,50
+1764956596116,5084,GET /api/auth/me?token=XXX,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-31,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=,0,0,51
+1764956601177,119,GET /questions,200,OK,Users 1-26,text,true,,2421,178,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,119,0,57
+1764956596290,5078,GET /api/auth/me?token=XXX,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-32,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=,0,0,52
+1764956601333,110,POST /submit,401,Unauthorized,Users 1-21,text,false,,596,633,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=,110,0,52
+1764956601385,148,GET /questions,200,OK,Users 1-27,text,true,,2405,178,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,148,0,50
+1764956596491,5082,GET /api/auth/me?token=XXX,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-33,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=,0,0,53
+1764956601495,104,POST /submit,401,Unauthorized,Users 1-22,text,false,,592,633,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=,104,0,48
+1764956601597,112,GET /questions,200,OK,Users 1-28,text,true,,2415,178,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,112,0,52
+1764956596691,5080,GET /api/auth/me?token=XXX,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-34,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=,0,0,51
+1764956601774,114,GET /questions,200,OK,Users 1-29,text,true,,2417,178,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,114,0,51
+1764956601822,114,POST /submit,401,Unauthorized,Users 1-23,text,false,,594,633,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=,114,0,51
+1764956600793,1154,GET /questions,200,OK,Users 1-24,text,true,,2419,178,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,1154,0,1088
+1764956596896,5075,GET /api/auth/me?token=XXX,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-35,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=,0,0,49
+1764956601988,117,GET /questions,200,OK,Users 1-30,text,true,,2413,178,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,117,0,55
+1764956602090,109,POST /submit,401,Unauthorized,Users 1-25,text,false,,602,633,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=,109,0,50
+1764956597126,5149,GET /api/auth/me?token=XXX,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-36,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=,0,0,86
+1764956602203,112,GET /questions,200,OK,Users 1-31,text,true,,2417,178,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,112,0,51
+1764956597287,5081,GET /api/auth/me?token=XXX,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-37,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=,0,0,50
+1764956602298,108,POST /submit,401,Unauthorized,Users 1-26,text,false,,596,633,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=,107,0,48
+1764956597493,5081,GET /api/auth/me?token=XXX,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-38,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=,0,0,50
+1764956602539,113,POST /submit,401,Unauthorized,Users 1-27,text,false,,594,633,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=,113,0,50
+1764956602574,157,GET /questions,200,OK,Users 1-33,text,true,,2413,178,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,157,0,51
+1764956602369,424,GET /questions,200,OK,Users 1-32,text,true,,2413,178,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,423,0,268
+1764956602711,114,POST /submit,401,Unauthorized,Users 1-28,text,false,,606,633,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=,114,0,50
+1764956597745,5081,GET /api/auth/me?token=XXX,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-39,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=,0,0,52
+1764956602774,137,GET /questions,200,OK,Users 1-34,text,true,,2425,178,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,136,0,48
+1764956597911,5081,GET /api/auth/me?token=XXX,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-40,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=,0,0,52
+1764956602890,102,POST /submit,401,Unauthorized,Users 1-29,text,false,,598,633,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=,102,0,47
+1764956602950,108,POST /submit,401,Unauthorized,Users 1-24,text,false,,600,633,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=,108,0,49
+1764956602973,160,GET /questions,200,OK,Users 1-35,text,true,,2413,178,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,160,0,52
+1764956598125,5076,GET /api/auth/me?token=XXX,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-41,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=,0,0,49
+1764956603107,111,POST /submit,401,Unauthorized,Users 1-30,text,false,,594,633,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=,110,0,49
+1764956598321,5082,GET /api/auth/me?token=XXX,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-42,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=,0,0,56
+1764956603279,134,GET /questions,200,OK,Users 1-36,text,true,,2411,178,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,134,0,65
+1764956603319,151,POST /submit,401,Unauthorized,Users 1-31,text,false,,596,633,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=,151,0,49
+1764956603371,151,GET /questions,200,OK,Users 1-37,text,true,,2415,178,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,151,0,51
+1764956598512,5079,GET /api/auth/me?token=XXX,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-43,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=,0,0,51
+1764956598544,5078,Re-Login (simulate logout),Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-1,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,50
+1764956603576,109,GET /questions,200,OK,Users 1-38,text,true,,2423,178,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,109,0,50
+1764956598633,5081,Re-Login (simulate logout),Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-2,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,51
+1764956598711,5087,GET /api/auth/me?token=XXX,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-44,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=,0,0,54
+1764956603734,105,POST /submit,401,Unauthorized,Users 1-33,text,false,,598,633,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=,105,0,48
+1764956603796,131,POST /submit,401,Unauthorized,Users 1-32,text,false,,598,633,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=,131,0,49
+1764956603829,105,GET /questions,200,OK,Users 1-39,text,true,,2419,178,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,105,0,47
+1764956598860,5078,Re-Login (simulate logout),Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-3,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,51
+1764956603914,168,POST /submit,401,Unauthorized,Users 1-34,text,false,,598,633,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=,168,0,82
+1764956603996,149,GET /questions,200,OK,Users 1-40,text,true,,2421,178,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,148,0,50
+1764956598878,5299,GET /api/auth/me?token=XXX,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-45,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=,0,0,208
+1764956599129,5090,GET /api/auth/me?token=XXX,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-46,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=,0,0,55
+1764956604135,104,POST /submit,401,Unauthorized,Users 1-35,text,false,,596,633,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=,104,0,47
+1764956599198,5084,Re-Login (simulate logout),Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-5,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,55
+1764956604204,114,GET /questions,200,OK,Users 1-41,text,true,,2415,178,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,114,0,54
+1764956599341,5082,GET /api/auth/me?token=XXX,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-47,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=,0,0,50
+1764956599399,5099,Re-Login (simulate logout),Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-6,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,50
+1764956604417,138,POST /submit,401,Unauthorized,Users 1-36,text,false,,594,633,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=,138,0,82
+1764956599508,5076,GET /api/auth/me?token=XXX,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-48,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=,0,0,49
+1764956604406,196,GET /questions,200,OK,Users 1-42,text,true,,2413,178,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,196,0,94
+1764956604625,0,Debug Vars,200,OK,Users 1-1,text,true,,3961,0,50,50,null,0,0,0
+1764956604526,132,POST /submit,401,Unauthorized,Users 1-37,text,false,,588,633,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=,132,0,51
+1764956599606,5078,Re-Login (simulate logout),Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-7,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,52
+1764956604718,0,Debug Vars,200,OK,Users 1-2,text,true,,3961,0,50,50,null,0,0,0
+1764956604593,130,GET /questions,200,OK,Users 1-43,text,true,,2413,178,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,130,0,69
+1764956599686,5088,GET /api/auth/me?token=XXX,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-49,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=,0,0,55
+1764956604689,102,POST /submit,401,Unauthorized,Users 1-38,text,false,,600,633,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=,102,0,46
+1764956604800,120,GET /questions,200,OK,Users 1-44,text,true,,2415,178,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,119,0,52
+1764956599834,5085,Re-Login (simulate logout),Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-8,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,55
+1764956604940,0,Debug Vars,200,OK,Users 1-3,text,true,,3961,0,50,50,null,0,0,0
+1764956599887,5082,GET /api/auth/me?token=XXX,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-50,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=,0,0,52
+1764956604936,103,POST /submit,401,Unauthorized,Users 1-39,text,false,,602,633,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=,102,0,50
+1764956600019,5079,Re-Login (simulate logout),Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-4,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,50
+1764956600092,5082,Re-Login (simulate logout),Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-9,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,54
+1764956605147,111,POST /submit,401,Unauthorized,Users 1-40,text,false,,598,633,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=,111,0,53
+1764956605284,0,Debug Vars,200,OK,Users 1-5,text,true,,3961,0,50,50,null,0,0,0
+1764956605180,134,GET /questions,200,OK,Users 1-45,text,true,,2423,178,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,134,0,50
+1764956600238,5081,Re-Login (simulate logout),Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-10,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,52
+1764956605227,157,GET /questions,200,OK,Users 1-46,text,true,,2421,178,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,156,0,57
+1764956605320,107,POST /submit,401,Unauthorized,Users 1-41,text,false,,612,633,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=,107,0,50
+1764956605503,0,Debug Vars,200,OK,Users 1-6,text,true,,3961,0,50,50,null,0,0,0
+1764956600447,5080,Re-Login (simulate logout),Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-11,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,49
+1764956605426,120,GET /questions,200,OK,Users 1-47,text,true,,2423,178,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,120,0,49
+1764956605686,0,Debug Vars,200,OK,Users 1-7,text,true,,3960,0,50,50,null,0,0,0
+1764956605586,116,GET /questions,200,OK,Users 1-48,text,true,,2413,178,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,116,0,58
+1764956600624,5085,Re-Login (simulate logout),Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-12,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,52
+1764956605629,116,GET Login Page,200,OK,Users 1-1,text,true,,1154,169,50,50,https://microservices.iqbalfadhil.biz.id/login,116,0,49
+1764956605605,148,POST /submit,401,Unauthorized,Users 1-42,text,false,,592,633,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=,147,0,50
+1764956605719,114,GET Login Page,200,OK,Users 1-2,text,true,,1144,169,50,50,https://microservices.iqbalfadhil.biz.id/login,114,0,50
+1764956605725,109,POST /submit,401,Unauthorized,Users 1-43,text,false,,598,633,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=,109,0,52
+1764956605777,113,GET /questions,200,OK,Users 1-49,text,true,,2407,178,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,113,0,51
+1764956605922,0,Debug Vars,200,OK,Users 1-8,text,true,,3961,0,50,50,null,0,0,0
+1764956605922,104,POST /submit,401,Unauthorized,Users 1-44,text,false,,602,633,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=,104,0,50
+1764956605942,110,GET Login Page,200,OK,Users 1-3,text,true,,1158,169,50,50,https://microservices.iqbalfadhil.biz.id/login,110,0,48
+1764956605972,108,GET /questions,200,OK,Users 1-50,text,true,,2419,178,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,108,0,53
+1764956606100,0,Debug Vars,200,OK,Users 1-4,text,true,,3961,0,50,50,null,0,0,0
+1764956606176,0,Debug Vars,200,OK,Users 1-9,text,true,,3961,0,50,50,null,0,0,0
+1764956606326,0,Debug Vars,200,OK,Users 1-10,text,true,,3962,0,50,50,null,0,0,0
+1764956601245,5084,Re-Login (simulate logout),Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-14,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,52
+1764956601246,5090,Re-Login (simulate logout),Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-15,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,56
+1764956606285,113,GET Login Page,200,OK,Users 1-5,text,true,,1150,169,50,50,https://microservices.iqbalfadhil.biz.id/login,113,0,49
+1764956606315,103,POST /submit,401,Unauthorized,Users 1-45,text,false,,592,633,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=,103,0,46
+1764956606385,114,POST /submit,401,Unauthorized,Users 1-46,text,false,,604,633,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=,112,0,49
+1764956601435,5084,Re-Login (simulate logout),Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-16,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,51
+1764956606530,0,Debug Vars,200,OK,Users 1-11,text,true,,3962,0,50,50,null,0,0,0
+1764956606504,117,GET Login Page,200,OK,Users 1-6,text,true,,1154,169,50,50,https://microservices.iqbalfadhil.biz.id/login,116,0,55
+1764956606549,105,POST /submit,401,Unauthorized,Users 1-47,text,false,,588,633,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=,105,0,48
+1764956606711,0,Debug Vars,200,OK,Users 1-12,text,true,,3962,0,50,50,null,0,0,0
+1764956601626,5086,Re-Login (simulate logout),Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-17,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,51
+1764956606688,110,GET Login Page,200,OK,Users 1-7,text,true,,1154,169,50,50,https://microservices.iqbalfadhil.biz.id/login,110,0,49
+1764956606705,109,POST /submit,401,Unauthorized,Users 1-48,text,false,,600,633,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=,109,0,50
+1764956601835,5112,Re-Login (simulate logout),Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-18,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,74
+1764956601891,5079,Re-Login (simulate logout),Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-13,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,50
+1764956606892,104,POST /submit,401,Unauthorized,Users 1-49,text,false,,608,633,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=,104,0,48
+1764956606923,109,GET Login Page,200,OK,Users 1-8,text,true,,1154,169,50,50,https://microservices.iqbalfadhil.biz.id/login,109,0,49
+1764956602008,5079,Re-Login (simulate logout),Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-19,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,51
+1764956607101,114,GET Login Page,200,OK,Users 1-4,text,true,,1150,169,50,50,https://microservices.iqbalfadhil.biz.id/login,114,0,48
+1764956602183,5077,Re-Login (simulate logout),Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-20,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,50
+1764956607178,118,GET Login Page,200,OK,Users 1-9,text,true,,1148,169,50,50,https://microservices.iqbalfadhil.biz.id/login,117,0,51
+1764956607334,0,Debug Vars,200,OK,Users 1-14,text,true,,3962,0,50,50,null,0,0,0
+1764956607339,0,Debug Vars,200,OK,Users 1-15,text,true,,3962,0,50,50,null,0,0,0
+1764956607326,107,GET Login Page,200,OK,Users 1-10,text,true,,1154,169,50,50,https://microservices.iqbalfadhil.biz.id/login,107,0,48
+1764956607521,0,Debug Vars,200,OK,Users 1-16,text,true,,3962,0,50,50,null,0,0,0
+1764956602445,5089,Re-Login (simulate logout),Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-21,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,57
+1764956607534,132,GET Login Page,200,OK,Users 1-11,text,true,,1152,169,50,50,https://microservices.iqbalfadhil.biz.id/login,132,0,50
+1764956602600,5079,Re-Login (simulate logout),Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-22,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,51
+1764956607714,0,Debug Vars,200,OK,Users 1-17,text,true,,3962,0,50,50,null,0,0,0
+1764956607712,108,GET Login Page,200,OK,Users 1-12,text,true,,1148,169,50,50,https://microservices.iqbalfadhil.biz.id/login,108,0,50
+1764956607949,0,Debug Vars,200,OK,Users 1-18,text,true,,3962,0,50,50,null,0,0,0
+1764956607977,0,Debug Vars,200,OK,Users 1-13,text,true,,3962,0,50,50,null,0,0,0
+1764956602942,5083,Re-Login (simulate logout),Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-23,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,52
+1764956608091,0,Debug Vars,200,OK,Users 1-19,text,true,,3962,0,50,50,null,0,0,0
+1764956607083,1120,POST /submit,401,Unauthorized,Users 1-50,text,false,,588,633,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=,1119,0,1064
+1764956608262,0,Debug Vars,200,OK,Users 1-20,text,true,,3962,0,50,50,null,0,0,0
+1764956603201,5083,Re-Login (simulate logout),Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-25,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,49
+1764956608340,113,GET Login Page,200,OK,Users 1-15,text,true,,1154,169,50,50,https://microservices.iqbalfadhil.biz.id/login,113,0,52
+1764956608336,132,GET Login Page,200,OK,Users 1-14,text,true,,1150,169,50,50,https://microservices.iqbalfadhil.biz.id/login,132,0,50
+1764956603407,5081,Re-Login (simulate logout),Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-26,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,52
+1764956608536,0,Debug Vars,200,OK,Users 1-21,text,true,,3962,0,50,50,null,0,0,0
+1764956608523,108,GET Login Page,200,OK,Users 1-16,text,true,,1154,169,50,50,https://microservices.iqbalfadhil.biz.id/login,108,0,50
+1764956608016,1,Debug Vars,200,OK,Users 1-22,text,true,,3962,0,50,50,null,0,0,0
+1764956603655,5079,Re-Login (simulate logout),Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-27,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,48
+1764956603827,5080,Re-Login (simulate logout),Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-28,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,49
+1764956608362,0,Debug Vars,200,OK,Users 1-23,text,true,,3962,0,50,50,null,0,0,0
+1764956608286,105,GET Login Page,200,OK,Users 1-18,text,true,,1154,169,50,50,https://microservices.iqbalfadhil.biz.id/login,105,0,48
+1764956603994,5083,Re-Login (simulate logout),Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-29,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,54
+1764956608315,109,GET Login Page,200,OK,Users 1-13,text,true,,1152,169,50,50,https://microservices.iqbalfadhil.biz.id/login,109,0,48
+1764956604060,5086,Re-Login (simulate logout),Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-24,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,50
+1764956608427,115,GET Login Page,200,OK,Users 1-19,text,true,,1152,169,50,50,https://microservices.iqbalfadhil.biz.id/login,114,0,54
+1764956608623,0,Debug Vars,200,OK,Users 1-25,text,true,,3962,0,50,50,null,0,0,0
+1764956604220,5090,Re-Login (simulate logout),Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-30,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,64
+1764956608600,107,GET Login Page,200,OK,Users 1-20,text,true,,1154,169,50,50,https://microservices.iqbalfadhil.biz.id/login,106,0,50
+1764956608826,0,Debug Vars,200,OK,Users 1-26,text,true,,3962,0,50,50,null,0,0,0
+1764956604473,5089,Re-Login (simulate logout),Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-31,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,56
+1764956608873,114,GET Login Page,200,OK,Users 1-21,text,true,,1154,169,50,50,https://microservices.iqbalfadhil.biz.id/login,114,0,52
+1764956609073,0,Debug Vars,200,OK,Users 1-27,text,true,,3962,0,50,50,null,0,0,0
+1764956609017,110,GET Login Page,200,OK,Users 1-22,text,true,,1152,169,50,50,https://microservices.iqbalfadhil.biz.id/login,110,0,51
+1764956609247,0,Debug Vars,200,OK,Users 1-28,text,true,,3962,0,50,50,null,0,0,0
+1764956604841,5103,Re-Login (simulate logout),Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-33,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,74
+1764956604927,5090,Re-Login (simulate logout),Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-32,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,60
+1764956609414,0,Debug Vars,200,OK,Users 1-29,text,true,,3962,0,50,50,null,0,0,0
+1764956609364,110,GET Login Page,200,OK,Users 1-23,text,true,,1152,169,50,50,https://microservices.iqbalfadhil.biz.id/login,110,0,51
+1764956609482,1,Debug Vars,200,OK,Users 1-24,text,true,,3962,0,50,50,null,0,0,0
+1764956605083,5085,Re-Login (simulate logout),Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-34,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,56
+1764956609649,0,Debug Vars,200,OK,Users 1-30,text,true,,3962,0,50,50,null,0,0,0
+1764956605240,5078,Re-Login (simulate logout),Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-35,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,48
+1764956609624,104,GET Login Page,200,OK,Users 1-25,text,true,,1148,169,50,50,https://microservices.iqbalfadhil.biz.id/login,104,0,49
+1764956609899,0,Debug Vars,200,OK,Users 1-31,text,true,,3962,0,50,50,null,0,0,0
+1764956609828,110,GET Login Page,200,OK,Users 1-26,text,true,,1150,169,50,50,https://microservices.iqbalfadhil.biz.id/login,110,0,48
+1764956605556,5101,Re-Login (simulate logout),Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-36,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,67
+1764956605659,5079,Re-Login (simulate logout),Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-37,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,52
+1764956605793,5085,Re-Login (simulate logout),Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-38,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,55
+1764956610281,0,Debug Vars,200,OK,Users 1-33,text,true,,3962,0,50,50,null,0,0,0
+1764956610353,1,Debug Vars,200,OK,Users 1-32,text,true,,3962,0,50,50,null,0,0,0
+1764956610251,109,GET Login Page,200,OK,Users 1-28,text,true,,1162,169,50,50,https://microservices.iqbalfadhil.biz.id/login,109,0,48
+1764956606040,5081,Re-Login (simulate logout),Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-39,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,52
+1764956610504,0,Debug Vars,200,OK,Users 1-34,text,true,,3962,0,50,50,null,0,0,0
+1764956610415,103,GET Login Page,200,OK,Users 1-29,text,true,,1154,169,50,50,https://microservices.iqbalfadhil.biz.id/login,103,0,49
+1764956610484,140,GET Login Page,200,OK,Users 1-24,text,true,,1150,169,50,50,https://microservices.iqbalfadhil.biz.id/login,140,0,49
+1764956610655,0,Debug Vars,200,OK,Users 1-35,text,true,,3962,0,50,50,null,0,0,0
+1764956606260,5083,Re-Login (simulate logout),Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-40,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,52
+1764956610652,107,GET Login Page,200,OK,Users 1-30,text,true,,1152,169,50,50,https://microservices.iqbalfadhil.biz.id/login,107,0,49
+1764956606429,5078,Re-Login (simulate logout),Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-41,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,50
+1764956608050,2805,GET Login Page,200,OK,Users 1-17,text,true,,1152,169,50,50,https://microservices.iqbalfadhil.biz.id/login,2805,0,51
+1764956610996,0,Debug Vars,200,OK,Users 1-36,text,true,,3962,0,50,50,null,0,0,0
+1764956610900,116,GET Login Page,200,OK,Users 1-31,text,true,,1150,169,50,50,https://microservices.iqbalfadhil.biz.id/login,115,0,51
+1764956610073,999,GET Login Page,200,OK,Users 1-27,text,true,,1158,169,50,50,https://microservices.iqbalfadhil.biz.id/login,999,0,287
+1764956611078,0,Debug Vars,200,OK,Users 1-37,text,true,,3962,0,50,50,null,0,0,0
+1764956606747,5083,POST /api/auth/login,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-1,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,52
+1764956606754,5083,Re-Login (simulate logout),Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-42,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,50
+1764956611215,0,Debug Vars,200,OK,Users 1-38,text,true,,3962,0,50,50,null,0,0,0
+1764956606835,5080,Re-Login (simulate logout),Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-43,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,50
+1764956606835,5079,POST /api/auth/login,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-2,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,50
+1764956611283,109,GET Login Page,200,OK,Users 1-33,text,true,,1150,169,50,50,https://microservices.iqbalfadhil.biz.id/login,108,0,51
+1764956607028,5079,Re-Login (simulate logout),Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-44,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,50
+1764956611462,0,Debug Vars,200,OK,Users 1-39,text,true,,3962,0,50,50,null,0,0,0
+1764956611356,113,GET Login Page,200,OK,Users 1-32,text,true,,1152,169,50,50,https://microservices.iqbalfadhil.biz.id/login,113,0,49
+1764956607052,5088,POST /api/auth/login,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-3,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,54
+1764956611505,108,GET Login Page,200,OK,Users 1-34,text,true,,1152,169,50,50,https://microservices.iqbalfadhil.biz.id/login,108,0,49
+1764956611681,0,Debug Vars,200,OK,Users 1-40,text,true,,3960,0,50,50,null,0,0,0
+1764956611658,112,GET Login Page,200,OK,Users 1-35,text,true,,1152,169,50,50,https://microservices.iqbalfadhil.biz.id/login,112,0,49
+1764956607400,5078,POST /api/auth/login,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-5,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,52
+1764956607420,5078,Re-Login (simulate logout),Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-45,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,50
+1764956611845,0,Debug Vars,200,OK,Users 1-41,text,true,,3962,0,50,50,null,0,0,0
+1764956607503,5078,Re-Login (simulate logout),Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-46,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,48
+1764956607623,5080,POST /api/auth/login,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-6,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,51
+1764956607656,5081,Re-Login (simulate logout),Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-47,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,52
+1764956612004,109,GET Login Page,200,OK,Users 1-36,text,true,,1156,169,50,50,https://microservices.iqbalfadhil.biz.id/login,109,0,49
+1764956612180,0,Debug Vars,200,OK,Users 1-42,text,true,,3962,0,50,50,null,0,0,0
+1764956612079,108,GET Login Page,200,OK,Users 1-37,text,true,,1162,169,50,50,https://microservices.iqbalfadhil.biz.id/login,107,0,48
+1764956607800,5076,POST /api/auth/login,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-7,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,48
+1764956607815,5079,Re-Login (simulate logout),Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-48,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,50
+1764956612251,0,Debug Vars,200,OK,Users 1-43,text,true,,3962,0,50,50,null,0,0,0
+1764956612216,116,GET Login Page,200,OK,Users 1-38,text,true,,1152,169,50,50,https://microservices.iqbalfadhil.biz.id/login,115,0,48
+1764956612443,0,Debug Vars,200,OK,Users 1-44,text,true,,3961,0,50,50,null,0,0,0
+1764956608033,5079,POST /api/auth/login,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-8,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,51
+1764956608000,5132,Re-Login (simulate logout),Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-49,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,103
+1764956612462,118,GET Login Page,200,OK,Users 1-39,text,true,,1148,169,50,50,https://microservices.iqbalfadhil.biz.id/login,117,0,52
+1764956608216,5083,POST /api/auth/login,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-4,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,53
+1764956608297,5092,POST /api/auth/login,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-9,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,64
+1764956612684,109,GET Login Page,200,OK,Users 1-40,text,true,,1152,169,50,50,https://microservices.iqbalfadhil.biz.id/login,109,0,47
+1764956612833,0,Debug Vars,200,OK,Users 1-45,text,true,,3961,0,50,50,null,0,0,0
+1764956608434,5086,POST /api/auth/login,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-10,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,51
+1764956612917,0,Debug Vars,200,OK,Users 1-46,text,true,,3961,0,50,50,null,0,0,0
+1764956613075,1,Debug Vars,200,OK,Users 1-47,text,true,,3962,0,50,50,null,0,0,0
+1764956608004,5081,POST /api/auth/login,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-11,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,52
+1764956613231,0,Debug Vars,200,OK,Users 1-48,text,true,,3962,0,50,50,null,0,0,0
+1764956608157,5083,POST /api/auth/login,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-12,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,56
+1764956613182,103,GET Login Page,200,OK,Users 1-42,text,true,,1154,169,50,50,https://microservices.iqbalfadhil.biz.id/login,103,0,46
+1764956612848,464,GET Login Page,200,OK,Users 1-41,text,true,,1150,169,50,50,https://microservices.iqbalfadhil.biz.id/login,464,0,288
+1764956613252,134,GET Login Page,200,OK,Users 1-43,text,true,,1148,169,50,50,https://microservices.iqbalfadhil.biz.id/login,134,0,48
+1764956613469,0,Debug Vars,200,OK,Users 1-49,text,true,,3961,0,50,50,null,0,0,0
+1764956613444,118,GET Login Page,200,OK,Users 1-44,text,true,,1150,169,50,50,https://microservices.iqbalfadhil.biz.id/login,118,0,45
+1764956608540,5081,Re-Login (simulate logout),Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-50,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,51
+1764956608791,5074,POST /api/auth/login,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-15,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,50
+1764956608806,5082,POST /api/auth/login,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-14,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,50
+1764956613836,101,GET Login Page,200,OK,Users 1-45,text,true,,1146,169,50,50,https://microservices.iqbalfadhil.biz.id/login,100,0,44
+1764956613918,105,GET Login Page,200,OK,Users 1-46,text,true,,1146,169,50,50,https://microservices.iqbalfadhil.biz.id/login,105,0,47
+1764956608968,5078,POST /api/auth/login,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-16,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,49
+1764956614077,127,GET Login Page,200,OK,Users 1-47,text,true,,1148,169,50,50,https://microservices.iqbalfadhil.biz.id/login,125,0,60
+1764956614232,106,GET Login Page,200,OK,Users 1-48,text,true,,1160,169,50,50,https://microservices.iqbalfadhil.biz.id/login,106,0,45
+1764956609391,5087,POST /api/auth/login,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-18,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,50
+1764956609426,5076,POST /api/auth/login,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-13,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,48
+1764956614622,0,Debug Vars,200,OK,Users 1-50,text,true,,3962,0,50,50,null,0,0,0
+1764956609543,5080,POST /api/auth/login,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-19,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,50
+1764956609708,5080,POST /api/auth/login,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-20,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,50
+1764956609992,5077,POST /api/auth/login,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-21,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,48
+1764956610129,5080,POST /api/auth/login,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-22,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,50
+1764956610475,5074,POST /api/auth/login,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-23,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,50
+1764956614470,1147,GET Login Page,200,OK,Users 1-49,text,true,,1154,169,50,50,https://microservices.iqbalfadhil.biz.id/login,1147,0,1077
+1764956615630,143,GET Login Page,200,OK,Users 1-50,text,true,,1152,169,50,50,https://microservices.iqbalfadhil.biz.id/login,143,0,49
+1764956610730,5088,POST /api/auth/login,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-25,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,52
+1764956610940,5330,POST /api/auth/login,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-26,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,227
+1764956611361,5092,POST /api/auth/login,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-28,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,53
+1764956611520,5080,POST /api/auth/login,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-29,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,51
+1764956611626,5076,POST /api/auth/login,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-24,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,48
+1764956611766,5077,POST /api/auth/login,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-30,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,49
+1764956611857,5078,POST /api/auth/login,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-17,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,49
+1764956612019,5088,POST /api/auth/login,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-31,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,50
+1764956612073,5083,POST /api/auth/login,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-27,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,50
+1764956612169,5083,GET /api/auth/me?token=XXX,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-1,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=,0,0,49
+1764956612252,5077,GET /api/auth/me?token=XXX,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-2,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=,0,0,50
+1764956612394,5081,POST /api/auth/login,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-33,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,48
+1764956612470,5077,POST /api/auth/login,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-32,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,47
+1764956612479,5076,GET /api/auth/me?token=XXX,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-3,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=,0,0,49
+1764956612614,5083,POST /api/auth/login,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-34,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,51
+1764956612773,5095,POST /api/auth/login,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-35,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,65
+1764956612815,5082,GET /api/auth/me?token=XXX,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-5,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=,0,0,52
+1764956613043,5079,GET /api/auth/me?token=XXX,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-6,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=,0,0,50
+1764956613119,5084,POST /api/auth/login,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-36,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,52
+1764956613187,5077,POST /api/auth/login,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-37,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,50
+1764956613223,5079,GET /api/auth/me?token=XXX,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-7,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=,0,0,51
+1764956618254,118,GET /questions,200,OK,Users 1-1,text,true,,2415,178,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,118,0,50
+1764956613332,5088,POST /api/auth/login,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-38,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,57
+1764956618332,111,GET /questions,200,OK,Users 1-2,text,true,,2421,178,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,109,0,48
+1764956613449,5083,GET /api/auth/me?token=XXX,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-8,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=,0,0,53
+1764956618560,106,GET /questions,200,OK,Users 1-3,text,true,,2411,178,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,106,0,48
+1764956613586,5081,POST /api/auth/login,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-39,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,51
+1764956613639,5082,GET /api/auth/me?token=XXX,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-4,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=,0,0,50
+1764956613726,5079,GET /api/auth/me?token=XXX,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-9,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=,0,0,50
+1764956613795,5082,POST /api/auth/login,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-40,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,50
+1764956613860,5075,GET /api/auth/me?token=XXX,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-10,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=,0,0,47
+1764956614090,5081,GET /api/auth/me?token=XXX,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-11,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=,0,0,48
+1764956619126,119,GET /questions,200,OK,Users 1-6,text,true,,2419,178,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,119,0,53
+1764956614242,5082,GET /api/auth/me?token=XXX,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-12,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=,0,0,52
+1764956618899,453,GET /questions,200,OK,Users 1-5,text,true,,2411,178,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,452,0,270
+1764956614313,5081,POST /api/auth/login,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-41,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,53
+1764956619305,111,GET /questions,200,OK,Users 1-7,text,true,,2417,178,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,111,0,53
+1764956614387,5078,POST /api/auth/login,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-43,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,48
+1764956619373,130,POST /submit,401,Unauthorized,Users 1-1,text,false,,594,633,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=,130,0,49
+1764956614287,5259,POST /api/auth/login,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-42,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,121
+1764956619444,142,POST /submit,401,Unauthorized,Users 1-2,text,false,,602,633,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=,141,0,47
+1764956619535,113,GET /questions,200,OK,Users 1-8,text,true,,2419,178,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,113,0,49
+1764956614563,5087,POST /api/auth/login,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-44,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,54
+1764956619672,108,POST /submit,401,Unauthorized,Users 1-3,text,false,,600,633,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=,108,0,47
+1764956619724,128,GET /questions,200,OK,Users 1-4,text,true,,2413,178,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,127,0,56
+1764956619808,112,GET /questions,200,OK,Users 1-9,text,true,,2417,178,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,112,0,49
+1764956614867,5104,GET /api/auth/me?token=XXX,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-15,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=,0,0,69
+1764956614893,5082,GET /api/auth/me?token=XXX,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-14,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=,0,0,50
+1764956614938,5076,POST /api/auth/login,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-45,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,49
+1764956619940,103,GET /questions,200,OK,Users 1-10,text,true,,2417,178,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,103,0,49
+1764956615048,5081,GET /api/auth/me?token=XXX,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-16,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=,0,0,49
+1764956620178,112,GET /questions,200,OK,Users 1-11,text,true,,2411,178,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,112,0,47
+1764956615205,5084,POST /api/auth/login,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-47,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,52
+1764956615024,5347,POST /api/auth/login,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-46,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,218
+1764956620248,135,POST /submit,401,Unauthorized,Users 1-6,text,false,,598,633,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=,135,0,50
+1764956615340,5087,POST /api/auth/login,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-48,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,52
+1764956620326,107,GET /questions,200,OK,Users 1-12,text,true,,2415,178,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,107,0,45
+1764956620353,147,POST /submit,401,Unauthorized,Users 1-5,text,false,,598,633,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=,147,0,53
+1764956620418,148,POST /submit,401,Unauthorized,Users 1-7,text,false,,594,633,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=,148,0,47
+1764956615505,5079,GET /api/auth/me?token=XXX,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-13,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=,0,0,50
+1764956615625,5078,GET /api/auth/me?token=XXX,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-19,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=,0,0,50
+1764956620649,119,POST /submit,401,Unauthorized,Users 1-8,text,false,,590,633,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=,119,0,48
+1764956615486,5378,GET /api/auth/me?token=XXX,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-18,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=,0,0,253
+1764956615790,5084,GET /api/auth/me?token=XXX,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-20,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=,0,0,56
+1764956620855,136,POST /submit,401,Unauthorized,Users 1-4,text,false,,594,633,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=,136,0,46
+1764956620925,118,POST /submit,401,Unauthorized,Users 1-9,text,false,,592,633,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=,117,0,59
+1764956620983,108,GET /questions,200,OK,Users 1-14,text,true,,2417,178,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,107,0,51
+1764956620975,121,GET /questions,200,OK,Users 1-15,text,true,,2429,178,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,120,0,58
+1764956621045,99,POST /submit,401,Unauthorized,Users 1-10,text,false,,596,633,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=,98,0,46
+1764956616074,5078,GET /api/auth/me?token=XXX,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-21,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=,0,0,49
+1764956621131,115,GET /questions,200,OK,Users 1-16,text,true,,2421,178,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,115,0,49
+1764956616211,5092,GET /api/auth/me?token=XXX,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-22,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=,0,0,63
+1764956621292,105,POST /submit,401,Unauthorized,Users 1-11,text,false,,588,633,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=,104,0,45
+1764956621435,107,POST /submit,401,Unauthorized,Users 1-12,text,false,,600,633,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=,106,0,47
+1764956616552,5080,GET /api/auth/me?token=XXX,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-23,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=,0,0,50
+1764956621586,109,GET /questions,200,OK,Users 1-13,text,true,,2419,178,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,108,0,47
+1764956616618,5079,POST /api/auth/login,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-49,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,49
+1764956621705,105,GET /questions,200,OK,Users 1-19,text,true,,2417,178,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,103,0,48
+1764956616775,5084,POST /api/auth/login,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-50,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,54
+1764956616821,5078,GET /api/auth/me?token=XXX,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-25,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=,0,0,48
+1764956621867,107,GET /questions,200,OK,Users 1-18,text,true,,2419,178,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,106,0,46
+1764956621877,148,GET /questions,200,OK,Users 1-20,text,true,,2415,178,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,147,0,49
+1764956622096,106,POST /submit,401,Unauthorized,Users 1-14,text,false,,604,633,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=,106,0,48
+1764956622097,106,POST /submit,401,Unauthorized,Users 1-15,text,false,,600,633,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=,106,0,53
+1764956622153,120,GET /questions,200,OK,Users 1-21,text,true,,2419,178,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,120,0,52
+1764956622249,101,POST /submit,401,Unauthorized,Users 1-16,text,false,,604,633,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=,101,0,47
+1764956617272,5077,GET /api/auth/me?token=XXX,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-26,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=,0,0,49
+1764956622305,103,GET /questions,200,OK,Users 1-22,text,true,,2417,178,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,103,0,48
+1764956617457,5082,GET /api/auth/me?token=XXX,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-28,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=,0,0,48
+1764956617604,5083,GET /api/auth/me?token=XXX,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-29,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=,0,0,50
+1764956622637,110,GET /questions,200,OK,Users 1-23,text,true,,2415,178,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,109,0,50
+1764956617704,5080,GET /api/auth/me?token=XXX,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-24,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=,0,0,49
+1764956622696,103,POST /submit,401,Unauthorized,Users 1-13,text,false,,594,633,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=,103,0,48
+1764956622811,98,POST /submit,401,Unauthorized,Users 1-19,text,false,,596,633,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=,98,0,43
+1764956617846,5098,GET /api/auth/me?token=XXX,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-30,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=,0,0,68
+1764956622901,106,GET /questions,200,OK,Users 1-25,text,true,,2411,178,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,106,0,48
+1764956617939,5077,GET /api/auth/me?token=XXX,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-17,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=,0,0,49
+1764956622976,106,POST /submit,401,Unauthorized,Users 1-18,text,false,,592,633,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=,105,0,47
+1764956623029,112,POST /submit,401,Unauthorized,Users 1-20,text,false,,606,633,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=,112,0,48
+1764956618113,5079,GET /api/auth/me?token=XXX,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-31,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=,0,0,51
+1764956618163,5096,GET /api/auth/me?token=XXX,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-27,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=,0,0,51
+1764956623275,102,POST /submit,401,Unauthorized,Users 1-21,text,false,,596,633,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=,100,0,50
+1764956623411,103,POST /submit,401,Unauthorized,Users 1-22,text,false,,590,633,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=,103,0,48
+1764956618480,5079,GET /api/auth/me?token=XXX,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-33,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=,0,0,50
+1764956618551,5078,GET /api/auth/me?token=XXX,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-32,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=,0,0,49
+1764956623542,123,GET /questions,200,OK,Users 1-28,text,true,,2411,178,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,122,0,46
+1764956618699,5081,GET /api/auth/me?token=XXX,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-34,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=,0,0,51
+1764956623689,114,GET /questions,200,OK,Users 1-29,text,true,,2411,178,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,114,0,57
+1764956623752,107,POST /submit,401,Unauthorized,Users 1-23,text,false,,596,633,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=,107,0,50
+1764956623787,132,GET /questions,200,OK,Users 1-24,text,true,,2423,178,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,132,0,66
+1764956618874,5084,GET /api/auth/me?token=XXX,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-35,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=,0,0,53
+1764956623947,109,GET /questions,200,OK,Users 1-30,text,true,,2415,178,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,109,0,48
+1764956624018,103,GET /questions,200,OK,Users 1-17,text,true,,2419,178,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,103,0,47
+1764956624009,116,POST /submit,401,Unauthorized,Users 1-25,text,false,,598,633,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=,115,0,53
+1764956619211,5082,GET /api/auth/me?token=XXX,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-36,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=,0,0,49
+1764956624193,113,GET /questions,200,OK,Users 1-31,text,true,,2415,178,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,111,0,50
+1764956619268,5082,GET /api/auth/me?token=XXX,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-37,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=,0,0,51
+1764956624264,132,GET /questions,200,OK,Users 1-27,text,true,,2417,178,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,132,0,50
+1764956623352,1114,GET /questions,200,OK,Users 1-26,text,true,,2419,178,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,1114,0,1055
+1764956619422,5076,GET /api/auth/me?token=XXX,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-38,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=,0,0,48
+1764956624561,118,GET /questions,200,OK,Users 1-33,text,true,,2419,178,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,118,0,52
+1764956624632,105,GET /questions,200,OK,Users 1-32,text,true,,2415,178,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,105,0,47
+1764956619672,5077,GET /api/auth/me?token=XXX,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-39,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=,0,0,48
+1764956624667,151,POST /submit,401,Unauthorized,Users 1-28,text,false,,610,633,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=,151,0,48
+1764956624780,112,GET /questions,200,OK,Users 1-34,text,true,,2413,178,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,112,0,54
+1764956624805,150,POST /submit,401,Unauthorized,Users 1-29,text,false,,590,633,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=,149,0,53
+1764956624959,104,GET /questions,200,OK,Users 1-35,text,true,,2413,178,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,103,0,47
+1764956619882,5191,GET /api/auth/me?token=XXX,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-40,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=,0,0,107
+1764956625058,107,POST /submit,401,Unauthorized,Users 1-30,text,false,,596,633,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=,107,0,49
+1764956625123,128,POST /submit,401,Unauthorized,Users 1-17,text,false,,608,633,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=,127,0,46
+1764956625297,106,GET /questions,200,OK,Users 1-36,text,true,,2419,178,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,105,0,48
+1764956625308,146,POST /submit,401,Unauthorized,Users 1-31,text,false,,594,633,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=,146,0,49
+1764956625353,106,GET /questions,200,OK,Users 1-37,text,true,,2415,178,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,106,0,48
+1764956620397,5084,GET /api/auth/me?token=XXX,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-41,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=,0,0,53
+1764956625401,142,POST /submit,401,Unauthorized,Users 1-27,text,false,,612,633,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=,142,0,47
+1764956620468,5086,GET /api/auth/me?token=XXX,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-43,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=,0,0,58
+1764956620505,5077,Re-Login (simulate logout),Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-1,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,49
+1764956625499,102,GET /questions,200,OK,Users 1-38,text,true,,2417,178,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,101,0,49
+1764956625467,142,POST /submit,401,Unauthorized,Users 1-26,text,false,,596,633,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=,142,0,48
+1764956620587,5081,Re-Login (simulate logout),Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-2,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,52
+1764956620549,5124,GET /api/auth/me?token=XXX,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-42,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=,0,0,69
+1764956620653,5079,GET /api/auth/me?token=XXX,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-44,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=,0,0,49
+1764956625681,107,POST /submit,401,Unauthorized,Users 1-33,text,false,,600,633,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=,107,0,52
+1764956625740,100,POST /submit,401,Unauthorized,Users 1-32,text,false,,598,633,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=,99,0,47
+1764956620781,5078,Re-Login (simulate logout),Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-3,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,48
+1764956625751,147,GET /questions,200,OK,Users 1-39,text,true,,2409,178,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,147,0,47
+1764956625894,105,POST /submit,401,Unauthorized,Users 1-34,text,false,,596,633,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=,105,0,50
+1764956624920,1157,POST /submit,401,Unauthorized,Users 1-24,text,false,,590,633,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=,1156,0,1057
+1764956621017,5081,GET /api/auth/me?token=XXX,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-45,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=,0,0,54
+1764956626065,100,POST /submit,401,Unauthorized,Users 1-35,text,false,,600,633,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=,100,0,46
+1764956626075,145,GET /questions,200,OK,Users 1-40,text,true,,2415,178,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,145,0,46
+1764956621292,5080,GET /api/auth/me?token=XXX,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-47,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=,0,0,50
+1764956621386,5098,Re-Login (simulate logout),Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-6,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,71
+1764956621375,5112,GET /api/auth/me?token=XXX,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-46,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=,0,0,81
+1764956621430,5078,GET /api/auth/me?token=XXX,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-48,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=,0,0,50
+1764956626405,139,POST /submit,401,Unauthorized,Users 1-36,text,false,,598,633,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=,137,0,48
+1764956621502,5075,Re-Login (simulate logout),Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-5,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,46
+1764956626583,0,Debug Vars,200,OK,Users 1-1,text,true,,3961,0,50,50,null,0,0,0
+1764956626485,104,GET /questions,200,OK,Users 1-41,text,true,,2409,178,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,104,0,47
+1764956626462,142,POST /submit,401,Unauthorized,Users 1-37,text,false,,592,633,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=,142,0,47
+1764956621567,5078,Re-Login (simulate logout),Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-7,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,51
+1764956626669,0,Debug Vars,200,OK,Users 1-2,text,true,,3961,0,50,50,null,0,0,0
+1764956626555,134,GET /questions,200,OK,Users 1-43,text,true,,2421,178,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,134,0,47
+1764956626602,141,POST /submit,401,Unauthorized,Users 1-38,text,false,,604,633,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=,141,0,44
+1764956626674,141,GET /questions,200,OK,Users 1-42,text,true,,2415,178,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,140,0,47
+1764956621771,5076,Re-Login (simulate logout),Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-8,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,47
+1764956626863,0,Debug Vars,200,OK,Users 1-3,text,true,,3961,0,50,50,null,0,0,0
+1764956626733,151,GET /questions,200,OK,Users 1-44,text,true,,2413,178,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,150,0,48
+1764956626900,111,POST /submit,401,Unauthorized,Users 1-39,text,false,,604,633,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=,111,0,49
+1764956621992,5090,Re-Login (simulate logout),Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-4,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,56
+1764956622047,5083,Re-Login (simulate logout),Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-9,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,56
+1764956622145,5077,Re-Login (simulate logout),Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-10,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,50
+1764956627100,154,GET /questions,200,OK,Users 1-45,text,true,,2413,178,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,154,0,57
+1764956627225,107,POST /submit,401,Unauthorized,Users 1-40,text,false,,600,633,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=,106,0,47
+1764956622400,5081,Re-Login (simulate logout),Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-11,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,50
+1764956627485,0,Debug Vars,200,OK,Users 1-6,text,true,,3961,0,50,50,null,0,0,0
+1764956627374,111,GET /questions,200,OK,Users 1-47,text,true,,2427,178,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,111,0,54
+1764956627578,0,Debug Vars,200,OK,Users 1-5,text,true,,3961,0,50,50,null,0,0,0
+1764956627488,107,GET /questions,200,OK,Users 1-46,text,true,,2415,178,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,107,0,51
+1764956622544,5077,Re-Login (simulate logout),Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-12,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,50
+1764956627646,0,Debug Vars,200,OK,Users 1-7,text,true,,3960,0,50,50,null,0,0,0
+1764956627509,165,GET /questions,200,OK,Users 1-48,text,true,,2417,178,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,163,0,53
+1764956627586,112,GET Login Page,200,OK,Users 1-1,text,true,,1148,169,50,50,https://microservices.iqbalfadhil.biz.id/login,112,0,51
+1764956627590,141,POST /submit,401,Unauthorized,Users 1-41,text,false,,598,633,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=,141,0,47
+1764956622701,5075,GET /api/auth/me?token=XXX,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-49,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=,0,0,47
+1764956627670,121,GET Login Page,200,OK,Users 1-2,text,true,,1156,169,50,50,https://microservices.iqbalfadhil.biz.id/login,120,0,51
+1764956627691,101,POST /submit,401,Unauthorized,Users 1-43,text,false,,596,633,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=,101,0,51
+1764956627848,0,Debug Vars,200,OK,Users 1-8,text,true,,3961,0,50,50,null,0,0,0
+1764956627817,109,POST /submit,401,Unauthorized,Users 1-42,text,false,,600,633,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=,108,0,49
+1764956622862,5084,GET /api/auth/me?token=XXX,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-50,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=,0,0,53
+1764956627869,119,GET Login Page,200,OK,Users 1-3,text,true,,1156,169,50,50,https://microservices.iqbalfadhil.biz.id/login,119,0,51
+1764956627886,108,POST /submit,401,Unauthorized,Users 1-44,text,false,,592,633,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=,108,0,47
+1764956628087,0,Debug Vars,200,OK,Users 1-4,text,true,,3961,0,50,50,null,0,0,0
+1764956628131,0,Debug Vars,200,OK,Users 1-9,text,true,,3961,0,50,50,null,0,0,0
+1764956628230,0,Debug Vars,200,OK,Users 1-10,text,true,,3962,0,50,50,null,0,0,0
+1764956623204,5075,Re-Login (simulate logout),Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-15,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,49
+1764956623204,5078,Re-Login (simulate logout),Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-14,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,50
+1764956628255,101,POST /submit,401,Unauthorized,Users 1-45,text,false,,600,633,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=,101,0,48
+1764956623352,5078,Re-Login (simulate logout),Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-16,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,49
+1764956628482,0,Debug Vars,200,OK,Users 1-11,text,true,,3962,0,50,50,null,0,0,0
+1764956628485,115,GET Login Page,200,OK,Users 1-6,text,true,,1154,169,50,50,https://microservices.iqbalfadhil.biz.id/login,115,0,50
+1764956628486,132,POST /submit,401,Unauthorized,Users 1-47,text,false,,598,633,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=,132,0,48
+1764956628620,0,Debug Vars,200,OK,Users 1-12,text,true,,3962,0,50,50,null,0,0,0
+1764956628595,101,POST /submit,401,Unauthorized,Users 1-46,text,false,,600,633,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=,101,0,47
+1764956628647,113,GET Login Page,200,OK,Users 1-7,text,true,,1156,169,50,50,https://microservices.iqbalfadhil.biz.id/login,113,0,49
+1764956628674,103,POST /submit,401,Unauthorized,Users 1-48,text,false,,596,633,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=,103,0,47
+1764956628776,107,GET /questions,200,OK,Users 1-49,text,true,,2417,178,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,107,0,47
+1764956623801,5083,Re-Login (simulate logout),Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-13,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,53
+1764956628848,115,GET Login Page,200,OK,Users 1-8,text,true,,1158,169,50,50,https://microservices.iqbalfadhil.biz.id/login,114,0,49
+1764956623910,5086,Re-Login (simulate logout),Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-19,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,54
+1764956628946,106,GET /questions,200,OK,Users 1-50,text,true,,2415,178,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,106,0,46
+1764956624083,5079,Re-Login (simulate logout),Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-18,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,48
+1764956629095,115,GET Login Page,200,OK,Users 1-4,text,true,,1150,169,50,50,https://microservices.iqbalfadhil.biz.id/login,114,0,50
+1764956624143,5085,Re-Login (simulate logout),Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-20,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,55
+1764956629133,115,GET Login Page,200,OK,Users 1-9,text,true,,1152,169,50,50,https://microservices.iqbalfadhil.biz.id/login,115,0,52
+1764956629281,0,Debug Vars,200,OK,Users 1-15,text,true,,3962,0,50,50,null,0,0,0
+1764956629282,1,Debug Vars,200,OK,Users 1-14,text,true,,3962,0,50,50,null,0,0,0
+1764956629236,111,GET Login Page,200,OK,Users 1-10,text,true,,1152,169,50,50,https://microservices.iqbalfadhil.biz.id/login,111,0,54
+1764956629431,0,Debug Vars,200,OK,Users 1-16,text,true,,3962,0,50,50,null,0,0,0
+1764956624378,5198,Re-Login (simulate logout),Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-21,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,147
+1764956629486,111,GET Login Page,200,OK,Users 1-11,text,true,,1148,169,50,50,https://microservices.iqbalfadhil.biz.id/login,111,0,49
+1764956624516,5085,Re-Login (simulate logout),Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-22,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,49
+1764956629621,132,GET Login Page,200,OK,Users 1-12,text,true,,1150,169,50,50,https://microservices.iqbalfadhil.biz.id/login,132,0,48
+1764956629888,0,Debug Vars,200,OK,Users 1-13,text,true,,3962,0,50,50,null,0,0,0
+1764956624867,5078,Re-Login (simulate logout),Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-23,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,49
+1764956629999,0,Debug Vars,200,OK,Users 1-19,text,true,,3962,0,50,50,null,0,0,0
+1764956629887,117,POST /submit,401,Unauthorized,Users 1-49,text,false,,596,633,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=,117,0,50
+1764956630055,106,POST /submit,401,Unauthorized,Users 1-50,text,false,,606,633,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=,106,0,49
+1764956630163,0,Debug Vars,200,OK,Users 1-18,text,true,,3962,0,50,50,null,0,0,0
+1764956625126,5101,Re-Login (simulate logout),Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-25,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,66
+1764956630228,0,Debug Vars,200,OK,Users 1-20,text,true,,3962,0,50,50,null,0,0,0
+1764956630285,108,GET Login Page,200,OK,Users 1-14,text,true,,1152,169,50,50,https://microservices.iqbalfadhil.biz.id/login,108,0,48
+1764956630283,144,GET Login Page,200,OK,Users 1-15,text,true,,1150,169,50,50,https://microservices.iqbalfadhil.biz.id/login,144,0,49
+1764956630432,138,GET Login Page,200,OK,Users 1-16,text,true,,1160,169,50,50,https://microservices.iqbalfadhil.biz.id/login,137,0,48
+1764956630576,0,Debug Vars,200,OK,Users 1-21,text,true,,3962,0,50,50,null,0,0,0
+1764956630606,0,Debug Vars,200,OK,Users 1-22,text,true,,3962,0,50,50,null,0,0,0
+1764956625820,5090,Re-Login (simulate logout),Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-28,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,59
+1764956630947,0,Debug Vars,200,OK,Users 1-23,text,true,,3962,0,50,50,null,0,0,0
+1764956630889,138,GET Login Page,200,OK,Users 1-13,text,true,,1148,169,50,50,https://microservices.iqbalfadhil.biz.id/login,138,0,48
+1764956631000,120,GET Login Page,200,OK,Users 1-19,text,true,,1150,169,50,50,https://microservices.iqbalfadhil.biz.id/login,119,0,49
+1764956625957,5250,Re-Login (simulate logout),Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-29,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,156
+1764956631227,0,Debug Vars,200,OK,Users 1-25,text,true,,3962,0,50,50,null,0,0,0
+1764956626167,5076,Re-Login (simulate logout),Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-30,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,49
+1764956631164,118,GET Login Page,200,OK,Users 1-18,text,true,,1152,169,50,50,https://microservices.iqbalfadhil.biz.id/login,118,0,48
+1764956631230,103,GET Login Page,200,OK,Users 1-20,text,true,,1148,169,50,50,https://microservices.iqbalfadhil.biz.id/login,103,0,46
+1764956626253,5082,Re-Login (simulate logout),Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-17,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,52
+1764956626459,5079,Re-Login (simulate logout),Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-31,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,51
+1764956626544,5088,Re-Login (simulate logout),Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-27,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,54
+1764956626611,5080,Re-Login (simulate logout),Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-26,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,51
+1764956631610,102,GET Login Page,200,OK,Users 1-22,text,true,,1162,169,50,50,https://microservices.iqbalfadhil.biz.id/login,102,0,45
+1764956626791,5080,Re-Login (simulate logout),Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-33,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,50
+1764956631577,303,GET Login Page,200,OK,Users 1-21,text,true,,1152,169,50,50,https://microservices.iqbalfadhil.biz.id/login,302,0,199
+1764956631911,0,Debug Vars,200,OK,Users 1-28,text,true,,3962,0,50,50,null,0,0,0
+1764956626844,5071,Re-Login (simulate logout),Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-32,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,47
+1764956631949,111,GET Login Page,200,OK,Users 1-23,text,true,,1156,169,50,50,https://microservices.iqbalfadhil.biz.id/login,111,0,48
+1764956627001,5077,Re-Login (simulate logout),Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-34,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,49
+1764956627082,5078,Re-Login (simulate logout),Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-24,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,49
+1764956632208,0,Debug Vars,200,OK,Users 1-29,text,true,,3962,0,50,50,null,0,0,0
+1764956632245,0,Debug Vars,200,OK,Users 1-30,text,true,,3962,0,50,50,null,0,0,0
+1764956632335,0,Debug Vars,200,OK,Users 1-17,text,true,,3962,0,50,50,null,0,0,0
+1764956632228,108,GET Login Page,200,OK,Users 1-25,text,true,,1152,169,50,50,https://microservices.iqbalfadhil.biz.id/login,108,0,47
+1764956627169,5359,Re-Login (simulate logout),Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-35,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,278
+1764956632540,1,Debug Vars,200,OK,Users 1-31,text,true,,3962,0,50,50,null,0,0,0
+1764956627546,5075,Re-Login (simulate logout),Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-36,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,50
+1764956632633,0,Debug Vars,200,OK,Users 1-27,text,true,,3962,0,50,50,null,0,0,0
+1764956627605,5077,Re-Login (simulate logout),Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-37,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,48
+1764956632693,0,Debug Vars,200,OK,Users 1-26,text,true,,3962,0,50,50,null,0,0,0
+1764956632873,0,Debug Vars,200,OK,Users 1-33,text,true,,3962,0,50,50,null,0,0,0
+1764956632917,0,Debug Vars,200,OK,Users 1-32,text,true,,3962,0,50,50,null,0,0,0
+1764956632917,134,GET Login Page,200,OK,Users 1-28,text,true,,1152,169,50,50,https://microservices.iqbalfadhil.biz.id/login,133,0,48
+1764956633078,1,Debug Vars,200,OK,Users 1-34,text,true,,3962,0,50,50,null,0,0,0
+1764956627745,5352,Re-Login (simulate logout),Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-38,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,211
+1764956628013,5144,Re-Login (simulate logout),Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-39,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,86
+1764956633161,0,Debug Vars,200,OK,Users 1-24,text,true,,3962,0,50,50,null,0,0,0
+1764956633211,114,GET Login Page,200,OK,Users 1-29,text,true,,1146,169,50,50,https://microservices.iqbalfadhil.biz.id/login,114,0,49
+1764956633248,111,GET Login Page,200,OK,Users 1-30,text,true,,1150,169,50,50,https://microservices.iqbalfadhil.biz.id/login,110,0,51
+1764956628332,5081,Re-Login (simulate logout),Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-40,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,50
+1764956633339,123,GET Login Page,200,OK,Users 1-17,text,true,,1152,169,50,50,https://microservices.iqbalfadhil.biz.id/login,123,0,51
+1764956633529,0,Debug Vars,200,OK,Users 1-35,text,true,,3962,0,50,50,null,0,0,0
+1764956633624,0,Debug Vars,200,OK,Users 1-36,text,true,,3962,0,50,50,null,0,0,0
+1764956628578,5077,GET Login Page,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-5,text,false,,3145,0,50,50,https://microservices.iqbalfadhil.biz.id/login,0,0,47
+1764956633543,123,GET Login Page,200,OK,Users 1-31,text,true,,1152,169,50,50,https://microservices.iqbalfadhil.biz.id/login,123,0,52
+1764956633683,0,Debug Vars,200,OK,Users 1-37,text,true,,3962,0,50,50,null,0,0,0
+1764956628700,5078,POST /api/auth/login,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-1,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,47
+1764956633694,110,GET Login Page,200,OK,Users 1-26,text,true,,1154,169,50,50,https://microservices.iqbalfadhil.biz.id/login,110,0,49
+1764956628732,5079,Re-Login (simulate logout),Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-41,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,51
+1764956628792,5077,POST /api/auth/login,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-2,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,47
+1764956633875,118,GET Login Page,200,OK,Users 1-33,text,true,,1158,169,50,50,https://microservices.iqbalfadhil.biz.id/login,118,0,46
+1764956628926,5076,Re-Login (simulate logout),Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-42,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,48
+1764956633920,102,GET Login Page,200,OK,Users 1-32,text,true,,1148,169,50,50,https://microservices.iqbalfadhil.biz.id/login,102,0,46
+1764956628995,5077,Re-Login (simulate logout),Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-44,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,49
+1764956628990,5082,POST /api/auth/login,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-3,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,54
+1764956634098,0,Debug Vars,200,OK,Users 1-38,text,true,,3962,0,50,50,null,0,0,0
+1764956628794,5363,Re-Login (simulate logout),Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-43,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,238
+1764956634160,0,Debug Vars,200,OK,Users 1-39,text,true,,3962,0,50,50,null,0,0,0
+1764956634080,109,GET Login Page,200,OK,Users 1-34,text,true,,1152,169,50,50,https://microservices.iqbalfadhil.biz.id/login,109,0,46
+1764956634162,116,GET Login Page,200,OK,Users 1-24,text,true,,1152,169,50,50,https://microservices.iqbalfadhil.biz.id/login,116,0,52
+1764956634417,0,Debug Vars,200,OK,Users 1-40,text,true,,3960,0,50,50,null,0,0,0
+1764956629358,5077,Re-Login (simulate logout),Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-45,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,49
+1764956634531,106,GET Login Page,200,OK,Users 1-35,text,true,,1154,169,50,50,https://microservices.iqbalfadhil.biz.id/login,106,0,48
+1764956629601,5080,POST /api/auth/login,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-6,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,48
+1764956629622,5077,Re-Login (simulate logout),Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-47,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,48
+1764956634626,101,GET Login Page,200,OK,Users 1-36,text,true,,1154,169,50,50,https://microservices.iqbalfadhil.biz.id/login,101,0,50
+1764956629698,5078,Re-Login (simulate logout),Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-46,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,48
+1764956634684,109,GET Login Page,200,OK,Users 1-37,text,true,,1150,169,50,50,https://microservices.iqbalfadhil.biz.id/login,109,0,51
+1764956634812,0,Debug Vars,200,OK,Users 1-41,text,true,,3962,0,50,50,null,0,0,0
+1764956629763,5078,POST /api/auth/login,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-7,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,50
+1764956629780,5077,Re-Login (simulate logout),Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-48,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,49
+1764956635004,0,Debug Vars,200,OK,Users 1-42,text,true,,3962,0,50,50,null,0,0,0
+1764956629964,5082,POST /api/auth/login,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-8,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,49
+1764956635072,0,Debug Vars,200,OK,Users 1-44,text,true,,3961,0,50,50,null,0,0,0
+1764956635157,0,Debug Vars,200,OK,Users 1-43,text,true,,3962,0,50,50,null,0,0,0
+1764956635100,111,GET Login Page,200,OK,Users 1-38,text,true,,1156,169,50,50,https://microservices.iqbalfadhil.biz.id/login,111,0,56
+1764956635162,110,GET Login Page,200,OK,Users 1-39,text,true,,1150,169,50,50,https://microservices.iqbalfadhil.biz.id/login,110,0,50
+1764956630214,5093,POST /api/auth/login,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-4,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,53
+1764956630250,5089,POST /api/auth/login,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-9,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,61
+1764956630349,5079,POST /api/auth/login,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-10,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,50
+1764956635436,0,Debug Vars,200,OK,Users 1-45,text,true,,3961,0,50,50,null,0,0,0
+1764956635421,118,GET Login Page,200,OK,Users 1-40,text,true,,1152,169,50,50,https://microservices.iqbalfadhil.biz.id/login,117,0,52
+1764956630598,5083,POST /api/auth/login,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-11,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,54
+1764956635700,1,Debug Vars,200,OK,Users 1-47,text,true,,3962,0,50,50,null,0,0,0
+1764956635781,0,Debug Vars,200,OK,Users 1-46,text,true,,3961,0,50,50,null,0,0,0
+1764956630754,5076,POST /api/auth/login,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-12,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,48
+1764956635862,0,Debug Vars,200,OK,Users 1-48,text,true,,3962,0,50,50,null,0,0,0
+1764956635814,110,GET Login Page,200,OK,Users 1-41,text,true,,1158,169,50,50,https://microservices.iqbalfadhil.biz.id/login,110,0,51
+1764956631008,5077,Re-Login (simulate logout),Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-49,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,48
+1764956636006,102,GET Login Page,200,OK,Users 1-42,text,true,,1154,169,50,50,https://microservices.iqbalfadhil.biz.id/login,102,0,47
+1764956636073,117,GET Login Page,200,OK,Users 1-44,text,true,,1150,169,50,50,https://microservices.iqbalfadhil.biz.id/login,117,0,48
+1764956631162,5079,Re-Login (simulate logout),Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-50,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,51
+1764956636158,103,GET Login Page,200,OK,Users 1-43,text,true,,1152,169,50,50,https://microservices.iqbalfadhil.biz.id/login,103,0,47
+1764956631395,5080,POST /api/auth/login,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-14,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,52
+1764956631430,5077,POST /api/auth/login,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-15,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,48
+1764956636438,109,GET Login Page,200,OK,Users 1-45,text,true,,1158,169,50,50,https://microservices.iqbalfadhil.biz.id/login,109,0,49
+1764956631571,5079,POST /api/auth/login,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-16,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,49
+1764956636702,120,GET Login Page,200,OK,Users 1-47,text,true,,1154,169,50,50,https://microservices.iqbalfadhil.biz.id/login,120,0,52
+1764956633635,3260,GET Login Page,200,OK,Users 1-27,text,true,,1156,169,50,50,https://microservices.iqbalfadhil.biz.id/login,3260,0,52
+1764956636865,108,GET Login Page,200,OK,Users 1-48,text,true,,1148,169,50,50,https://microservices.iqbalfadhil.biz.id/login,108,0,48
+1764956637088,0,Debug Vars,200,OK,Users 1-49,text,true,,3961,0,50,50,null,0,0,0
+1764956632030,5080,POST /api/auth/login,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-13,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,49
+1764956632122,5078,POST /api/auth/login,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-19,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,48
+1764956637242,0,Debug Vars,200,OK,Users 1-50,text,true,,3962,0,50,50,null,0,0,0
+1764956632286,5092,POST /api/auth/login,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-18,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,64
+1764956632335,5077,POST /api/auth/login,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-20,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,48
+1764956632714,5080,POST /api/auth/login,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-22,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,51
+1764956636785,1127,GET Login Page,200,OK,Users 1-46,text,true,,1158,169,50,50,https://microservices.iqbalfadhil.biz.id/login,1127,0,1062
+1764956632882,5078,POST /api/auth/login,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-21,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,50
+1764956633063,5094,POST /api/auth/login,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-23,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,61
+1764956637419,115,GET Login Page,200,OK,Users 1-49,text,true,,1150,169,50,50,https://microservices.iqbalfadhil.biz.id/login,114,0,53
+1764956633341,5078,POST /api/auth/login,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-25,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,50
+1764956637570,521,GET Login Page,200,OK,Users 1-50,text,true,,1152,169,50,50,https://microservices.iqbalfadhil.biz.id/login,521,0,48
+1764956634052,5095,POST /api/auth/login,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-28,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,50
+1764956634329,5077,POST /api/auth/login,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-29,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,47
+1764956634361,5083,POST /api/auth/login,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-30,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,52
+1764956634463,5092,POST /api/auth/login,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-17,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,49
+1764956634658,5081,POST /api/auth/login,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-5,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,51
+1764956634668,5079,POST /api/auth/login,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-31,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,46
+1764956634780,5083,GET /api/auth/me?token=XXX,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-1,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=,0,0,52
+1764956634805,5079,POST /api/auth/login,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-26,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,51
+1764956634871,5081,GET /api/auth/me?token=XXX,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-2,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=,0,0,51
+1764956634997,5083,POST /api/auth/login,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-33,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,52
+1764956635023,5075,POST /api/auth/login,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-32,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,48
+1764956635074,5077,GET /api/auth/me?token=XXX,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-3,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=,0,0,49
+1764956635191,5075,POST /api/auth/login,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-34,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,47
+1764956635282,5078,POST /api/auth/login,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-24,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,49
+1764956635640,5080,POST /api/auth/login,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-35,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,49
+1764956635683,5080,GET /api/auth/me?token=XXX,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-6,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=,0,0,48
+1764956635728,5081,POST /api/auth/login,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-36,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,52
+1764956635795,5078,POST /api/auth/login,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-37,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,49
+1764956635844,5074,GET /api/auth/me?token=XXX,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-7,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=,0,0,46
+1764956640191,108,GET /questions,200,OK,Users 1-1,text,true,,2417,178,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,108,0,49
+1764956640280,110,GET /questions,200,OK,Users 1-2,text,true,,2421,178,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,110,0,47
+1764956636050,5077,GET /api/auth/me?token=XXX,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-8,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=,0,0,48
+1764956640477,105,GET /questions,200,OK,Users 1-3,text,true,,2419,178,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,105,0,45
+1764956636213,5077,POST /api/auth/login,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-38,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,49
+1764956636274,5085,POST /api/auth/login,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-39,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,55
+1764956636309,5077,GET /api/auth/me?token=XXX,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-4,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=,0,0,48
+1764956636342,5081,GET /api/auth/me?token=XXX,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-9,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=,0,0,49
+1764956636430,5080,GET /api/auth/me?token=XXX,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-10,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=,0,0,50
+1764956636685,5082,GET /api/auth/me?token=XXX,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-11,text,false,,3145,0,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=,0,0,53
+1764956641090,107,GET /questions,200,OK,Users 1-6,text,true,,2417,178,49,49,https://test-microservices.iqbalfadhil.biz.id/questions,106,0,48
+1764956636833,5074,GET /api/auth/me?token=XXX,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-12,text,false,,3145,0,48,48,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=,0,0,48
+1764956636926,5073,POST /api/auth/login,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-41,text,false,,3145,0,47,47,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,48
+1764956641244,108,GET /questions,200,OK,Users 1-7,text,true,,2411,178,46,46,https://test-microservices.iqbalfadhil.biz.id/questions,107,0,49
+1764956636540,5497,POST /api/auth/login,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-40,text,false,,3145,0,45,45,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,313
+1764956641302,108,POST /submit,401,Unauthorized,Users 1-1,text,false,,606,633,44,44,https://test-microservices.iqbalfadhil.biz.id/submit?token=,108,0,46
+1764956641391,105,POST /submit,401,Unauthorized,Users 1-2,text,false,,602,633,43,43,https://test-microservices.iqbalfadhil.biz.id/submit?token=,105,0,47
+1764956637110,5082,POST /api/auth/login,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-42,text,false,,3145,0,42,42,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,53
+1764956641454,110,GET /questions,200,OK,Users 1-8,text,true,,2417,178,41,41,https://test-microservices.iqbalfadhil.biz.id/questions,110,0,48
+1764956637192,5077,POST /api/auth/login,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-44,text,false,,3145,0,40,40,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,52
+1764956637264,5072,POST /api/auth/login,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-43,text,false,,3145,0,39,39,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,47
+1764956641584,110,POST /submit,401,Unauthorized,Users 1-3,text,false,,600,633,38,38,https://test-microservices.iqbalfadhil.biz.id/submit?token=,110,0,51
+1764956641713,108,GET /questions,200,OK,Users 1-4,text,true,,2415,178,37,37,https://test-microservices.iqbalfadhil.biz.id/questions,108,0,47
+1764956637478,5085,GET /api/auth/me?token=XXX,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-14,text,false,,3145,0,36,36,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=,0,0,56
+1764956641751,147,GET /questions,200,OK,Users 1-9,text,true,,2423,178,35,35,https://test-microservices.iqbalfadhil.biz.id/questions,147,0,47
+1764956637510,5078,GET /api/auth/me?token=XXX,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-15,text,false,,3145,0,34,34,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=,0,0,50
+1764956637549,5073,POST /api/auth/login,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-45,text,false,,3145,0,33,33,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,50
+1764956641837,133,GET /questions,200,OK,Users 1-10,text,true,,2411,178,32,32,https://test-microservices.iqbalfadhil.biz.id/questions,132,0,46
+1764956637653,5077,GET /api/auth/me?token=XXX,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-16,text,false,,3145,0,31,31,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=,0,0,48
+1764956637824,5078,POST /api/auth/login,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-47,text,false,,3145,0,30,30,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,49
+1764956637897,5077,POST /api/auth/login,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-27,text,false,,3145,0,29,29,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,49
+1764956637300,5077,POST /api/auth/login,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-48,text,false,,3145,0,28,28,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,49
+1764956637440,5080,GET /api/auth/me?token=XXX,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-13,text,false,,3145,0,27,27,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=,0,0,48
+1764956637528,5093,GET /api/auth/me?token=XXX,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-19,text,false,,3145,0,26,26,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=,0,0,65
+1764956637707,5097,GET /api/auth/me?token=XXX,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-18,text,false,,3145,0,25,25,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=,0,0,66
+1764956637742,5080,GET /api/auth/me?token=XXX,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-20,text,false,,3145,0,24,24,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=,0,0,50
+1764956638122,5080,GET /api/auth/me?token=XXX,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-22,text,false,,3145,0,23,23,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=,0,0,49
+1764956638240,5079,POST /api/auth/login,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-46,text,false,,3145,0,22,22,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,49
+1764956638288,5081,GET /api/auth/me?token=XXX,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-21,text,false,,3145,0,21,21,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=,0,0,52
+1764956638484,5077,GET /api/auth/me?token=XXX,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-23,text,false,,3145,0,20,20,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=,0,0,49
+1764956638538,5081,POST /api/auth/login,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-49,text,false,,3145,0,19,19,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,50
+1764956638747,5086,GET /api/auth/me?token=XXX,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-25,text,false,,3145,0,18,18,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=,0,0,51
+1764956639095,5076,POST /api/auth/login,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-50,text,false,,3145,0,17,17,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,0,0,48
+1764956639478,5220,GET /api/auth/me?token=XXX,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-28,text,false,,3145,0,16,16,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=,0,0,154
+1764956639736,5079,GET /api/auth/me?token=XXX,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-29,text,false,,3145,0,15,15,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=,0,0,49
+1764956639773,5079,GET /api/auth/me?token=XXX,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-30,text,false,,3145,0,14,14,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=,0,0,51
+1764956639884,5081,GET /api/auth/me?token=XXX,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-17,text,false,,3145,0,13,13,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=,0,0,53
+1764956640070,5080,GET /api/auth/me?token=XXX,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-5,text,false,,3145,0,12,12,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=,0,0,49
+1764956640080,5077,GET /api/auth/me?token=XXX,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-31,text,false,,3145,0,11,11,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=,0,0,49
+1764956640213,5083,GET /api/auth/me?token=XXX,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-26,text,false,,3145,0,10,10,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=,0,0,52
+1764956640410,5081,GET /api/auth/me?token=XXX,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-33,text,false,,3145,0,9,9,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=,0,0,50
+1764956640430,5081,GET /api/auth/me?token=XXX,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-32,text,false,,3145,0,8,8,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=,0,0,49
+1764956640594,5081,GET /api/auth/me?token=XXX,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-34,text,false,,3145,0,7,7,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=,0,0,48
+1764956640688,5079,GET /api/auth/me?token=XXX,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-24,text,false,,3145,0,6,6,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=,0,0,50
+1764956641049,5076,GET /api/auth/me?token=XXX,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-35,text,false,,3145,0,5,5,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=,0,0,47
+1764956641137,5077,GET /api/auth/me?token=XXX,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-36,text,false,,3145,0,4,4,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=,0,0,48
+1764956641201,5081,GET /api/auth/me?token=XXX,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-37,text,false,,3145,0,3,3,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=,0,0,50
+1764956641618,5076,GET /api/auth/me?token=XXX,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-38,text,false,,3145,0,2,2,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=,0,0,47
+1764956641686,5120,GET /api/auth/me?token=XXX,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-39,text,false,,3145,0,1,1,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=,0,0,88

@@ -1,0 +1,4 @@
+architecture,concurrency,flows,total_steps,duration_sec,throughput_steps_per_sec,avg_latency_ms,min_latency_ms,max_latency_ms,error_count,error_rate,success_count
+ms_nodejs_postgresql,10,50,250,3.19,78.43,126.39,53.36,456.57,0,0.0,250
+ms_nodejs_postgresql,20,50,250,2.97,84.14,142.56,55.14,2531.29,0,0.0,250
+ms_nodejs_postgresql,50,50,250,1.42,176.11,248.77,63.7,793.36,0,0.0,250

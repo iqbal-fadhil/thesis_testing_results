@@ -1,0 +1,4 @@
+architecture,concurrency,flows,total_steps,duration_sec,throughput_steps_per_sec,avg_latency_ms,min_latency_ms,max_latency_ms,error_count,error_rate,success_count
+ms_go_mysql,10,50,250,3.4,73.59,122.52,49.4,525.21,0,0.0,250
+ms_go_mysql,20,50,250,1.85,134.87,131.05,48.4,424.11,0,0.0,250
+ms_go_mysql,50,50,250,3.65,68.54,240.95,48.7,2391.82,0,0.0,250

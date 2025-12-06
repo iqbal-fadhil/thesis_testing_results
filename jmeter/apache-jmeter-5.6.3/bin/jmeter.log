@@ -1,0 +1,543 @@
+2025-12-06 00:38:09,365 INFO o.a.j.u.JMeterUtils: Setting Locale to en_EN
+2025-12-06 00:38:09,393 INFO o.a.j.JMeter: Loading user properties from: user.properties
+2025-12-06 00:38:09,393 INFO o.a.j.JMeter: Loading system properties from: system.properties
+2025-12-06 00:38:09,401 INFO o.a.j.JMeter: Copyright (c) 1998-2024 The Apache Software Foundation
+2025-12-06 00:38:09,402 INFO o.a.j.JMeter: Version 5.6.3
+2025-12-06 00:38:09,402 INFO o.a.j.JMeter: java.version=17.0.17
+2025-12-06 00:38:09,402 INFO o.a.j.JMeter: java.vm.name=OpenJDK 64-Bit Server VM
+2025-12-06 00:38:09,402 INFO o.a.j.JMeter: os.name=Linux
+2025-12-06 00:38:09,402 INFO o.a.j.JMeter: os.arch=amd64
+2025-12-06 00:38:09,402 INFO o.a.j.JMeter: os.version=6.6.87.2-microsoft-standard-WSL2
+2025-12-06 00:38:09,402 INFO o.a.j.JMeter: file.encoding=UTF-8
+2025-12-06 00:38:09,402 INFO o.a.j.JMeter: java.awt.headless=null
+2025-12-06 00:38:09,402 INFO o.a.j.JMeter: Max memory     =1073741824
+2025-12-06 00:38:09,402 INFO o.a.j.JMeter: Available Processors =8
+2025-12-06 00:38:09,416 INFO o.a.j.JMeter: Default Locale=English (EN)
+2025-12-06 00:38:09,416 INFO o.a.j.JMeter: JMeter  Locale=English (EN)
+2025-12-06 00:38:09,417 INFO o.a.j.JMeter: JMeterHome=/opt/jmeter
+2025-12-06 00:38:09,417 INFO o.a.j.JMeter: user.dir  =/home/iqbal/jmeter/apache-jmeter-5.6.3/bin
+2025-12-06 00:38:09,417 INFO o.a.j.JMeter: PWD       =/home/iqbal/jmeter/apache-jmeter-5.6.3/bin
+2025-12-06 00:38:09,417 INFO o.a.j.JMeter: IP: 127.0.1.1 Name: DESKTOP-CABJ0GP FullName: DESKTOP-CABJ0GP.localdomain
+2025-12-06 00:38:09,441 INFO o.a.j.JMeter: Loaded icon properties from org/apache/jmeter/images/icon.properties
+2025-12-06 00:38:10,162 INFO o.a.j.JMeterGuiLauncher: Setting LAF to: com.github.weisj.darklaf.DarkLaf:com.github.weisj.darklaf.theme.DarculaTheme
+2025-12-06 00:38:33,365 INFO o.a.j.s.FileServer: Default base='/home/iqbal/jmeter/apache-jmeter-5.6.3/bin'
+2025-12-06 00:38:33,368 INFO o.a.j.g.a.Load: Loading file: /home/iqbal/jmeter/apache-jmeter-5.6.3/bin/microservices-robust_2.jmx
+2025-12-06 00:38:33,368 INFO o.a.j.s.FileServer: Set new base='/home/iqbal/jmeter/apache-jmeter-5.6.3/bin'
+2025-12-06 00:38:33,558 INFO o.a.j.s.SaveService: Testplan (JMX) version: 2.2. Testlog (JTL) version: 2.2
+2025-12-06 00:38:33,593 INFO o.a.j.s.SaveService: Using SaveService properties version 5.0
+2025-12-06 00:38:33,595 INFO o.a.j.s.SaveService: Using SaveService properties file encoding UTF-8
+2025-12-06 00:38:33,597 INFO o.a.j.s.SaveService: Loading file: /home/iqbal/jmeter/apache-jmeter-5.6.3/bin/microservices-robust_2.jmx
+2025-12-06 00:38:33,617 INFO o.a.j.p.h.c.CookieManager: Settings: Delete null: true Check: true Allow variable: true Save: false Prefix: COOKIE_
+2025-12-06 00:38:33,623 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/html is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2025-12-06 00:38:33,623 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xhtml+xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2025-12-06 00:38:33,623 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2025-12-06 00:38:33,623 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2025-12-06 00:38:33,623 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/vnd.wap.wml is org.apache.jmeter.protocol.http.parser.RegexpHTMLParser
+2025-12-06 00:38:33,623 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/css is org.apache.jmeter.protocol.http.parser.CssParser
+2025-12-06 00:38:34,331 INFO o.a.j.s.SampleResult: Note: Sample TimeStamps are START times
+2025-12-06 00:38:34,331 INFO o.a.j.s.SampleResult: sampleresult.default.encoding is set to UTF-8
+2025-12-06 00:38:34,331 INFO o.a.j.s.SampleResult: sampleresult.useNanoTime=true
+2025-12-06 00:38:34,331 INFO o.a.j.s.SampleResult: sampleresult.nanoThreadSleep=5000
+2025-12-06 00:38:34,550 INFO o.a.j.s.FileServer: Set new base='/home/iqbal/jmeter/apache-jmeter-5.6.3/bin'
+2025-12-06 00:39:30,455 INFO o.a.j.e.StandardJMeterEngine: Running the test!
+2025-12-06 00:39:30,457 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2025-12-06 00:39:30,458 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2025-12-06 00:39:30,459 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must contain the string: '.functions.'
+2025-12-06 00:39:30,459 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must not contain the string: '.gui.'
+2025-12-06 00:39:30,503 INFO o.a.j.g.u.JMeterMenuBar: setRunning(true, *local*)
+2025-12-06 00:39:30,546 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 1 : Users
+2025-12-06 00:39:30,547 INFO o.a.j.e.StandardJMeterEngine: Starting 10 threads for group Users.
+2025-12-06 00:39:30,547 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2025-12-06 00:39:30,547 INFO o.a.j.t.ThreadGroup: Starting thread group... number=1 threads=10 ramp-up=10 delayedStart=false
+2025-12-06 00:39:30,550 INFO o.a.j.t.JMeterThread: Thread started: Users 1-1
+2025-12-06 00:39:30,556 INFO o.a.j.t.ThreadGroup: Started thread group number 1
+2025-12-06 00:39:30,557 INFO o.a.j.e.StandardJMeterEngine: All thread groups have been started
+2025-12-06 00:39:31,550 INFO o.a.j.t.JMeterThread: Thread started: Users 1-2
+2025-12-06 00:39:31,566 INFO o.a.j.p.h.s.HTTPHCAbstractImpl: Local host = DESKTOP-CABJ0GP
+2025-12-06 00:39:31,572 INFO o.a.j.p.h.s.HTTPHC4Impl: HTTP request retry count = 0
+2025-12-06 00:39:31,690 INFO o.a.j.p.h.s.h.LazyLayeredConnectionSocketFactory: Setting up HTTPS TrustAll Socket Factory
+2025-12-06 00:39:31,694 INFO o.a.j.u.JsseSSLManager: Using default SSL protocol: TLS
+2025-12-06 00:39:31,694 INFO o.a.j.u.JsseSSLManager: SSL session context: per-thread
+2025-12-06 00:39:31,809 INFO o.a.j.u.SSLManager: JmeterKeyStore Location:  type JKS
+2025-12-06 00:39:31,814 INFO o.a.j.u.SSLManager: KeyStore created OK
+2025-12-06 00:39:31,814 WARN o.a.j.u.SSLManager: Keystore file not found, loading empty keystore
+2025-12-06 00:39:32,549 INFO o.a.j.t.JMeterThread: Thread started: Users 1-3
+2025-12-06 00:39:33,550 INFO o.a.j.t.JMeterThread: Thread started: Users 1-4
+2025-12-06 00:39:34,550 INFO o.a.j.t.JMeterThread: Thread started: Users 1-5
+2025-12-06 00:39:35,551 INFO o.a.j.t.JMeterThread: Thread started: Users 1-6
+2025-12-06 00:39:36,562 INFO o.a.j.t.JMeterThread: Thread started: Users 1-7
+2025-12-06 00:39:37,550 INFO o.a.j.t.JMeterThread: Thread started: Users 1-8
+2025-12-06 00:39:38,548 INFO o.a.j.t.JMeterThread: Thread started: Users 1-9
+2025-12-06 00:39:39,265 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:39:39,265 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:39:39,549 INFO o.a.j.t.JMeterThread: Thread started: Users 1-10
+2025-12-06 00:39:39,826 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:39:40,803 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:39:41,785 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:39:42,814 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:39:43,811 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:39:44,802 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:39:45,091 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:39:46,060 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:40:01,430 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:40:01,460 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:40:02,873 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:40:03,714 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:40:03,875 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:40:04,811 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:40:05,829 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:40:07,449 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:40:07,769 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:40:08,706 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:40:23,378 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:40:23,472 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:40:24,925 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:40:25,910 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:40:26,675 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:40:26,831 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:40:27,867 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:40:29,399 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:40:29,553 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-1
+2025-12-06 00:40:29,888 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:40:29,889 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-9
+2025-12-06 00:40:30,586 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-2
+2025-12-06 00:40:30,587 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-2
+2025-12-06 00:40:30,733 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:40:30,733 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-10
+2025-12-06 00:40:30,734 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-10
+2025-12-06 00:40:31,010 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-4
+2025-12-06 00:40:31,010 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-4
+2025-12-06 00:40:31,999 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-3
+2025-12-06 00:40:31,999 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-3
+2025-12-06 00:40:32,767 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-5
+2025-12-06 00:40:32,767 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-5
+2025-12-06 00:40:32,918 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-6
+2025-12-06 00:40:32,918 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-6
+2025-12-06 00:40:33,958 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-7
+2025-12-06 00:40:33,959 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-7
+2025-12-06 00:40:35,484 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-8
+2025-12-06 00:40:35,484 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-8
+2025-12-06 00:40:35,485 INFO o.a.j.e.StandardJMeterEngine: Notifying test listeners of end of test
+2025-12-06 00:40:35,487 INFO o.a.j.g.u.JMeterMenuBar: setRunning(false, *local*)
+2025-12-06 00:41:34,416 INFO o.a.j.e.StandardJMeterEngine: Running the test!
+2025-12-06 00:41:34,416 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2025-12-06 00:41:34,418 INFO o.a.j.g.u.JMeterMenuBar: setRunning(true, *local*)
+2025-12-06 00:41:34,467 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 1 : Users
+2025-12-06 00:41:34,467 INFO o.a.j.e.StandardJMeterEngine: Starting 20 threads for group Users.
+2025-12-06 00:41:34,467 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2025-12-06 00:41:34,467 INFO o.a.j.t.ThreadGroup: Starting thread group... number=1 threads=20 ramp-up=10 delayedStart=false
+2025-12-06 00:41:34,468 INFO o.a.j.t.JMeterThread: Thread started: Users 1-1
+2025-12-06 00:41:34,484 INFO o.a.j.t.ThreadGroup: Started thread group number 1
+2025-12-06 00:41:34,484 INFO o.a.j.e.StandardJMeterEngine: All thread groups have been started
+2025-12-06 00:41:34,978 INFO o.a.j.t.JMeterThread: Thread started: Users 1-2
+2025-12-06 00:41:35,470 INFO o.a.j.t.JMeterThread: Thread started: Users 1-3
+2025-12-06 00:41:35,975 INFO o.a.j.t.JMeterThread: Thread started: Users 1-4
+2025-12-06 00:41:36,472 INFO o.a.j.t.JMeterThread: Thread started: Users 1-5
+2025-12-06 00:41:36,975 INFO o.a.j.t.JMeterThread: Thread started: Users 1-6
+2025-12-06 00:41:37,476 INFO o.a.j.t.JMeterThread: Thread started: Users 1-7
+2025-12-06 00:41:37,977 INFO o.a.j.t.JMeterThread: Thread started: Users 1-8
+2025-12-06 00:41:38,472 INFO o.a.j.t.JMeterThread: Thread started: Users 1-9
+2025-12-06 00:41:38,974 INFO o.a.j.t.JMeterThread: Thread started: Users 1-10
+2025-12-06 00:41:39,470 INFO o.a.j.t.JMeterThread: Thread started: Users 1-11
+2025-12-06 00:41:39,970 INFO o.a.j.t.JMeterThread: Thread started: Users 1-12
+2025-12-06 00:41:40,469 INFO o.a.j.t.JMeterThread: Thread started: Users 1-13
+2025-12-06 00:41:40,971 INFO o.a.j.t.JMeterThread: Thread started: Users 1-14
+2025-12-06 00:41:41,470 INFO o.a.j.t.JMeterThread: Thread started: Users 1-15
+2025-12-06 00:41:41,744 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:41:41,971 INFO o.a.j.t.JMeterThread: Thread started: Users 1-16
+2025-12-06 00:41:42,220 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:41:42,469 INFO o.a.j.t.JMeterThread: Thread started: Users 1-17
+2025-12-06 00:41:42,699 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:41:42,969 INFO o.a.j.t.JMeterThread: Thread started: Users 1-18
+2025-12-06 00:41:43,218 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:41:43,469 INFO o.a.j.t.JMeterThread: Thread started: Users 1-19
+2025-12-06 00:41:43,720 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:41:43,971 INFO o.a.j.t.JMeterThread: Thread started: Users 1-20
+2025-12-06 00:41:44,206 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:41:44,726 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:41:45,321 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:41:45,684 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:41:46,188 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:41:46,691 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:41:47,173 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:41:47,668 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:41:48,178 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:41:48,708 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:41:49,175 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:41:49,687 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:41:50,181 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:41:50,701 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:41:51,179 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:42:04,183 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:42:04,664 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:42:05,007 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:42:05,166 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:42:05,721 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:42:06,154 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:42:07,335 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:42:07,724 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:42:08,176 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:42:08,679 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:42:08,907 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:42:09,150 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:42:09,646 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:42:10,135 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:42:10,710 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:42:11,144 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:42:11,674 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:42:12,696 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:42:13,151 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:42:15,101 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:42:26,168 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:42:26,632 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:42:26,934 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:42:27,089 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:42:27,705 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:42:28,421 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:42:29,288 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:42:29,686 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:42:30,099 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:42:30,600 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:42:30,899 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:42:31,081 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:42:31,591 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:42:32,098 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:42:32,655 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:42:33,060 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:42:33,690 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:42:33,690 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-17
+2025-12-06 00:42:33,786 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-5
+2025-12-06 00:42:33,825 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-3
+2025-12-06 00:42:34,140 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-1
+2025-12-06 00:42:34,378 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-4
+2025-12-06 00:42:34,472 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-2
+2025-12-06 00:42:34,473 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-2
+2025-12-06 00:42:34,507 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-6
+2025-12-06 00:42:34,507 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-6
+2025-12-06 00:42:34,822 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:42:34,823 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-19
+2025-12-06 00:42:34,823 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-19
+2025-12-06 00:42:35,081 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:42:35,081 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-20
+2025-12-06 00:42:35,081 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-20
+2025-12-06 00:42:35,374 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-8
+2025-12-06 00:42:35,374 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-8
+2025-12-06 00:42:35,781 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-9
+2025-12-06 00:42:35,781 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-9
+2025-12-06 00:42:36,183 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-10
+2025-12-06 00:42:36,183 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-10
+2025-12-06 00:42:36,679 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-11
+2025-12-06 00:42:36,679 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-11
+2025-12-06 00:42:36,987 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-7
+2025-12-06 00:42:36,987 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-7
+2025-12-06 00:42:37,032 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:42:37,032 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-18
+2025-12-06 00:42:37,032 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-18
+2025-12-06 00:42:37,162 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-12
+2025-12-06 00:42:37,163 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-12
+2025-12-06 00:42:37,677 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-13
+2025-12-06 00:42:37,677 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-13
+2025-12-06 00:42:38,190 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-14
+2025-12-06 00:42:38,190 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-14
+2025-12-06 00:42:38,739 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-15
+2025-12-06 00:42:38,739 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-15
+2025-12-06 00:42:39,146 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-16
+2025-12-06 00:42:39,146 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-16
+2025-12-06 00:42:39,147 INFO o.a.j.e.StandardJMeterEngine: Notifying test listeners of end of test
+2025-12-06 00:42:39,147 INFO o.a.j.g.u.JMeterMenuBar: setRunning(false, *local*)
+2025-12-06 00:43:01,834 INFO o.a.j.e.StandardJMeterEngine: Running the test!
+2025-12-06 00:43:01,834 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2025-12-06 00:43:01,835 INFO o.a.j.g.u.JMeterMenuBar: setRunning(true, *local*)
+2025-12-06 00:43:01,887 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 1 : Users
+2025-12-06 00:43:01,887 INFO o.a.j.e.StandardJMeterEngine: Starting 50 threads for group Users.
+2025-12-06 00:43:01,887 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2025-12-06 00:43:01,888 INFO o.a.j.t.ThreadGroup: Starting thread group... number=1 threads=50 ramp-up=10 delayedStart=false
+2025-12-06 00:43:01,889 INFO o.a.j.t.JMeterThread: Thread started: Users 1-1
+2025-12-06 00:43:01,909 INFO o.a.j.t.ThreadGroup: Started thread group number 1
+2025-12-06 00:43:01,909 INFO o.a.j.e.StandardJMeterEngine: All thread groups have been started
+2025-12-06 00:43:02,092 INFO o.a.j.t.JMeterThread: Thread started: Users 1-2
+2025-12-06 00:43:02,289 INFO o.a.j.t.JMeterThread: Thread started: Users 1-3
+2025-12-06 00:43:02,492 INFO o.a.j.t.JMeterThread: Thread started: Users 1-4
+2025-12-06 00:43:02,692 INFO o.a.j.t.JMeterThread: Thread started: Users 1-5
+2025-12-06 00:43:02,889 INFO o.a.j.t.JMeterThread: Thread started: Users 1-6
+2025-12-06 00:43:03,093 INFO o.a.j.t.JMeterThread: Thread started: Users 1-7
+2025-12-06 00:43:03,291 INFO o.a.j.t.JMeterThread: Thread started: Users 1-8
+2025-12-06 00:43:03,489 INFO o.a.j.t.JMeterThread: Thread started: Users 1-9
+2025-12-06 00:43:03,691 INFO o.a.j.t.JMeterThread: Thread started: Users 1-10
+2025-12-06 00:43:03,890 INFO o.a.j.t.JMeterThread: Thread started: Users 1-11
+2025-12-06 00:43:04,090 INFO o.a.j.t.JMeterThread: Thread started: Users 1-12
+2025-12-06 00:43:04,290 INFO o.a.j.t.JMeterThread: Thread started: Users 1-13
+2025-12-06 00:43:04,488 INFO o.a.j.t.JMeterThread: Thread started: Users 1-14
+2025-12-06 00:43:04,690 INFO o.a.j.t.JMeterThread: Thread started: Users 1-15
+2025-12-06 00:43:04,892 INFO o.a.j.t.JMeterThread: Thread started: Users 1-16
+2025-12-06 00:43:05,093 INFO o.a.j.t.JMeterThread: Thread started: Users 1-17
+2025-12-06 00:43:05,290 INFO o.a.j.t.JMeterThread: Thread started: Users 1-18
+2025-12-06 00:43:05,490 INFO o.a.j.t.JMeterThread: Thread started: Users 1-19
+2025-12-06 00:43:05,690 INFO o.a.j.t.JMeterThread: Thread started: Users 1-20
+2025-12-06 00:43:05,891 INFO o.a.j.t.JMeterThread: Thread started: Users 1-21
+2025-12-06 00:43:06,091 INFO o.a.j.t.JMeterThread: Thread started: Users 1-22
+2025-12-06 00:43:06,290 INFO o.a.j.t.JMeterThread: Thread started: Users 1-23
+2025-12-06 00:43:06,491 INFO o.a.j.t.JMeterThread: Thread started: Users 1-24
+2025-12-06 00:43:06,690 INFO o.a.j.t.JMeterThread: Thread started: Users 1-25
+2025-12-06 00:43:06,891 INFO o.a.j.t.JMeterThread: Thread started: Users 1-26
+2025-12-06 00:43:07,093 INFO o.a.j.t.JMeterThread: Thread started: Users 1-27
+2025-12-06 00:43:07,291 INFO o.a.j.t.JMeterThread: Thread started: Users 1-28
+2025-12-06 00:43:07,491 INFO o.a.j.t.JMeterThread: Thread started: Users 1-29
+2025-12-06 00:43:07,689 INFO o.a.j.t.JMeterThread: Thread started: Users 1-30
+2025-12-06 00:43:07,890 INFO o.a.j.t.JMeterThread: Thread started: Users 1-31
+2025-12-06 00:43:08,090 INFO o.a.j.t.JMeterThread: Thread started: Users 1-32
+2025-12-06 00:43:08,290 INFO o.a.j.t.JMeterThread: Thread started: Users 1-33
+2025-12-06 00:43:08,491 INFO o.a.j.t.JMeterThread: Thread started: Users 1-34
+2025-12-06 00:43:08,690 INFO o.a.j.t.JMeterThread: Thread started: Users 1-35
+2025-12-06 00:43:08,889 INFO o.a.j.t.JMeterThread: Thread started: Users 1-36
+2025-12-06 00:43:09,090 INFO o.a.j.t.JMeterThread: Thread started: Users 1-37
+2025-12-06 00:43:09,147 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:43:09,289 INFO o.a.j.t.JMeterThread: Thread started: Users 1-38
+2025-12-06 00:43:09,321 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:43:09,493 INFO o.a.j.t.JMeterThread: Thread started: Users 1-39
+2025-12-06 00:43:09,546 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:43:09,694 INFO o.a.j.t.JMeterThread: Thread started: Users 1-40
+2025-12-06 00:43:09,891 INFO o.a.j.t.JMeterThread: Thread started: Users 1-41
+2025-12-06 00:43:09,892 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:43:10,085 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:43:10,096 INFO o.a.j.t.JMeterThread: Thread started: Users 1-42
+2025-12-06 00:43:10,290 INFO o.a.j.t.JMeterThread: Thread started: Users 1-43
+2025-12-06 00:43:10,303 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:43:10,490 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:43:10,490 INFO o.a.j.t.JMeterThread: Thread started: Users 1-44
+2025-12-06 00:43:10,691 INFO o.a.j.t.JMeterThread: Thread started: Users 1-45
+2025-12-06 00:43:10,710 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:43:10,714 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:43:10,889 INFO o.a.j.t.JMeterThread: Thread started: Users 1-46
+2025-12-06 00:43:10,921 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:43:11,089 INFO o.a.j.t.JMeterThread: Thread started: Users 1-47
+2025-12-06 00:43:11,096 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:43:11,290 INFO o.a.j.t.JMeterThread: Thread started: Users 1-48
+2025-12-06 00:43:11,312 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:43:11,483 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:43:11,488 INFO o.a.j.t.JMeterThread: Thread started: Users 1-49
+2025-12-06 00:43:11,690 INFO o.a.j.t.JMeterThread: Thread started: Users 1-50
+2025-12-06 00:43:11,714 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:43:11,885 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:43:12,091 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:43:12,285 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:43:12,487 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:43:12,689 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:43:12,878 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:43:13,094 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:43:13,298 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:43:13,485 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:43:13,697 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:43:13,889 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:43:14,087 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:43:14,297 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:43:14,505 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:43:14,691 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:43:14,907 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:43:15,115 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:43:15,286 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:43:15,489 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:43:15,688 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:43:15,895 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:43:16,118 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:43:16,285 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:43:16,492 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:43:16,744 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:43:16,909 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:43:17,123 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:43:17,320 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:43:17,511 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:43:17,708 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:43:17,877 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:43:18,126 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:43:18,338 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:43:18,505 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:43:18,686 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:43:18,886 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:43:31,167 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:43:31,251 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:43:31,477 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:43:31,815 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:43:32,040 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:43:32,213 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:43:32,448 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:43:32,635 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:43:32,725 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:43:32,857 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:43:33,086 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:43:33,242 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:43:33,867 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:43:33,889 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:43:34,048 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:43:34,480 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:43:34,504 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:43:34,624 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:43:34,789 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:43:35,071 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:43:35,210 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:43:35,551 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:43:35,820 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:43:36,272 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:43:36,454 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:43:36,602 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:43:36,703 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:43:36,845 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:43:36,937 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:43:37,108 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:43:37,157 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:43:37,477 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:43:37,548 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:43:37,698 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:43:37,870 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:43:38,204 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:43:38,266 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:43:38,421 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:43:38,669 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:43:38,879 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:43:39,395 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:43:39,466 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:43:39,547 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:43:39,651 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:43:40,015 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:43:40,290 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:43:40,373 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:43:40,429 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:43:41,698 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:43:41,861 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:43:53,779 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:43:53,871 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:43:54,073 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:43:54,682 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:43:54,842 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:43:55,048 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:43:55,308 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:43:55,341 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:43:55,429 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:43:55,682 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:43:55,831 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:43:56,476 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:43:56,508 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:43:56,652 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:43:57,112 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:43:57,201 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:43:57,380 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:43:57,413 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:43:57,120 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:43:57,287 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:43:57,483 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:43:57,746 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:43:58,473 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:43:58,732 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:43:58,770 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:43:58,882 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:43:59,065 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:43:59,073 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:43:59,211 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:43:59,407 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:43:59,424 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:43:59,593 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:43:59,686 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:44:00,046 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:44:00,135 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:44:00,199 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:44:00,617 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:44:00,685 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:44:01,093 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-11
+2025-12-06 00:44:01,197 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-6
+2025-12-06 00:44:01,233 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-12
+2025-12-06 00:44:01,325 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:44:01,325 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-41
+2025-12-06 00:44:01,352 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-7
+2025-12-06 00:44:01,363 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:44:01,364 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-40
+2025-12-06 00:44:01,410 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-1
+2025-12-06 00:44:01,496 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-2
+2025-12-06 00:44:01,519 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:44:01,519 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-42
+2025-12-06 00:44:01,564 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-8
+2025-12-06 00:44:01,595 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:44:01,596 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-44
+2025-12-06 00:44:01,663 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:44:01,663 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-43
+2025-12-06 00:44:01,694 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-3
+2025-12-06 00:44:01,821 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-4
+2025-12-06 00:44:01,889 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-14
+2025-12-06 00:44:01,898 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-9
+2025-12-06 00:44:01,898 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-9
+2025-12-06 00:44:01,914 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-15
+2025-12-06 00:44:01,914 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-15
+2025-12-06 00:44:01,948 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:44:01,948 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-45
+2025-12-06 00:44:01,948 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-45
+2025-12-06 00:44:01,970 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-10
+2025-12-06 00:44:01,970 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-10
+2025-12-06 00:44:02,056 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-16
+2025-12-06 00:44:02,056 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-16
+2025-12-06 00:44:02,228 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:44:02,229 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-47
+2025-12-06 00:44:02,229 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-47
+2025-12-06 00:44:02,300 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:44:02,301 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-27
+2025-12-06 00:44:02,301 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-27
+2025-12-06 00:44:02,377 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:44:02,377 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-48
+2025-12-06 00:44:02,377 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-48
+2025-12-06 00:44:02,520 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-13
+2025-12-06 00:44:02,520 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-13
+2025-12-06 00:44:02,621 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-19
+2025-12-06 00:44:02,621 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-19
+2025-12-06 00:44:02,804 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-18
+2025-12-06 00:44:02,804 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-18
+2025-12-06 00:44:02,822 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-20
+2025-12-06 00:44:02,822 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-20
+2025-12-06 00:44:03,201 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-22
+2025-12-06 00:44:03,202 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-22
+2025-12-06 00:44:03,319 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:44:03,319 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-46
+2025-12-06 00:44:03,319 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-46
+2025-12-06 00:44:03,369 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-21
+2025-12-06 00:44:03,369 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-21
+2025-12-06 00:44:03,561 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-23
+2025-12-06 00:44:03,561 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-23
+2025-12-06 00:44:03,619 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:44:03,620 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-49
+2025-12-06 00:44:03,620 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-49
+2025-12-06 00:44:03,833 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-25
+2025-12-06 00:44:03,833 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-25
+2025-12-06 00:44:04,171 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 00:44:04,171 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-50
+2025-12-06 00:44:04,171 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-50
+2025-12-06 00:44:04,698 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-28
+2025-12-06 00:44:04,698 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-28
+2025-12-06 00:44:04,814 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-29
+2025-12-06 00:44:04,815 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-29
+2025-12-06 00:44:04,851 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-30
+2025-12-06 00:44:04,851 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-30
+2025-12-06 00:44:04,965 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-17
+2025-12-06 00:44:04,965 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-17
+2025-12-06 00:44:05,150 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-5
+2025-12-06 00:44:05,150 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-5
+2025-12-06 00:44:05,157 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-31
+2025-12-06 00:44:05,157 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-31
+2025-12-06 00:44:05,296 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-26
+2025-12-06 00:44:05,296 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-26
+2025-12-06 00:44:05,491 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-33
+2025-12-06 00:44:05,491 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-33
+2025-12-06 00:44:05,511 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-32
+2025-12-06 00:44:05,511 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-32
+2025-12-06 00:44:05,674 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-34
+2025-12-06 00:44:05,675 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-34
+2025-12-06 00:44:05,767 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-24
+2025-12-06 00:44:05,767 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-24
+2025-12-06 00:44:06,125 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-35
+2025-12-06 00:44:06,125 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-35
+2025-12-06 00:44:06,214 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-36
+2025-12-06 00:44:06,214 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-36
+2025-12-06 00:44:06,282 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-37
+2025-12-06 00:44:06,282 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-37
+2025-12-06 00:44:06,694 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-38
+2025-12-06 00:44:06,694 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-38
+2025-12-06 00:44:06,806 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-39
+2025-12-06 00:44:06,806 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-39
+2025-12-06 00:44:06,807 INFO o.a.j.e.StandardJMeterEngine: Notifying test listeners of end of test
+2025-12-06 00:44:06,807 INFO o.a.j.g.u.JMeterMenuBar: setRunning(false, *local*)

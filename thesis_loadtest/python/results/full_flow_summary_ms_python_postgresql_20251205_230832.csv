@@ -1,0 +1,4 @@
+architecture,concurrency,flows,total_steps,duration_sec,throughput_steps_per_sec,avg_latency_ms,min_latency_ms,max_latency_ms,error_count,error_rate,success_count
+ms_python_postgresql,10,50,250,22.44,11.14,805.93,51.21,3523.72,0,0.0,250
+ms_python_postgresql,20,50,250,21.59,11.58,1534.7,51.51,7144.85,0,0.0,250
+ms_python_postgresql,50,50,250,21.06,11.87,4163.89,102.21,16721.74,0,0.0,250

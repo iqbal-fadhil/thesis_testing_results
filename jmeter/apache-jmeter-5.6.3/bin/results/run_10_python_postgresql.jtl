@@ -1,0 +1,315 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1764950154484,322,GET Login Page,200,OK,Users 1-2,text,true,,1146,169,3,3,https://microservices.iqbalfadhil.biz.id/login,319,0,85
+1764950155489,482,GET Login Page,200,OK,Users 1-3,text,true,,1146,169,4,4,https://microservices.iqbalfadhil.biz.id/login,482,0,56
+1764950153714,2406,GET Login Page,200,OK,Users 1-1,text,true,,1150,169,4,4,https://microservices.iqbalfadhil.biz.id/login,2405,0,1317
+1764950156485,969,GET Login Page,200,OK,Users 1-4,text,true,,1158,169,5,5,https://microservices.iqbalfadhil.biz.id/login,968,0,341
+1764950157484,268,GET Login Page,200,OK,Users 1-5,text,true,,1146,169,6,6,https://microservices.iqbalfadhil.biz.id/login,268,0,60
+1764950155812,769,POST /api/auth/login,200,OK,Users 1-2,text,true,,625,267,5,5,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,769,0,127
+1764950157123,790,POST /api/auth/login,200,OK,Users 1-1,text,true,,619,267,6,6,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,790,0,179
+1764950156973,1487,POST /api/auth/login,200,OK,Users 1-3,text,true,,629,267,6,6,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,1487,0,450
+1764950158484,154,GET Login Page,200,OK,Users 1-6,text,true,,1154,169,7,7,https://microservices.iqbalfadhil.biz.id/login,153,0,56
+1764950158456,562,POST /api/auth/login,200,OK,Users 1-4,text,true,,623,267,7,7,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,562,0,64
+1764950158916,545,GET /api/auth/me?token=XXX,200,OK,Users 1-1,text,true,,679,202,7,7,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=b2dc7449a1ef465c8642e00f95aa434a,544,0,58
+1764950158838,681,GET /api/auth/me?token=XXX,200,OK,Users 1-2,text,true,,675,202,8,8,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=8bedc000ec30403f9a20ccbac11b7ff2,681,0,173
+1764950158756,805,POST /api/auth/login,200,OK,Users 1-5,text,true,,625,267,8,8,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,804,0,169
+1764950159462,151,GET /api/auth/me?token=XXX,200,OK,Users 1-3,text,true,,679,202,8,8,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=c710b83eaadd4786b71eccdb59ef4159,150,0,52
+1764950159482,261,GET Login Page,200,OK,Users 1-7,text,true,,1152,169,8,8,https://microservices.iqbalfadhil.biz.id/login,260,0,146
+1764950160024,211,GET /api/auth/me?token=XXX,200,OK,Users 1-4,text,true,,673,202,8,8,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=25cd19a1c785488a90f26c3d0d350e23,211,0,52
+1764950159639,624,POST /api/auth/login,200,OK,Users 1-6,text,true,,621,267,8,8,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,623,0,54
+1764950160521,162,GET /questions,200,OK,Users 1-2,text,true,,2417,178,9,9,https://test-microservices.iqbalfadhil.biz.id/questions,161,0,53
+1764950160578,114,GET /api/auth/me?token=XXX,200,OK,Users 1-5,text,true,,665,202,9,9,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=5047b3efb5ef40d2a3ce6d61678d2b47,114,0,51
+1764950160615,131,GET /questions,200,OK,Users 1-3,text,true,,2419,178,9,9,https://test-microservices.iqbalfadhil.biz.id/questions,130,0,54
+1764950160483,276,GET Login Page,200,OK,Users 1-8,text,true,,1144,169,9,9,https://microservices.iqbalfadhil.biz.id/login,276,0,157
+1764950160462,357,GET /questions,200,OK,Users 1-1,text,true,,2409,178,9,9,https://test-microservices.iqbalfadhil.biz.id/questions,356,0,205
+1764950160745,591,POST /api/auth/login,200,OK,Users 1-7,text,true,,627,267,9,9,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,590,0,57
+1764950161239,126,GET /questions,200,OK,Users 1-4,text,true,,2411,178,9,9,https://test-microservices.iqbalfadhil.biz.id/questions,126,0,56
+1764950161483,226,GET Login Page,200,OK,Users 1-9,text,true,,1150,169,10,10,https://microservices.iqbalfadhil.biz.id/login,226,0,118
+1764950161697,158,GET /questions,200,OK,Users 1-5,text,true,,2419,178,10,10,https://test-microservices.iqbalfadhil.biz.id/questions,157,0,52
+1764950161265,1083,GET /api/auth/me?token=XXX,200,OK,Users 1-6,text,true,,673,202,10,10,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=321b45c42b714cdd95a9ae20db8a90bc,1083,0,359
+1764950161761,707,POST /api/auth/login,200,OK,Users 1-8,text,true,,617,267,10,10,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,707,0,134
+1764950161802,671,POST /submit,200,OK,Users 1-3,text,true,,2370,665,10,10,https://test-microservices.iqbalfadhil.biz.id/submit?token=c710b83eaadd4786b71eccdb59ef4159,670,0,53
+1764950161802,671,POST /submit,200,OK,Users 1-2,text,true,,2364,665,10,10,https://test-microservices.iqbalfadhil.biz.id/submit?token=8bedc000ec30403f9a20ccbac11b7ff2,670,0,53
+1764950162339,209,GET /api/auth/me?token=XXX,200,OK,Users 1-7,text,true,,671,202,10,10,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=3d6b7dc3fab94c50879b9f522ce95c65,209,0,54
+1764950161822,766,POST /submit,200,OK,Users 1-1,text,true,,2371,665,10,10,https://test-microservices.iqbalfadhil.biz.id/submit?token=b2dc7449a1ef465c8642e00f95aa434a,766,0,49
+1764950162483,130,GET Login Page,200,OK,Users 1-10,text,true,,1146,169,10,10,https://microservices.iqbalfadhil.biz.id/login,130,0,53
+1764950162367,267,POST /submit,200,OK,Users 1-4,text,true,,2372,665,10,10,https://test-microservices.iqbalfadhil.biz.id/submit?token=25cd19a1c785488a90f26c3d0d350e23,266,0,51
+1764950162712,562,POST /api/auth/login,200,OK,Users 1-9,text,true,,621,267,10,10,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,561,0,53
+1764950162858,578,POST /submit,200,OK,Users 1-5,text,true,,2366,665,10,10,https://test-microservices.iqbalfadhil.biz.id/submit?token=5047b3efb5ef40d2a3ce6d61678d2b47,578,0,265
+1764950163470,117,GET /api/auth/me?token=XXX,200,OK,Users 1-8,text,true,,673,202,10,10,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=dec7a99601954567bb01fec3a027d0ca,117,0,50
+1764950163350,265,GET /questions,200,OK,Users 1-6,text,true,,2413,178,10,10,https://test-microservices.iqbalfadhil.biz.id/questions,265,0,153
+1764950163564,123,GET /questions,200,OK,Users 1-7,text,true,,2417,178,10,10,https://test-microservices.iqbalfadhil.biz.id/questions,122,0,51
+1764950163615,1469,POST /api/auth/login,200,OK,Users 1-10,text,true,,619,267,10,10,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,1469,0,51
+1764950163474,1613,Re-Login (simulate logout),200,OK,Users 1-3,text,true,,627,267,10,10,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,1612,0,49
+1764950164591,589,GET /questions,200,OK,Users 1-8,text,true,,2409,178,10,10,https://test-microservices.iqbalfadhil.biz.id/questions,588,0,375
+1764950163473,1715,Re-Login (simulate logout),200,OK,Users 1-2,text,true,,623,267,10,10,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,1715,0,245
+1764950163634,1790,Re-Login (simulate logout),200,OK,Users 1-4,text,true,,625,267,10,10,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,1790,0,52
+1764950164693,758,POST /submit,200,OK,Users 1-7,text,true,,2379,665,10,10,https://test-microservices.iqbalfadhil.biz.id/submit?token=3d6b7dc3fab94c50879b9f522ce95c65,757,0,49
+1764950164620,879,POST /submit,200,OK,Users 1-6,text,true,,2364,665,10,10,https://test-microservices.iqbalfadhil.biz.id/submit?token=321b45c42b714cdd95a9ae20db8a90bc,878,0,129
+1764950164440,1163,Re-Login (simulate logout),200,OK,Users 1-5,text,true,,627,267,10,10,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,1163,0,343
+1764950164278,1608,GET /api/auth/me?token=XXX,200,OK,Users 1-9,text,true,,675,202,10,10,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=62971a2408174c5180d09eff76215bf5,1607,0,46
+1764950163590,2447,Re-Login (simulate logout),200,OK,Users 1-1,text,true,,625,267,10,10,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,2447,0,255
+1764950166087,2,Debug Vars,200,OK,Users 1-3,text,true,,856,0,10,10,null,0,0,0
+1764950166189,0,Debug Vars,200,OK,Users 1-2,text,true,,855,0,10,10,null,0,0,0
+1764950166426,1,Debug Vars,200,OK,Users 1-4,text,true,,856,0,10,10,null,0,0,0
+1764950166183,275,POST /submit,200,OK,Users 1-8,text,true,,2364,665,10,10,https://test-microservices.iqbalfadhil.biz.id/submit?token=dec7a99601954567bb01fec3a027d0ca,275,0,49
+1764950166087,392,GET /api/auth/me?token=XXX,200,OK,Users 1-10,text,true,,675,202,10,10,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=1f7c2b1cd67b40ba8862e8f99ba3ff31,391,0,47
+1764950166607,0,Debug Vars,200,OK,Users 1-5,text,true,,855,0,10,10,null,0,0,0
+1764950166888,116,GET /questions,200,OK,Users 1-9,text,true,,2419,178,10,10,https://test-microservices.iqbalfadhil.biz.id/questions,116,0,51
+1764950167039,0,Debug Vars,200,OK,Users 1-1,text,true,,855,0,10,10,null,0,0,0
+1764950167091,108,GET Login Page,200,OK,Users 1-3,text,true,,1148,169,10,10,https://microservices.iqbalfadhil.biz.id/login,108,0,51
+1764950167192,224,GET Login Page,200,OK,Users 1-2,text,true,,1148,169,10,10,https://microservices.iqbalfadhil.biz.id/login,224,0,124
+1764950166452,1053,Re-Login (simulate logout),200,OK,Users 1-7,text,true,,619,267,10,10,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,1052,0,107
+1764950167428,125,GET Login Page,200,OK,Users 1-4,text,true,,1156,169,10,10,https://microservices.iqbalfadhil.biz.id/login,124,0,59
+1764950166503,1092,Re-Login (simulate logout),200,OK,Users 1-6,text,true,,627,267,10,10,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,1091,0,276
+1764950167481,121,GET /questions,200,OK,Users 1-10,text,true,,2421,178,10,10,https://test-microservices.iqbalfadhil.biz.id/questions,120,0,50
+1764950167611,147,GET Login Page,200,OK,Users 1-5,text,true,,1148,169,10,10,https://microservices.iqbalfadhil.biz.id/login,147,0,50
+1764950167460,539,Re-Login (simulate logout),200,OK,Users 1-8,text,true,,631,267,10,10,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,539,0,49
+1764950168041,131,GET Login Page,200,OK,Users 1-1,text,true,,1148,169,10,10,https://microservices.iqbalfadhil.biz.id/login,131,0,52
+1764950168506,0,Debug Vars,200,OK,Users 1-7,text,true,,856,0,10,10,null,0,0,0
+1764950168599,1,Debug Vars,200,OK,Users 1-6,text,true,,856,0,10,10,null,0,0,0
+1764950169002,0,Debug Vars,200,OK,Users 1-8,text,true,,855,0,10,10,null,0,0,0
+1764950169510,245,GET Login Page,200,OK,Users 1-7,text,true,,1154,169,10,10,https://microservices.iqbalfadhil.biz.id/login,245,0,145
+1764950169605,156,GET Login Page,200,OK,Users 1-6,text,true,,1152,169,10,10,https://microservices.iqbalfadhil.biz.id/login,156,0,50
+1764950168201,1850,POST /api/auth/login,200,OK,Users 1-3,text,true,,623,267,10,10,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,1850,0,212
+1764950170005,147,GET Login Page,200,OK,Users 1-8,text,true,,1150,169,10,10,https://microservices.iqbalfadhil.biz.id/login,146,0,51
+1764950168417,1907,POST /api/auth/login,200,OK,Users 1-2,text,true,,625,267,10,10,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,1906,0,53
+1764950168555,1770,POST /api/auth/login,200,OK,Users 1-4,text,true,,617,267,10,10,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,1769,0,50
+1764950168760,1566,POST /api/auth/login,200,OK,Users 1-5,text,true,,635,267,10,10,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,1565,0,52
+1764950169177,1150,POST /api/auth/login,200,OK,Users 1-1,text,true,,627,267,10,10,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,1149,0,53
+1764950168604,1879,POST /submit,200,OK,Users 1-10,text,true,,2370,665,10,10,https://test-microservices.iqbalfadhil.biz.id/submit?token=1f7c2b1cd67b40ba8862e8f99ba3ff31,1878,0,221
+1764950168009,2530,POST /submit,200,OK,Users 1-9,text,true,,2363,665,10,10,https://test-microservices.iqbalfadhil.biz.id/submit?token=62971a2408174c5180d09eff76215bf5,2530,0,1386
+1764950171056,974,GET /api/auth/me?token=XXX,200,OK,Users 1-3,text,true,,673,202,10,10,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=41e908d0b6fc41c5b944c64608dc3b13,974,0,51
+1764950170764,1269,POST /api/auth/login,200,OK,Users 1-6,text,true,,619,267,10,10,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,1268,0,48
+1764950171327,1045,GET /api/auth/me?token=XXX,200,OK,Users 1-5,text,true,,673,202,10,10,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=5c9b514f5d9a4bd1a015e6048eee0b37,1045,0,50
+1764950171327,1045,GET /api/auth/me?token=XXX,200,OK,Users 1-2,text,true,,679,202,10,10,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=9803b978320f4cc6bc67738a2a9ba26e,1045,0,50
+1764950171331,1041,GET /api/auth/me?token=XXX,200,OK,Users 1-1,text,true,,673,202,10,10,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=b69dc773833740e8846ceff719785f3d,1041,0,49
+1764950171484,888,Re-Login (simulate logout),200,OK,Users 1-10,text,true,,621,267,10,10,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,888,0,47
+1764950171156,1216,POST /api/auth/login,200,OK,Users 1-8,text,true,,623,267,10,10,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,1216,0,50
+1764950170757,1786,POST /api/auth/login,200,OK,Users 1-7,text,true,,619,267,10,10,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,1786,0,369
+1764950171542,1304,Re-Login (simulate logout),200,OK,Users 1-9,text,true,,615,267,10,10,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,1303,0,48
+1764950171327,1529,GET /api/auth/me?token=XXX,200,OK,Users 1-4,text,true,,673,202,10,10,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=685bf0aab25043c6b4d90cf55c5736e2,1529,0,126
+1764950173034,121,GET /api/auth/me?token=XXX,200,OK,Users 1-6,text,true,,673,202,10,10,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=811aabe6a99e47fd80ea1a1c62d9eee4,121,0,48
+1764950173034,248,GET /questions,200,OK,Users 1-3,text,true,,2417,178,10,10,https://test-microservices.iqbalfadhil.biz.id/questions,247,0,131
+1764950173374,0,Debug Vars,200,OK,Users 1-10,text,true,,857,0,10,10,null,0,0,0
+1764950173374,112,GET /api/auth/me?token=XXX,200,OK,Users 1-8,text,true,,669,202,10,10,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=d8d99831e19947fab6257382887ece81,112,0,50
+1764950173374,145,GET /questions,200,OK,Users 1-5,text,true,,2419,178,10,10,https://test-microservices.iqbalfadhil.biz.id/questions,145,0,50
+1764950173374,264,GET /questions,200,OK,Users 1-2,text,true,,2411,178,10,10,https://test-microservices.iqbalfadhil.biz.id/questions,263,0,137
+1764950173545,139,GET /api/auth/me?token=XXX,200,OK,Users 1-7,text,true,,675,202,10,10,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=194a30a62f8b4a2a97c2affd9036687d,138,0,49
+1764950173374,374,GET /questions,200,OK,Users 1-1,text,true,,2419,178,10,10,https://test-microservices.iqbalfadhil.biz.id/questions,374,0,212
+1764950173847,0,Debug Vars,200,OK,Users 1-9,text,true,,856,0,10,10,null,0,0,0
+1764950174159,116,GET /questions,200,OK,Users 1-6,text,true,,2415,178,10,10,https://test-microservices.iqbalfadhil.biz.id/questions,116,0,48
+1764950173858,656,GET /questions,200,OK,Users 1-4,text,true,,2413,178,10,10,https://test-microservices.iqbalfadhil.biz.id/questions,655,0,407
+1764950174289,266,POST /submit,200,OK,Users 1-3,text,true,,2363,665,10,10,https://test-microservices.iqbalfadhil.biz.id/submit?token=41e908d0b6fc41c5b944c64608dc3b13,265,0,48
+1764950174487,136,GET /questions,200,OK,Users 1-8,text,true,,2413,178,10,10,https://test-microservices.iqbalfadhil.biz.id/questions,136,0,48
+1764950174521,310,POST /submit,200,OK,Users 1-5,text,true,,2363,665,10,10,https://test-microservices.iqbalfadhil.biz.id/submit?token=5c9b514f5d9a4bd1a015e6048eee0b37,310,0,47
+1764950174642,218,POST /submit,200,OK,Users 1-2,text,true,,2364,665,10,10,https://test-microservices.iqbalfadhil.biz.id/submit?token=9803b978320f4cc6bc67738a2a9ba26e,217,0,58
+1764950174376,531,GET Login Page,200,OK,Users 1-10,text,true,,1150,169,10,10,https://microservices.iqbalfadhil.biz.id/login,530,0,347
+1764950174850,245,GET Login Page,200,OK,Users 1-9,text,true,,1148,169,10,10,https://microservices.iqbalfadhil.biz.id/login,245,0,131
+1764950174685,453,GET /questions,200,OK,Users 1-7,text,true,,2419,178,10,10,https://test-microservices.iqbalfadhil.biz.id/questions,452,0,274
+1764950174750,736,POST /submit,200,OK,Users 1-1,text,true,,2368,665,10,10,https://test-microservices.iqbalfadhil.biz.id/submit?token=b69dc773833740e8846ceff719785f3d,736,0,357
+1764950175277,221,POST /submit,200,OK,Users 1-6,text,true,,2368,665,10,10,https://test-microservices.iqbalfadhil.biz.id/submit?token=811aabe6a99e47fd80ea1a1c62d9eee4,221,0,48
+1764950175516,222,POST /submit,200,OK,Users 1-4,text,true,,2365,665,10,10,https://test-microservices.iqbalfadhil.biz.id/submit?token=685bf0aab25043c6b4d90cf55c5736e2,222,0,50
+1764950175626,359,POST /submit,200,OK,Users 1-8,text,true,,2373,665,10,10,https://test-microservices.iqbalfadhil.biz.id/submit?token=d8d99831e19947fab6257382887ece81,359,0,149
+1764950175862,2196,Re-Login (simulate logout),200,OK,Users 1-2,text,true,,635,267,10,10,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,2196,0,48
+1764950176491,2237,Re-Login (simulate logout),200,OK,Users 1-1,text,true,,623,267,10,10,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,2236,0,49
+1764950175909,2819,POST /api/auth/login,200,OK,Users 1-10,text,true,,625,267,10,10,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,2818,0,48
+1764950176500,2229,Re-Login (simulate logout),200,OK,Users 1-6,text,true,,625,267,10,10,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,2229,0,50
+1764950175556,3173,Re-Login (simulate logout),200,OK,Users 1-3,text,true,,617,267,10,10,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,3173,0,1057
+1764950176741,1992,Re-Login (simulate logout),200,OK,Users 1-4,text,true,,617,267,10,10,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,1991,0,46
+1764950176141,2605,POST /submit,200,OK,Users 1-7,text,true,,2362,665,10,10,https://test-microservices.iqbalfadhil.biz.id/submit?token=194a30a62f8b4a2a97c2affd9036687d,2605,0,47
+1764950176097,2653,POST /api/auth/login,200,OK,Users 1-9,text,true,,621,267,10,10,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,2652,0,94
+1764950175833,2940,Re-Login (simulate logout),200,OK,Users 1-5,text,true,,633,267,10,10,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,2940,0,356
+1764950179060,0,Debug Vars,200,OK,Users 1-2,text,true,,855,0,10,10,null,0,0,0
+1764950176987,2163,Re-Login (simulate logout),200,OK,Users 1-8,text,true,,621,267,10,10,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,2163,0,51
+1764950179730,1,Debug Vars,200,OK,Users 1-1,text,true,,855,0,10,10,null,0,0,0
+1764950179730,1,Debug Vars,200,OK,Users 1-3,text,true,,856,0,10,10,null,0,0,0
+1764950179730,1,Debug Vars,200,OK,Users 1-6,text,true,,856,0,10,10,null,0,0,0
+1764950179733,0,Debug Vars,200,OK,Users 1-4,text,true,,856,0,10,10,null,0,0,0
+1764950179774,0,Debug Vars,200,OK,Users 1-5,text,true,,855,0,10,10,null,0,0,0
+1764950179752,107,GET /api/auth/me?token=XXX,200,OK,Users 1-9,text,true,,677,202,10,10,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=11c14360c1db444eaa2e8eb8bcc64d3b,107,0,44
+1764950180151,0,Debug Vars,200,OK,Users 1-8,text,true,,855,0,10,10,null,0,0,0
+1764950179747,586,Re-Login (simulate logout),200,OK,Users 1-7,text,true,,621,267,10,10,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,585,0,48
+1764950180062,308,GET Login Page,200,OK,Users 1-2,text,true,,1152,169,10,10,https://microservices.iqbalfadhil.biz.id/login,308,0,151
+1764950180732,127,GET Login Page,200,OK,Users 1-6,text,true,,1160,169,10,10,https://microservices.iqbalfadhil.biz.id/login,127,0,50
+1764950180737,125,GET Login Page,200,OK,Users 1-4,text,true,,1150,169,10,10,https://microservices.iqbalfadhil.biz.id/login,125,0,46
+1764950180733,135,GET Login Page,200,OK,Users 1-1,text,true,,1154,169,10,10,https://microservices.iqbalfadhil.biz.id/login,135,0,48
+1764950180860,101,GET /questions,200,OK,Users 1-9,text,true,,2411,178,10,10,https://test-microservices.iqbalfadhil.biz.id/questions,101,0,47
+1764950180737,237,GET Login Page,200,OK,Users 1-3,text,true,,1154,169,10,10,https://microservices.iqbalfadhil.biz.id/login,237,0,129
+1764950179733,1322,GET /api/auth/me?token=XXX,200,OK,Users 1-10,text,true,,677,202,10,10,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=65b581b0b31a430e9157e3b846ec512f,1321,0,244
+1764950181155,115,GET Login Page,200,OK,Users 1-8,text,true,,1150,169,10,10,https://microservices.iqbalfadhil.biz.id/login,115,0,46
+1764950180775,546,GET Login Page,200,OK,Users 1-5,text,true,,1154,169,10,10,https://microservices.iqbalfadhil.biz.id/login,546,0,348
+1764950181335,1,Debug Vars,200,OK,Users 1-7,text,true,,856,0,10,10,null,0,0,0
+1764950181372,564,POST /api/auth/login,200,OK,Users 1-2,text,true,,619,267,10,10,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,564,0,50
+1764950182056,103,GET /questions,200,OK,Users 1-10,text,true,,2411,178,10,10,https://test-microservices.iqbalfadhil.biz.id/questions,103,0,50
+1764950181835,228,GET Login Page,200,OK,Users 1-7,text,true,,1158,169,10,10,https://microservices.iqbalfadhil.biz.id/login,228,0,126
+1764950181861,2221,POST /api/auth/login,200,OK,Users 1-6,text,true,,619,267,10,10,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,2221,0,48
+1764950181871,2211,POST /api/auth/login,200,OK,Users 1-1,text,true,,627,267,10,10,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,2211,0,46
+1764950181963,2152,POST /submit,200,OK,Users 1-9,text,true,,2365,665,10,10,https://test-microservices.iqbalfadhil.biz.id/submit?token=11c14360c1db444eaa2e8eb8bcc64d3b,2152,0,49
+1764950181865,2272,POST /api/auth/login,200,OK,Users 1-4,text,true,,623,267,10,10,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,2272,0,49
+1764950182438,1472,GET /api/auth/me?token=XXX,200,OK,Users 1-2,text,true,,681,202,10,10,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=dded0ce811a84af1b1532b905f3f8a4b,1471,0,46
+1764950181976,2436,POST /api/auth/login,200,OK,Users 1-3,text,true,,627,267,10,10,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,2435,0,49
+1764950181822,2096,POST /api/auth/login,200,OK,Users 1-5,text,true,,619,267,10,10,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,2095,0,46
+1764950183065,875,POST /api/auth/login,200,OK,Users 1-7,text,true,,623,267,10,10,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,875,0,77
+1764950182661,1281,POST /submit,200,OK,Users 1-10,text,true,,2362,665,10,10,https://test-microservices.iqbalfadhil.biz.id/submit?token=65b581b0b31a430e9157e3b846ec512f,1281,0,48
+1764950181771,2178,POST /api/auth/login,200,OK,Users 1-8,text,true,,621,267,10,10,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,2177,0,136
+1764950184583,111,GET /api/auth/me?token=XXX,200,OK,Users 1-6,text,true,,679,202,10,10,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=e5ec055282394d5f8f5a438ff0167328,111,0,48
+1764950184639,113,GET /api/auth/me?token=XXX,200,OK,Users 1-4,text,true,,675,202,10,10,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=ad1f27f04aff49b4a13b903e7a7da547,113,0,46
+1764950184583,190,GET /api/auth/me?token=XXX,200,OK,Users 1-1,text,true,,669,202,10,10,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=b0dbec0e4d404a4e988d8b7f3a62e222,189,0,110
+1764950184911,110,GET /questions,200,OK,Users 1-2,text,true,,2423,178,10,10,https://test-microservices.iqbalfadhil.biz.id/questions,109,0,47
+1764950184914,718,GET /api/auth/me?token=XXX,200,OK,Users 1-3,text,true,,667,202,10,10,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=64b2b58982944bff82dbeb0732ec6071,718,0,44
+1764950184920,712,GET /api/auth/me?token=XXX,200,OK,Users 1-5,text,true,,669,202,10,10,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=ddcf403b9d29438bad680e6531a9dd42,712,0,44
+1764950184943,693,Re-Login (simulate logout),200,OK,Users 1-10,text,true,,623,267,10,10,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,693,0,45
+1764950184950,686,GET /api/auth/me?token=XXX,200,OK,Users 1-8,text,true,,675,202,10,10,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=43a296f364334f4d961443e803218e93,686,0,60
+1764950184943,783,GET /api/auth/me?token=XXX,200,OK,Users 1-7,text,true,,673,202,10,10,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=ffc6604b0e094d2383164854b9f1ced3,782,0,257
+1764950184615,1113,Re-Login (simulate logout),200,OK,Users 1-9,text,true,,623,267,10,10,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,1113,0,158
+1764950185698,99,GET /questions,200,OK,Users 1-6,text,true,,2421,178,10,10,https://test-microservices.iqbalfadhil.biz.id/questions,99,0,46
+1764950185754,866,GET /questions,200,OK,Users 1-4,text,true,,2415,178,10,10,https://test-microservices.iqbalfadhil.biz.id/questions,865,0,222
+1764950186638,1,Debug Vars,200,OK,Users 1-10,text,true,,857,0,10,10,null,0,0,0
+1764950186023,619,POST /submit,200,OK,Users 1-2,text,true,,2366,665,10,10,https://test-microservices.iqbalfadhil.biz.id/submit?token=dded0ce811a84af1b1532b905f3f8a4b,619,0,165
+1764950186730,1,Debug Vars,200,OK,Users 1-9,text,true,,856,0,10,10,null,0,0,0
+1764950186635,110,GET /questions,200,OK,Users 1-5,text,true,,2419,178,10,10,https://test-microservices.iqbalfadhil.biz.id/questions,109,0,47
+1764950186639,133,GET /questions,200,OK,Users 1-8,text,true,,2409,178,10,10,https://test-microservices.iqbalfadhil.biz.id/questions,133,0,47
+1764950186647,267,GET /questions,200,OK,Users 1-3,text,true,,2421,178,10,10,https://test-microservices.iqbalfadhil.biz.id/questions,267,0,150
+1764950186800,298,POST /submit,200,OK,Users 1-6,text,true,,2369,665,10,10,https://test-microservices.iqbalfadhil.biz.id/submit?token=e5ec055282394d5f8f5a438ff0167328,298,0,48
+1764950186728,387,GET /questions,200,OK,Users 1-7,text,true,,2413,178,10,10,https://test-microservices.iqbalfadhil.biz.id/questions,386,0,161
+1764950185777,1920,GET /questions,200,OK,Users 1-1,text,true,,2425,178,10,10,https://test-microservices.iqbalfadhil.biz.id/questions,1920,0,916
+1764950187736,112,GET Login Page,200,OK,Users 1-9,text,true,,1154,169,10,10,https://microservices.iqbalfadhil.biz.id/login,112,0,47
+1764950187641,209,GET Login Page,200,OK,Users 1-10,text,true,,1156,169,10,10,https://microservices.iqbalfadhil.biz.id/login,208,0,110
+1764950187623,498,POST /submit,200,OK,Users 1-4,text,true,,2374,665,10,10,https://test-microservices.iqbalfadhil.biz.id/submit?token=ad1f27f04aff49b4a13b903e7a7da547,497,0,51
+1764950187774,349,POST /submit,200,OK,Users 1-8,text,true,,2368,665,10,10,https://test-microservices.iqbalfadhil.biz.id/submit?token=43a296f364334f4d961443e803218e93,349,0,46
+1764950187746,396,POST /submit,200,OK,Users 1-5,text,true,,2362,665,10,10,https://test-microservices.iqbalfadhil.biz.id/submit?token=ddcf403b9d29438bad680e6531a9dd42,395,0,45
+1764950187916,875,POST /submit,200,OK,Users 1-3,text,true,,2370,665,10,10,https://test-microservices.iqbalfadhil.biz.id/submit?token=64b2b58982944bff82dbeb0732ec6071,874,0,46
+1764950188117,675,POST /submit,200,OK,Users 1-7,text,true,,2362,665,10,10,https://test-microservices.iqbalfadhil.biz.id/submit?token=ffc6604b0e094d2383164854b9f1ced3,675,0,60
+1764950188101,710,Re-Login (simulate logout),200,OK,Users 1-6,text,true,,625,267,10,10,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,710,0,156
+1764950187644,1192,Re-Login (simulate logout),200,OK,Users 1-2,text,true,,629,267,10,10,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,1192,0,192
+1764950188701,375,POST /submit,200,OK,Users 1-1,text,true,,2365,665,10,10,https://test-microservices.iqbalfadhil.biz.id/submit?token=b0dbec0e4d404a4e988d8b7f3a62e222,374,0,134
+1764950189813,0,Debug Vars,200,OK,Users 1-6,text,true,,856,0,10,10,null,0,0,0
+1764950189840,0,Debug Vars,200,OK,Users 1-2,text,true,,855,0,10,10,null,0,0,0
+1764950190815,109,GET Login Page,200,OK,Users 1-6,text,true,,1154,169,10,10,https://microservices.iqbalfadhil.biz.id/login,109,0,49
+1764950190845,139,GET Login Page,200,OK,Users 1-2,text,true,,1154,169,10,10,https://microservices.iqbalfadhil.biz.id/login,138,0,52
+1764950188851,2179,POST /api/auth/login,200,OK,Users 1-10,text,true,,623,267,10,10,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,2179,0,45
+1764950188850,2182,POST /api/auth/login,200,OK,Users 1-9,text,true,,619,267,10,10,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,2182,0,47
+1764950189124,2257,Re-Login (simulate logout),200,OK,Users 1-8,text,true,,627,267,10,10,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,2256,0,46
+1764950189122,2314,Re-Login (simulate logout),200,OK,Users 1-4,text,true,,621,267,10,10,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,2314,0,148
+1764950189794,1945,Re-Login (simulate logout),200,OK,Users 1-7,text,true,,621,267,10,10,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,1945,0,45
+1764950189794,1945,Re-Login (simulate logout),200,OK,Users 1-3,text,true,,619,267,10,10,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,1945,0,46
+1764950190078,1668,Re-Login (simulate logout),200,OK,Users 1-1,text,true,,617,267,10,10,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,1668,0,50
+1764950189143,2713,Re-Login (simulate logout),200,OK,Users 1-5,text,true,,621,267,10,10,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,2712,0,286
+1764950192380,0,Debug Vars,200,OK,Users 1-8,text,true,,855,0,10,10,null,0,0,0
+1764950192435,1,Debug Vars,200,OK,Users 1-4,text,true,,856,0,10,10,null,0,0,0
+1764950192740,0,Debug Vars,200,OK,Users 1-7,text,true,,856,0,10,10,null,0,0,0
+1764950192748,0,Debug Vars,200,OK,Users 1-3,text,true,,856,0,10,10,null,0,0,0
+1764950192751,0,Debug Vars,200,OK,Users 1-1,text,true,,855,0,10,10,null,0,0,0
+1764950192032,823,GET /api/auth/me?token=XXX,200,OK,Users 1-9,text,true,,673,202,10,10,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=397300c4de7c4c16ba6e2501546627c7,823,0,49
+1764950192855,0,Debug Vars,200,OK,Users 1-5,text,true,,855,0,10,10,null,0,0,0
+1764950192031,825,GET /api/auth/me?token=XXX,200,OK,Users 1-10,text,true,,671,202,10,10,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=c6fe4a2dcb314b2091f39175f4a8252a,825,0,50
+1764950191985,874,POST /api/auth/login,200,OK,Users 1-2,text,true,,623,267,10,10,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,874,0,49
+1764950191924,983,POST /api/auth/login,200,OK,Users 1-6,text,true,,619,267,10,10,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,982,0,127
+1764950193382,113,GET Login Page,200,OK,Users 1-8,text,true,,1158,169,10,10,https://microservices.iqbalfadhil.biz.id/login,113,0,51
+1764950193438,112,GET Login Page,200,OK,Users 1-4,text,true,,1164,169,10,10,https://microservices.iqbalfadhil.biz.id/login,111,0,50
+1764950193741,116,GET Login Page,200,OK,Users 1-7,text,true,,1148,169,10,10,https://microservices.iqbalfadhil.biz.id/login,116,0,48
+1764950193755,127,GET Login Page,200,OK,Users 1-1,text,true,,1150,169,10,10,https://microservices.iqbalfadhil.biz.id/login,126,0,49
+1764950193752,154,GET Login Page,200,OK,Users 1-3,text,true,,1154,169,10,10,https://microservices.iqbalfadhil.biz.id/login,153,0,48
+1764950193860,114,GET /api/auth/me?token=XXX,200,OK,Users 1-2,text,true,,675,202,10,10,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=ae76d0e81c534580b325e83b07f98f6d,114,0,46
+1764950193857,133,GET Login Page,200,OK,Users 1-5,text,true,,1160,169,10,10,https://microservices.iqbalfadhil.biz.id/login,133,0,51
+1764950193857,147,GET /questions,200,OK,Users 1-9,text,true,,2415,178,10,10,https://test-microservices.iqbalfadhil.biz.id/questions,147,0,49
+1764950193909,119,GET /api/auth/me?token=XXX,200,OK,Users 1-6,text,true,,673,202,10,10,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=9975d19102a04733806a0f568f4fc9a8,119,0,47
+1764950193860,327,GET /questions,200,OK,Users 1-10,text,true,,2423,178,10,10,https://test-microservices.iqbalfadhil.biz.id/questions,326,0,190
+1764950194976,107,GET /questions,200,OK,Users 1-2,text,true,,2415,178,10,10,https://test-microservices.iqbalfadhil.biz.id/questions,106,0,49
+1764950195030,230,GET /questions,200,OK,Users 1-6,text,true,,2415,178,10,10,https://test-microservices.iqbalfadhil.biz.id/questions,229,0,137
+1764950194552,2276,POST /api/auth/login,200,OK,Users 1-4,text,true,,623,267,10,10,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,2276,0,46
+1764950194859,1974,POST /api/auth/login,200,OK,Users 1-7,text,true,,619,267,10,10,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,1973,0,47
+1764950194907,1926,POST /api/auth/login,200,OK,Users 1-3,text,true,,619,267,10,10,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,1926,0,48
+1764950194886,1948,POST /api/auth/login,200,OK,Users 1-1,text,true,,631,267,10,10,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,1948,0,47
+1764950194496,2364,POST /api/auth/login,200,OK,Users 1-8,text,true,,621,267,10,10,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,2363,0,132
+1764950195189,1679,POST /submit,200,OK,Users 1-10,text,true,,2367,665,10,10,https://test-microservices.iqbalfadhil.biz.id/submit?token=c6fe4a2dcb314b2091f39175f4a8252a,1678,0,47
+1764950196091,778,POST /submit,200,OK,Users 1-2,text,true,,2361,665,10,10,https://test-microservices.iqbalfadhil.biz.id/submit?token=ae76d0e81c534580b325e83b07f98f6d,778,0,47
+1764950196263,608,POST /submit,200,OK,Users 1-6,text,true,,2371,665,10,10,https://test-microservices.iqbalfadhil.biz.id/submit?token=9975d19102a04733806a0f568f4fc9a8,607,0,47
+1764950195007,1902,POST /submit,200,OK,Users 1-9,text,true,,2365,665,10,10,https://test-microservices.iqbalfadhil.biz.id/submit?token=397300c4de7c4c16ba6e2501546627c7,1901,0,48
+1764950194991,1993,POST /api/auth/login,200,OK,Users 1-5,text,true,,619,267,10,10,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,1993,0,949
+1764950197839,109,GET /api/auth/me?token=XXX,200,OK,Users 1-1,text,true,,669,202,10,10,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=72b6a521dbb448759f2f4444b01d3eb6,109,0,48
+1764950197862,156,GET /api/auth/me?token=XXX,200,OK,Users 1-8,text,true,,671,202,10,10,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=6467149318d845caa603ea6afae1b339,155,0,50
+1764950198950,104,GET /questions,200,OK,Users 1-1,text,true,,2417,178,10,10,https://test-microservices.iqbalfadhil.biz.id/questions,103,0,47
+1764950199019,139,GET /questions,200,OK,Users 1-8,text,true,,2415,178,10,10,https://test-microservices.iqbalfadhil.biz.id/questions,139,0,50
+1764950197987,1439,GET /api/auth/me?token=XXX,200,OK,Users 1-5,text,true,,671,202,10,10,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=eb89cf285449498098ca71281ba6cb3d,1439,0,44
+1764950197871,1556,Re-Login (simulate logout),200,OK,Users 1-2,text,true,,623,267,10,10,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,1556,0,45
+1764950197836,1601,GET /api/auth/me?token=XXX,200,OK,Users 1-7,text,true,,677,202,10,10,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=81f6fc1061ac40d998d2b180ee185810,1601,0,1060
+1764950197879,1580,Re-Login (simulate logout),200,OK,Users 1-6,text,true,,625,267,10,10,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,1579,0,100
+1764950197870,1599,Re-Login (simulate logout),200,OK,Users 1-10,text,true,,629,267,10,10,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,1599,0,46
+1764950197851,1628,GET /api/auth/me?token=XXX,200,OK,Users 1-3,text,true,,673,202,10,10,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=6df3225422b14703bfde1e96f6b3df1d,1628,0,130
+1764950197911,1578,Re-Login (simulate logout),200,OK,Users 1-9,text,true,,615,267,10,10,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,1578,0,119
+1764950197836,1718,GET /api/auth/me?token=XXX,200,OK,Users 1-4,text,true,,671,202,10,10,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=70949f8bcc874eed829a46e8db11cda3,1718,0,1278
+1764950200430,0,Debug Vars,200,OK,Users 1-2,text,true,,855,0,10,10,null,0,0,0
+1764950200460,0,Debug Vars,200,OK,Users 1-6,text,true,,856,0,10,10,null,0,0,0
+1764950200470,0,Debug Vars,200,OK,Users 1-10,text,true,,857,0,10,10,null,0,0,0
+1764950200490,0,Debug Vars,200,OK,Users 1-9,text,true,,856,0,10,10,null,0,0,0
+1764950200057,461,POST /submit,200,OK,Users 1-1,text,true,,2370,665,10,10,https://test-microservices.iqbalfadhil.biz.id/submit?token=72b6a521dbb448759f2f4444b01d3eb6,460,0,180
+1764950200439,111,GET /questions,200,OK,Users 1-7,text,true,,2413,178,10,10,https://test-microservices.iqbalfadhil.biz.id/questions,110,0,49
+1764950200556,132,GET /questions,200,OK,Users 1-4,text,true,,2413,178,10,10,https://test-microservices.iqbalfadhil.biz.id/questions,131,0,45
+1764950200484,204,GET /questions,200,OK,Users 1-3,text,true,,2409,178,10,10,https://test-microservices.iqbalfadhil.biz.id/questions,204,0,48
+1764950200427,313,GET /questions,200,OK,Users 1-5,text,true,,2419,178,10,10,https://test-microservices.iqbalfadhil.biz.id/questions,313,0,111
+1764950201472,117,GET Login Page,200,OK,Users 1-10,text,true,,1156,169,10,10,https://microservices.iqbalfadhil.biz.id/login,117,0,47
+1764950201491,112,GET Login Page,200,OK,Users 1-9,text,true,,1154,169,10,10,https://microservices.iqbalfadhil.biz.id/login,112,0,47
+1764950200161,1483,POST /submit,200,OK,Users 1-8,text,true,,2375,665,10,10,https://test-microservices.iqbalfadhil.biz.id/submit?token=6467149318d845caa603ea6afae1b339,1483,0,348
+1764950201439,265,GET Login Page,200,OK,Users 1-2,text,true,,1154,169,10,10,https://microservices.iqbalfadhil.biz.id/login,265,0,151
+1764950201462,258,GET Login Page,200,OK,Users 1-6,text,true,,1150,169,10,10,https://microservices.iqbalfadhil.biz.id/login,257,0,157
+1764950201553,597,POST /submit,200,OK,Users 1-7,text,true,,2360,665,10,10,https://test-microservices.iqbalfadhil.biz.id/submit?token=81f6fc1061ac40d998d2b180ee185810,597,0,49
+1764950201691,478,POST /submit,200,OK,Users 1-4,text,true,,2371,665,10,10,https://test-microservices.iqbalfadhil.biz.id/submit?token=70949f8bcc874eed829a46e8db11cda3,477,0,47
+1764950201518,652,Re-Login (simulate logout),200,OK,Users 1-1,text,true,,625,267,10,10,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,651,0,137
+1764950201742,449,POST /submit,200,OK,Users 1-5,text,true,,2360,665,10,10,https://test-microservices.iqbalfadhil.biz.id/submit?token=eb89cf285449498098ca71281ba6cb3d,449,0,142
+1764950201694,540,POST /submit,200,OK,Users 1-3,text,true,,2364,665,10,10,https://test-microservices.iqbalfadhil.biz.id/submit?token=6df3225422b14703bfde1e96f6b3df1d,540,0,202
+1764950203171,0,Debug Vars,200,OK,Users 1-1,text,true,,855,0,10,10,null,0,0,0
+1764950204175,119,GET Login Page,200,OK,Users 1-1,text,true,,1150,169,10,10,https://microservices.iqbalfadhil.biz.id/login,119,0,49
+1764950202646,2907,Re-Login (simulate logout),200,OK,Users 1-8,text,true,,627,267,10,10,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,2906,0,49
+1764950202727,2827,POST /api/auth/login,200,OK,Users 1-6,text,true,,621,267,10,10,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,2826,0,48
+1764950202706,2847,POST /api/auth/login,200,OK,Users 1-2,text,true,,615,267,10,10,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,2847,0,44
+1764950203152,2739,Re-Login (simulate logout),200,OK,Users 1-7,text,true,,629,267,10,10,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,2738,0,45
+1764950203193,2700,Re-Login (simulate logout),200,OK,Users 1-5,text,true,,623,267,10,10,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,2700,0,46
+1764950202605,3340,POST /api/auth/login,200,OK,Users 1-9,text,true,,629,267,10,10,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,3339,0,153
+1764950202590,3362,POST /api/auth/login,200,OK,Users 1-10,text,true,,623,267,10,10,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,3362,0,158
+1764950203247,2976,Re-Login (simulate logout),200,OK,Users 1-3,text,true,,621,267,10,10,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,2976,0,49
+1764950205298,929,POST /api/auth/login,200,OK,Users 1-1,text,true,,623,267,10,10,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,929,0,46
+1764950203171,3109,Re-Login (simulate logout),200,OK,Users 1-4,text,true,,625,267,10,10,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,3108,0,133
+1764950206554,0,Debug Vars,200,OK,Users 1-8,text,true,,855,0,10,10,null,0,0,0
+1764950206555,119,GET /api/auth/me?token=XXX,200,OK,Users 1-6,text,true,,675,202,10,10,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=772dac9cd60e401b8e83e7f03578af93,119,0,48
+1764950206555,296,GET /api/auth/me?token=XXX,200,OK,Users 1-2,text,true,,667,202,10,10,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=397a444520c04f6f970b8ed5bec88a1f,296,0,160
+1764950206893,0,Debug Vars,200,OK,Users 1-7,text,true,,856,0,10,10,null,0,0,0
+1764950206894,0,Debug Vars,200,OK,Users 1-5,text,true,,855,0,10,10,null,0,0,0
+1764950206950,109,GET /api/auth/me?token=XXX,200,OK,Users 1-9,text,true,,669,202,10,10,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=4e7d9f8e49e54501b72a022d99b1db9a,109,0,52
+1764950206954,107,GET /api/auth/me?token=XXX,200,OK,Users 1-10,text,true,,677,202,10,10,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=6dee1ea6cbf74c22b945c659fc4a20f0,106,0,48
+1764950207224,0,Debug Vars,200,OK,Users 1-3,text,true,,856,0,10,10,null,0,0,0
+1764950207282,0,Debug Vars,200,OK,Users 1-4,text,true,,856,0,10,10,null,0,0,0
+1764950207229,96,GET /api/auth/me?token=XXX,200,OK,Users 1-1,text,true,,667,202,10,10,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=d9d74c6618df432aa82860247412c484,96,0,45
+1764950207557,113,GET Login Page,200,OK,Users 1-8,text,true,,1162,169,10,10,https://microservices.iqbalfadhil.biz.id/login,113,0,50
+1764950207676,240,GET /questions,200,OK,Users 1-6,text,true,,2409,178,10,10,https://test-microservices.iqbalfadhil.biz.id/questions,240,0,130
+1764950207855,138,GET /questions,200,OK,Users 1-2,text,true,,2421,178,10,10,https://test-microservices.iqbalfadhil.biz.id/questions,137,0,48
+1764950207896,114,GET Login Page,200,OK,Users 1-5,text,true,,1150,169,10,10,https://microservices.iqbalfadhil.biz.id/login,113,0,50
+1764950207896,118,GET Login Page,200,OK,Users 1-7,text,true,,1144,169,10,10,https://microservices.iqbalfadhil.biz.id/login,118,0,50
+1764950208061,105,GET /questions,200,OK,Users 1-10,text,true,,2415,178,10,10,https://test-microservices.iqbalfadhil.biz.id/questions,105,0,46
+1764950208229,114,GET Login Page,200,OK,Users 1-3,text,true,,1150,169,10,10,https://microservices.iqbalfadhil.biz.id/login,114,0,50
+1764950208283,115,GET Login Page,200,OK,Users 1-4,text,true,,1146,169,10,10,https://microservices.iqbalfadhil.biz.id/login,115,0,46
+1764950208327,157,GET /questions,200,OK,Users 1-1,text,true,,2417,178,10,10,https://test-microservices.iqbalfadhil.biz.id/questions,156,0,51
+1764950208060,485,GET /questions,200,OK,Users 1-9,text,true,,2417,178,10,10,https://test-microservices.iqbalfadhil.biz.id/questions,484,0,278
+1764950209016,1259,POST /api/auth/login,200,OK,Users 1-7,text,true,,627,267,10,10,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,1258,0,56
+1764950208673,1602,POST /api/auth/login,200,OK,Users 1-8,text,true,,629,267,10,10,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,1601,0,51
+1764950209349,930,POST /api/auth/login,200,OK,Users 1-3,text,true,,623,267,10,10,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,929,0,46
+1764950209169,1148,POST /submit,200,OK,Users 1-10,text,true,,2360,665,10,10,https://test-microservices.iqbalfadhil.biz.id/submit?token=6dee1ea6cbf74c22b945c659fc4a20f0,1148,0,53
+1764950209547,773,POST /submit,200,OK,Users 1-9,text,true,,2358,665,10,10,https://test-microservices.iqbalfadhil.biz.id/submit?token=4e7d9f8e49e54501b72a022d99b1db9a,773,0,48
+1764950209011,1319,POST /api/auth/login,200,OK,Users 1-5,text,true,,617,267,10,10,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,1319,0,175
+1764950209486,891,POST /submit,200,OK,Users 1-1,text,true,,2371,665,10,10,https://test-microservices.iqbalfadhil.biz.id/submit?token=d9d74c6618df432aa82860247412c484,891,0,188
+1764950208919,1493,POST /submit,200,OK,Users 1-6,text,true,,2367,665,10,10,https://test-microservices.iqbalfadhil.biz.id/submit?token=772dac9cd60e401b8e83e7f03578af93,1493,0,338
+1764950208996,1496,POST /submit,200,OK,Users 1-2,text,true,,2365,665,10,10,https://test-microservices.iqbalfadhil.biz.id/submit?token=397a444520c04f6f970b8ed5bec88a1f,1496,0,353
+1764950209400,1649,POST /api/auth/login,200,OK,Users 1-4,text,true,,625,267,10,10,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,1649,0,1149
+1764950211279,109,GET /api/auth/me?token=XXX,200,OK,Users 1-7,text,true,,667,202,10,10,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=76f5373288344ec680eee6259f5f2877,109,0,46
+1764950211285,164,GET /api/auth/me?token=XXX,200,OK,Users 1-3,text,true,,671,202,10,10,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=03121e8dfcf7472e8c299630bc2878ee,163,0,45
+1764950211331,118,GET /api/auth/me?token=XXX,200,OK,Users 1-5,text,true,,683,202,10,10,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=fac8bd3e83e04e48ae41cec2ef599aa5,117,0,46
+1764950211278,278,GET /api/auth/me?token=XXX,200,OK,Users 1-8,text,true,,679,202,10,10,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=d7e151eae5ae46da95e6abe11fb7e7e2,278,0,154
+1764950212389,110,GET /questions,200,OK,Users 1-7,text,true,,2417,178,9,9,https://test-microservices.iqbalfadhil.biz.id/questions,110,0,47
+1764950212450,107,GET /questions,200,OK,Users 1-5,text,true,,2411,178,8,8,https://test-microservices.iqbalfadhil.biz.id/questions,107,0,46
+1764950212451,296,GET /questions,200,OK,Users 1-3,text,true,,2427,178,7,7,https://test-microservices.iqbalfadhil.biz.id/questions,296,0,175
+1764950211378,1960,Re-Login (simulate logout),200,OK,Users 1-1,text,true,,629,267,6,6,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,1960,0,44
+1764950211493,1846,Re-Login (simulate logout),200,OK,Users 1-2,text,true,,631,267,5,5,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,1846,0,48
+1764950212050,1289,GET /api/auth/me?token=XXX,200,OK,Users 1-4,text,true,,669,202,4,4,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=fba0253a0aab43f79932eb9cf8441105,1289,0,45
+1764950211322,2095,Re-Login (simulate logout),200,OK,Users 1-9,text,true,,625,267,3,3,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,2095,0,166
+1764950211319,2169,Re-Login (simulate logout),200,OK,Users 1-10,text,true,,623,267,2,2,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,2169,0,338
+1764950211413,2121,Re-Login (simulate logout),200,OK,Users 1-6,text,true,,621,267,1,1,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,2121,0,396

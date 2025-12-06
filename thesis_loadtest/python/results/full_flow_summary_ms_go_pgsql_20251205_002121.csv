@@ -1,0 +1,8 @@
+architecture,concurrency,flows,total_steps,duration_sec,throughput_steps_per_sec,avg_latency_ms,min_latency_ms,max_latency_ms,error_count,error_rate,success_count
+ms_go_pgsql,10,500,2500,32.96,75.84,123.01,47.2,4109.8,0,0.0,2500
+ms_go_pgsql,20,500,2500,23.4,106.83,138.51,47.01,8500.46,0,0.0,2500
+ms_go_pgsql,50,500,2500,18.19,137.41,296.51,49.62,4238.69,0,0.0,2500
+ms_go_pgsql,80,500,2500,14.1,177.32,378.79,50.73,2212.28,0,0.0,2500
+ms_go_pgsql,100,500,2500,14.48,172.66,504.69,50.96,7279.1,0,0.0,2500
+ms_go_pgsql,200,500,2500,13.84,180.61,886.02,50.21,6926.55,0,0.0,2500
+ms_go_pgsql,500,500,2500,64.03,39.05,1874.51,49.78,15003.09,0,0.0,2500

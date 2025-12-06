@@ -1,0 +1,1183 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1764914753525,198,GET Login Page,200,OK,Users 1-1,text,true,,1152,169,1,1,https://microservices.iqbalfadhil.biz.id/login,198,0,93
+1764914754729,394,POST /api/auth/login,200,OK,Users 1-1,text,true,,905,267,1,1,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,394,0,64
+1764914756150,183,GET /api/auth/me?token=XXX,200,OK,Users 1-1,text,true,,950,202,5,5,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=057ad80db16829425eda5669059c43cd,183,0,50
+1764914756547,144,GET Login Page,200,OK,Users 1-2,text,true,,1156,169,7,7,https://microservices.iqbalfadhil.biz.id/login,144,0,52
+1764914756775,121,GET Login Page,200,OK,Users 1-3,text,true,,1150,169,8,8,https://microservices.iqbalfadhil.biz.id/login,121,0,52
+1764914756951,115,GET Login Page,200,OK,Users 1-4,text,true,,1150,169,9,9,https://microservices.iqbalfadhil.biz.id/login,114,0,52
+1764914757186,208,GET Login Page,200,OK,Users 1-5,text,true,,1156,169,11,11,https://microservices.iqbalfadhil.biz.id/login,208,0,51
+1764914754530,128,GET Login Page,200,OK,Users 1-6,text,true,,1156,169,11,11,https://microservices.iqbalfadhil.biz.id/login,128,0,54
+1764914754518,208,GET /questions,200,OK,Users 1-1,text,true,,2698,178,12,12,https://test-microservices.iqbalfadhil.biz.id/questions,206,0,54
+1764914754731,129,GET Login Page,200,OK,Users 1-7,text,true,,1154,169,12,12,https://microservices.iqbalfadhil.biz.id/login,127,0,49
+1764914754926,144,GET Login Page,200,OK,Users 1-8,text,true,,1158,169,13,13,https://microservices.iqbalfadhil.biz.id/login,143,0,51
+1764914755126,116,GET Login Page,200,OK,Users 1-9,text,true,,1148,169,14,14,https://microservices.iqbalfadhil.biz.id/login,115,0,52
+1764914754876,370,POST /api/auth/login,200,OK,Users 1-2,text,true,,907,267,14,14,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,370,0,50
+1764914755335,113,GET Login Page,200,OK,Users 1-10,text,true,,1148,169,15,15,https://microservices.iqbalfadhil.biz.id/login,112,0,50
+1764914755097,377,POST /api/auth/login,200,OK,Users 1-3,text,true,,903,267,15,15,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,377,0,50
+1764914755250,381,POST /api/auth/login,200,OK,Users 1-4,text,true,,905,267,16,16,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,379,0,51
+1764914755535,122,GET Login Page,200,OK,Users 1-11,text,true,,1150,169,16,16,https://microservices.iqbalfadhil.biz.id/login,119,0,51
+1764914755726,115,GET Login Page,200,OK,Users 1-12,text,true,,1166,169,17,17,https://microservices.iqbalfadhil.biz.id/login,115,0,54
+1764914755580,349,POST /api/auth/login,200,OK,Users 1-5,text,true,,909,267,18,18,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,349,0,49
+1764914755927,120,GET Login Page,200,OK,Users 1-13,text,true,,1150,169,18,18,https://microservices.iqbalfadhil.biz.id/login,120,0,51
+1764914755663,407,POST /api/auth/login,200,OK,Users 1-6,text,true,,903,267,18,18,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,407,0,50
+1764914755748,368,POST /submit,200,OK,Users 1-1,text,true,,2338,665,18,18,https://test-microservices.iqbalfadhil.biz.id/submit?token=057ad80db16829425eda5669059c43cd,368,0,49
+1764914756133,113,GET Login Page,200,OK,Users 1-14,text,true,,1148,169,19,19,https://microservices.iqbalfadhil.biz.id/login,113,0,51
+1764914755866,380,POST /api/auth/login,200,OK,Users 1-7,text,true,,901,267,19,19,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,379,0,49
+1764914756074,310,POST /api/auth/login,200,OK,Users 1-8,text,true,,901,267,20,20,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,310,0,49
+1764914756247,171,GET /api/auth/me?token=XXX,200,OK,Users 1-2,text,true,,954,202,20,20,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=ee8e93fd304143e0b5ec58934ecbb20c,171,0,48
+1764914756324,115,GET Login Page,200,OK,Users 1-15,text,true,,1154,169,20,20,https://microservices.iqbalfadhil.biz.id/login,114,0,51
+1764914756258,290,POST /api/auth/login,200,OK,Users 1-9,text,true,,907,267,21,21,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,290,0,50
+1764914756525,106,GET Login Page,200,OK,Users 1-16,text,true,,1154,169,21,21,https://microservices.iqbalfadhil.biz.id/login,106,0,50
+1764914756491,145,GET /api/auth/me?token=XXX,200,OK,Users 1-3,text,true,,958,202,21,21,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=ace7548ab8cd52d6fdb446e30b92c892,144,0,49
+1764914756728,113,GET Login Page,200,OK,Users 1-17,text,true,,1152,169,22,22,https://microservices.iqbalfadhil.biz.id/login,112,0,52
+1764914756449,439,POST /api/auth/login,200,OK,Users 1-10,text,true,,909,267,22,22,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,439,0,52
+1764914756638,290,GET /api/auth/me?token=XXX,200,OK,Users 1-4,text,true,,962,202,22,22,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=6bcb2020b76431ed00cf41653680cc40,290,0,48
+1764914756929,143,GET Login Page,200,OK,Users 1-18,text,true,,1154,169,23,23,https://microservices.iqbalfadhil.biz.id/login,143,0,51
+1764914756658,427,POST /api/auth/login,200,OK,Users 1-11,text,true,,907,267,23,23,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,427,0,50
+1764914756844,383,POST /api/auth/login,200,OK,Users 1-12,text,true,,901,267,24,24,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,382,0,50
+1764914757128,107,GET Login Page,200,OK,Users 1-19,text,true,,1152,169,24,24,https://microservices.iqbalfadhil.biz.id/login,106,0,48
+1764914756934,323,GET /api/auth/me?token=XXX,200,OK,Users 1-5,text,true,,952,202,24,24,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=53e5d5167b56444aa249cb495ed0ee87,322,0,50
+1764914757076,215,GET /api/auth/me?token=XXX,200,OK,Users 1-6,text,true,,958,202,24,24,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=38b4677a0d24ed821e561ee2d17c4c85,213,0,49
+1764914757050,382,POST /api/auth/login,200,OK,Users 1-13,text,true,,897,267,25,25,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,381,0,50
+1764914757325,144,GET Login Page,200,OK,Users 1-20,text,true,,1158,169,25,25,https://microservices.iqbalfadhil.biz.id/login,141,0,50
+1764914757124,450,Re-Login (simulate logout),200,OK,Users 1-1,text,true,,905,267,26,26,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,449,0,47
+1764914757424,177,GET /questions,200,OK,Users 1-2,text,true,,2690,178,26,26,https://test-microservices.iqbalfadhil.biz.id/questions,176,0,52
+1764914757247,358,GET /api/auth/me?token=XXX,200,OK,Users 1-7,text,true,,954,202,26,26,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=f3be47ff3c7a33e1bca2a34d6cd18b5c,357,0,47
+1764914757527,110,GET Login Page,200,OK,Users 1-21,text,true,,1162,169,26,26,https://microservices.iqbalfadhil.biz.id/login,109,0,53
+1764914757252,493,POST /api/auth/login,200,OK,Users 1-14,text,true,,901,267,27,27,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,493,0,47
+1764914757638,137,GET /questions,200,OK,Users 1-3,text,true,,2688,178,27,27,https://test-microservices.iqbalfadhil.biz.id/questions,137,0,53
+1764914757392,389,GET /api/auth/me?token=XXX,200,OK,Users 1-8,text,true,,948,202,27,27,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=ef73694387268b235809083af29b54e4,388,0,54
+1764914757741,115,GET Login Page,200,OK,Users 1-22,text,true,,1150,169,27,27,https://microservices.iqbalfadhil.biz.id/login,114,0,52
+1764914757441,479,POST /api/auth/login,200,OK,Users 1-15,text,true,,907,267,27,27,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,478,0,52
+1764914757555,399,GET /api/auth/me?token=XXX,200,OK,Users 1-9,text,true,,956,202,28,28,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=f355121d1135bc84f2cf3dd69fe0c89b,398,0,53
+1764914757642,457,POST /api/auth/login,200,OK,Users 1-16,text,true,,911,267,28,28,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,454,0,50
+1764914757940,176,GET Login Page,200,OK,Users 1-23,text,true,,1154,169,28,28,https://microservices.iqbalfadhil.biz.id/login,174,0,53
+1764914757892,239,GET /api/auth/me?token=XXX,200,OK,Users 1-10,text,true,,958,202,29,29,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=34828c171fb016db6f776f2b4d784811,238,0,48
+1764914757940,209,GET /questions,200,OK,Users 1-4,text,true,,2710,178,29,29,https://test-microservices.iqbalfadhil.biz.id/questions,206,0,51
+1764914757846,467,POST /api/auth/login,200,OK,Users 1-17,text,true,,917,267,29,29,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,466,0,53
+1764914758125,189,GET Login Page,200,OK,Users 1-24,text,true,,1146,169,29,29,https://microservices.iqbalfadhil.biz.id/login,188,0,52
+1764914758090,226,GET /api/auth/me?token=XXX,200,OK,Users 1-11,text,true,,958,202,29,29,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=707bd6bd26ea48d9d6681aab3325ef3b,221,0,46
+1764914758258,131,GET /questions,200,OK,Users 1-5,text,true,,2706,178,30,30,https://test-microservices.iqbalfadhil.biz.id/questions,131,0,50
+1764914758325,110,GET Login Page,200,OK,Users 1-25,text,true,,1160,169,30,30,https://microservices.iqbalfadhil.biz.id/login,110,0,50
+1764914758074,384,POST /api/auth/login,200,OK,Users 1-18,text,true,,905,267,30,30,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,383,0,51
+1764914758292,209,GET /questions,200,OK,Users 1-6,text,true,,2700,178,30,30,https://test-microservices.iqbalfadhil.biz.id/questions,208,0,52
+1764914758235,281,GET /api/auth/me?token=XXX,200,OK,Users 1-12,text,true,,960,202,30,30,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=e62c84f3ebd3fd435fadeefcb0013b76,252,0,47
+1764914758576,0,Debug Vars,200,OK,Users 1-1,text,true,,855,0,31,31,null,0,0,0
+1764914758236,393,POST /api/auth/login,200,OK,Users 1-19,text,true,,903,267,31,31,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,392,0,51
+1764914758532,108,GET Login Page,200,OK,Users 1-26,text,true,,1150,169,31,31,https://microservices.iqbalfadhil.biz.id/login,107,0,48
+1764914758434,227,GET /api/auth/me?token=XXX,200,OK,Users 1-13,text,true,,958,202,31,31,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=63fd7bd4e0c9c05694ac3e23e99831ed,225,0,53
+1764914758604,275,POST /submit,200,OK,Users 1-2,text,true,,2331,665,32,32,https://test-microservices.iqbalfadhil.biz.id/submit?token=ee8e93fd304143e0b5ec58934ecbb20c,275,0,48
+1764914758734,155,GET Login Page,200,OK,Users 1-27,text,true,,1152,169,32,32,https://microservices.iqbalfadhil.biz.id/login,154,0,53
+1764914758608,311,GET /questions,200,OK,Users 1-7,text,true,,2702,178,32,32,https://test-microservices.iqbalfadhil.biz.id/questions,278,0,50
+1764914758785,206,GET /questions,200,OK,Users 1-8,text,true,,2698,178,33,33,https://test-microservices.iqbalfadhil.biz.id/questions,203,0,50
+1764914758643,348,POST /api/auth/login,200,OK,Users 1-21,text,true,,895,267,33,33,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,348,0,49
+1764914758747,258,GET /api/auth/me?token=XXX,200,OK,Users 1-14,text,true,,954,202,33,33,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=cdb52f6f3bd5eb30f134178e72654a0f,258,0,47
+1764914758941,120,GET Login Page,200,OK,Users 1-28,text,true,,1158,169,33,33,https://microservices.iqbalfadhil.biz.id/login,119,0,52
+1764914758475,661,POST /api/auth/login,200,OK,Users 1-20,text,true,,903,267,34,34,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,661,0,54
+1764914758780,403,POST /submit,200,OK,Users 1-3,text,true,,2334,665,34,34,https://test-microservices.iqbalfadhil.biz.id/submit?token=ace7548ab8cd52d6fdb446e30b92c892,402,0,45
+1764914758957,262,GET /questions,200,OK,Users 1-9,text,true,,2696,178,34,34,https://test-microservices.iqbalfadhil.biz.id/questions,261,0,50
+1764914759129,115,GET Login Page,200,OK,Users 1-29,text,true,,1146,169,34,34,https://microservices.iqbalfadhil.biz.id/login,115,0,51
+1764914759132,149,GET /questions,200,OK,Users 1-10,text,true,,2704,178,34,34,https://test-microservices.iqbalfadhil.biz.id/questions,149,0,50
+1764914758858,470,POST /api/auth/login,200,OK,Users 1-22,text,true,,901,267,35,35,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,468,0,52
+1764914758921,438,GET /api/auth/me?token=XXX,200,OK,Users 1-15,text,true,,956,202,35,35,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=bbcb114dc94d9ae43ef0997fd8912ae9,438,0,46
+1764914759106,284,GET /api/auth/me?token=XXX,200,OK,Users 1-16,text,true,,952,202,35,35,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=88a0b83786ee125e7488a7db121d5cba,283,0,49
+1764914759325,109,GET Login Page,200,OK,Users 1-30,text,true,,1164,169,35,35,https://microservices.iqbalfadhil.biz.id/login,108,0,50
+1764914759119,417,POST /api/auth/login,200,OK,Users 1-23,text,true,,907,267,36,36,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,417,0,49
+1764914759152,423,POST /submit,200,OK,Users 1-4,text,true,,2325,665,36,36,https://test-microservices.iqbalfadhil.biz.id/submit?token=6bcb2020b76431ed00cf41653680cc40,422,0,48
+1764914759320,277,GET /api/auth/me?token=XXX,200,OK,Users 1-17,text,true,,960,202,36,36,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=05dc3f62bc7e3f3079632318393e7276,276,0,48
+1764914759320,301,GET /questions,200,OK,Users 1-11,text,true,,2694,178,36,36,https://test-microservices.iqbalfadhil.biz.id/questions,301,0,55
+1764914759539,109,GET Login Page,200,OK,Users 1-31,text,true,,1156,169,36,36,https://microservices.iqbalfadhil.biz.id/login,109,0,51
+1764914759320,420,POST /api/auth/login,200,OK,Users 1-24,text,true,,901,267,37,37,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,419,0,49
+1764914759589,158,GET Login Page,200,OK,Users 1-1,text,true,,1152,169,37,37,https://microservices.iqbalfadhil.biz.id/login,158,0,47
+1764914759461,312,GET /api/auth/me?token=XXX,200,OK,Users 1-18,text,true,,950,202,37,37,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=0adbd383b6f4fa737cca6f0722150c10,311,0,45
+1764914759393,436,POST /submit,200,OK,Users 1-5,text,true,,2337,665,37,37,https://test-microservices.iqbalfadhil.biz.id/submit?token=53e5d5167b56444aa249cb495ed0ee87,436,0,46
+1764914759729,104,GET Login Page,200,OK,Users 1-32,text,true,,1156,169,37,37,https://microservices.iqbalfadhil.biz.id/login,104,0,49
+1764914759438,510,POST /api/auth/login,200,OK,Users 1-25,text,true,,901,267,38,38,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,507,0,52
+1764914759631,351,GET /api/auth/me?token=XXX,200,OK,Users 1-19,text,true,,962,202,38,38,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=53de41b2c21ea96120a0f7a4ab873f5a,348,0,50
+1764914759937,105,GET Login Page,200,OK,Users 1-33,text,true,,1148,169,38,38,https://microservices.iqbalfadhil.biz.id/login,105,0,51
+1764914759642,483,POST /api/auth/login,200,OK,Users 1-26,text,true,,913,267,39,39,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,482,0,53
+1764914759503,667,POST /submit,200,OK,Users 1-6,text,true,,2334,665,39,39,https://test-microservices.iqbalfadhil.biz.id/submit?token=38b4677a0d24ed821e561ee2d17c4c85,667,0,49
+1764914759520,689,GET /questions,200,OK,Users 1-12,text,true,,2698,178,39,39,https://test-microservices.iqbalfadhil.biz.id/questions,688,0,48
+1764914760130,106,GET Login Page,200,OK,Users 1-34,text,true,,1154,169,39,39,https://microservices.iqbalfadhil.biz.id/login,106,0,50
+1764914759667,575,GET /questions,200,OK,Users 1-13,text,true,,2692,178,39,39,https://test-microservices.iqbalfadhil.biz.id/questions,574,0,51
+1764914759885,431,Re-Login (simulate logout),200,OK,Users 1-2,text,true,,903,267,39,39,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,431,0,48
+1764914759896,560,POST /api/auth/login,200,OK,Users 1-27,text,true,,905,267,40,40,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,560,0,50
+1764914759996,490,GET /api/auth/me?token=XXX,200,OK,Users 1-21,text,true,,954,202,40,40,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=d22b35edd5b6a18da05bafa583b23f43,489,0,47
+1764914760139,379,GET /api/auth/me?token=XXX,200,OK,Users 1-20,text,true,,952,202,40,40,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=f089fc03bd98a46eddc6a2f59e720504,379,0,45
+1764914760331,278,GET Login Page,200,OK,Users 1-35,text,true,,1148,169,41,41,https://microservices.iqbalfadhil.biz.id/login,277,0,51
+1764914760529,111,GET Login Page,200,OK,Users 1-36,text,true,,1150,169,41,41,https://microservices.iqbalfadhil.biz.id/login,110,0,55
+1764914760064,599,POST /api/auth/login,200,OK,Users 1-28,text,true,,905,267,41,41,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,598,0,51
+1764914759928,779,POST /submit,200,OK,Users 1-7,text,true,,2334,665,41,41,https://test-microservices.iqbalfadhil.biz.id/submit?token=f3be47ff3c7a33e1bca2a34d6cd18b5c,779,0,51
+1764914760724,108,GET Login Page,200,OK,Users 1-37,text,true,,1154,169,42,42,https://microservices.iqbalfadhil.biz.id/login,108,0,50
+1764914760184,653,Re-Login (simulate logout),200,OK,Users 1-3,text,true,,897,267,42,42,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,651,0,47
+1764914760333,538,GET /api/auth/me?token=XXX,200,OK,Users 1-22,text,true,,960,202,42,42,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=133e79ae9ce9eaa36b0e5cd19bc5f61f,538,0,51
+1764914760246,763,POST /api/auth/login,200,OK,Users 1-29,text,true,,909,267,43,43,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,763,0,56
+1764914760926,107,GET Login Page,200,OK,Users 1-38,text,true,,1160,169,43,43,https://microservices.iqbalfadhil.biz.id/login,107,0,49
+1764914760436,715,POST /api/auth/login,200,OK,Users 1-30,text,true,,901,267,44,44,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,713,0,50
+1764914760543,642,GET /api/auth/me?token=XXX,200,OK,Users 1-23,text,true,,950,202,44,44,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=72d25ca3e190ec2ba9338e202fd37f83,641,0,46
+1764914761126,107,GET Login Page,200,OK,Users 1-39,text,true,,1160,169,44,44,https://microservices.iqbalfadhil.biz.id/login,107,0,51
+1764914759999,1239,POST /submit,200,OK,Users 1-8,text,true,,2334,665,44,44,https://test-microservices.iqbalfadhil.biz.id/submit?token=ef73694387268b235809083af29b54e4,1239,0,49
+1764914760008,1258,GET /questions,200,OK,Users 1-14,text,true,,2702,178,44,44,https://test-microservices.iqbalfadhil.biz.id/questions,1257,0,50
+1764914761318,0,Debug Vars,200,OK,Users 1-2,text,true,,856,0,44,44,null,0,0,0
+1764914760579,786,Re-Login (simulate logout),200,OK,Users 1-4,text,true,,905,267,45,45,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,786,0,55
+1764914761336,141,GET Login Page,200,OK,Users 1-40,text,true,,1152,169,45,45,https://microservices.iqbalfadhil.biz.id/login,141,0,48
+1764914760652,855,POST /api/auth/login,200,OK,Users 1-31,text,true,,899,267,45,45,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,855,0,48
+1764914760746,790,GET /api/auth/me?token=XXX,200,OK,Users 1-24,text,true,,952,202,46,46,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=8103afc5cefb08ad7a9cc3e51570ab5b,790,0,48
+1764914761533,112,GET Login Page,200,OK,Users 1-41,text,true,,1158,169,46,46,https://microservices.iqbalfadhil.biz.id/login,112,0,54
+1764914760748,926,POST /api/auth/login,200,OK,Users 1-1,text,true,,905,267,46,46,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,926,0,51
+1764914760831,984,Re-Login (simulate logout),200,OK,Users 1-5,text,true,,907,267,47,47,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,983,0,50
+1764914761728,107,GET Login Page,200,OK,Users 1-42,text,true,,1154,169,47,47,https://microservices.iqbalfadhil.biz.id/login,107,0,53
+1764914761838,0,Debug Vars,200,OK,Users 1-3,text,true,,856,0,47,47,null,0,0,0
+1764914760834,1122,POST /api/auth/login,200,OK,Users 1-32,text,true,,901,267,48,48,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,1122,0,51
+1764914760953,1036,GET /api/auth/me?token=XXX,200,OK,Users 1-25,text,true,,962,202,48,48,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=799e9e4ed2387a76856969a37c79af30,1035,0,48
+1764914761941,105,GET Login Page,200,OK,Users 1-43,text,true,,1148,169,48,48,https://microservices.iqbalfadhil.biz.id/login,104,0,50
+1764914761053,1079,POST /api/auth/login,200,OK,Users 1-33,text,true,,901,267,49,49,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,1079,0,51
+1764914761126,1037,GET /api/auth/me?token=XXX,200,OK,Users 1-26,text,true,,962,202,49,49,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=729aaef5d5cb1a3e558759b16b6ef27f,1036,0,49
+1764914760221,2001,POST /submit,200,OK,Users 1-9,text,true,,2338,665,49,49,https://test-microservices.iqbalfadhil.biz.id/submit?token=f355121d1135bc84f2cf3dd69fe0c89b,2000,0,48
+1764914762134,131,GET Login Page,200,OK,Users 1-44,text,true,,1150,169,49,49,https://microservices.iqbalfadhil.biz.id/login,131,0,46
+1764914761171,1175,Re-Login (simulate logout),200,OK,Users 1-6,text,true,,913,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,1175,0,50
+1764914762366,0,Debug Vars,200,OK,Users 1-4,text,true,,856,0,50,50,null,0,0,0
+1764914762319,100,GET Login Page,200,OK,Users 1-2,text,true,,1150,169,50,50,https://microservices.iqbalfadhil.biz.id/login,100,0,47
+1764914762325,109,GET Login Page,200,OK,Users 1-45,text,true,,1148,169,50,50,https://microservices.iqbalfadhil.biz.id/login,109,0,52
+1764914761238,1255,POST /api/auth/login,200,OK,Users 1-34,text,true,,915,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,1255,0,50
+1764914761467,1060,GET /api/auth/me?token=XXX,200,OK,Users 1-27,text,true,,958,202,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=6848923b8c8feac1dc834995dcd2f6f4,1060,0,47
+1764914761665,896,GET /api/auth/me?token=XXX,200,OK,Users 1-28,text,true,,948,202,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=f17506aee083f3af1b7825532c0dc01e,896,0,47
+1764914762531,104,GET Login Page,200,OK,Users 1-46,text,true,,1150,169,50,50,https://microservices.iqbalfadhil.biz.id/login,103,0,47
+1764914761611,1092,POST /api/auth/login,200,OK,Users 1-35,text,true,,909,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,1092,0,52
+1764914762818,0,Debug Vars,200,OK,Users 1-5,text,true,,856,0,50,50,null,0,0,0
+1764914762725,105,GET Login Page,200,OK,Users 1-47,text,true,,1154,169,50,50,https://microservices.iqbalfadhil.biz.id/login,104,0,47
+1764914761674,1169,POST /api/auth/login,200,OK,Users 1-36,text,true,,901,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,1169,0,53
+1764914762839,99,GET Login Page,200,OK,Users 1-3,text,true,,1146,169,50,50,https://microservices.iqbalfadhil.biz.id/login,98,0,44
+1764914761722,1264,Re-Login (simulate logout),200,OK,Users 1-7,text,true,,905,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,1264,0,50
+1764914762935,112,GET Login Page,200,OK,Users 1-48,text,true,,1152,169,50,50,https://microservices.iqbalfadhil.biz.id/login,112,0,48
+1764914761835,1292,POST /api/auth/login,200,OK,Users 1-37,text,true,,901,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,1292,0,48
+1764914762013,1149,GET /api/auth/me?token=XXX,200,OK,Users 1-29,text,true,,956,202,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=22e31fec1a730309373e5966cfeef938,1149,0,45
+1764914763130,119,GET Login Page,200,OK,Users 1-49,text,true,,1156,169,50,50,https://microservices.iqbalfadhil.biz.id/login,116,0,48
+1764914762036,1270,POST /api/auth/login,200,OK,Users 1-38,text,true,,907,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,1270,0,51
+1764914760284,3062,POST /submit,200,OK,Users 1-10,text,true,,2345,665,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=34828c171fb016db6f776f2b4d784811,3062,0,48
+1764914763346,0,Debug Vars,200,OK,Users 1-6,text,true,,856,0,50,50,null,0,0,0
+1764914762152,1214,GET /api/auth/me?token=XXX,200,OK,Users 1-30,text,true,,968,202,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=a3eae82a55bc4613b7261bed658f63a5,1213,0,46
+1764914760362,3017,GET /questions,200,OK,Users 1-15,text,true,,2692,178,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,3016,0,51
+1764914760394,3017,GET /questions,200,OK,Users 1-16,text,true,,2696,178,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,3016,0,50
+1764914763326,106,GET Login Page,200,OK,Users 1-50,text,true,,1144,169,50,50,https://microservices.iqbalfadhil.biz.id/login,106,0,49
+1764914760604,2834,GET /questions,200,OK,Users 1-17,text,true,,2698,178,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,2833,0,50
+1764914763367,99,GET Login Page,200,OK,Users 1-4,text,true,,1150,169,50,50,https://microservices.iqbalfadhil.biz.id/login,98,0,46
+1764914762236,1284,POST /api/auth/login,200,OK,Users 1-39,text,true,,903,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,1283,0,50
+1764914762250,1409,Re-Login (simulate logout),200,OK,Users 1-8,text,true,,903,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,1408,0,46
+1764914762510,1196,GET /api/auth/me?token=XXX,200,OK,Users 1-31,text,true,,962,202,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=ee6fade5d0ce28aca747a3c2664f62df,1196,0,47
+1764914762488,1346,POST /api/auth/login,200,OK,Users 1-40,text,true,,917,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,1346,0,51
+1764914762682,1184,GET /api/auth/me?token=XXX,200,OK,Users 1-1,text,true,,952,202,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=1fb82428b36cb6431f80dba9757a0175,1183,0,44
+1764914763826,115,GET Login Page,200,OK,Users 1-5,text,true,,1152,169,50,50,https://microservices.iqbalfadhil.biz.id/login,114,0,48
+1764914763992,0,Debug Vars,200,OK,Users 1-7,text,true,,856,0,50,50,null,0,0,0
+1764914762649,1362,POST /api/auth/login,200,OK,Users 1-41,text,true,,905,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,1362,0,45
+1764914762839,1330,POST /api/auth/login,200,OK,Users 1-42,text,true,,909,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,1324,0,49
+1764914762959,1231,GET /api/auth/me?token=XXX,200,OK,Users 1-32,text,true,,952,202,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=00ed4ca3bb98eea7f29cbb9b9c3f160c,1230,0,45
+1764914763063,1266,POST /api/auth/login,200,OK,Users 1-43,text,true,,909,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,1266,0,47
+1764914763136,1225,GET /api/auth/me?token=XXX,200,OK,Users 1-33,text,true,,960,202,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=53aa9a83ece0dec7b1a79586a0670282,1225,0,47
+1764914764349,120,GET Login Page,200,OK,Users 1-6,text,true,,1148,169,50,50,https://microservices.iqbalfadhil.biz.id/login,119,0,48
+1764914763224,1280,Re-Login (simulate logout),200,OK,Users 1-9,text,true,,897,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,1279,0,49
+1764914763267,1377,POST /api/auth/login,200,OK,Users 1-44,text,true,,899,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,1377,0,50
+1764914764660,0,Debug Vars,200,OK,Users 1-8,text,true,,856,0,50,50,null,0,0,0
+1764914760626,4064,POST /submit,200,OK,Users 1-11,text,true,,2344,665,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=707bd6bd26ea48d9d6681aab3325ef3b,4061,0,47
+1764914760777,3936,GET /questions,200,OK,Users 1-18,text,true,,2700,178,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,3936,0,51
+1764914760985,3753,GET /questions,200,OK,Users 1-19,text,true,,2698,178,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,3753,0,49
+1764914763423,1400,POST /api/auth/login,200,OK,Users 1-2,text,true,,897,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,1399,0,45
+1764914763438,1523,POST /api/auth/login,200,OK,Users 1-45,text,true,,905,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,1522,0,49
+1764914763496,1526,GET /api/auth/me?token=XXX,200,OK,Users 1-34,text,true,,960,202,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=9f1032888eb4464371fff07acac1602e,1499,0,47
+1764914765003,106,GET Login Page,200,OK,Users 1-7,text,true,,1156,169,50,50,https://microservices.iqbalfadhil.biz.id/login,106,0,49
+1764914763644,1494,POST /api/auth/login,200,OK,Users 1-46,text,true,,901,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,1494,0,49
+1764914763708,1460,GET /api/auth/me?token=XXX,200,OK,Users 1-35,text,true,,958,202,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=cdf89b214442d5996f3d11e415b55e17,1460,0,47
+1764914763848,1350,GET /api/auth/me?token=XXX,200,OK,Users 1-36,text,true,,956,202,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=c46f606f0cdbbd2c618782debccecf57,1350,0,47
+1764914763838,1506,POST /api/auth/login,200,OK,Users 1-47,text,true,,911,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,1506,0,48
+1764914763945,1538,POST /api/auth/login,200,OK,Users 1-3,text,true,,905,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,1538,0,48
+1764914765505,0,Debug Vars,200,OK,Users 1-9,text,true,,856,0,50,50,null,0,0,0
+1764914764050,1573,POST /api/auth/login,200,OK,Users 1-48,text,true,,907,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,1573,0,48
+1764914764136,1520,GET /api/auth/me?token=XXX,200,OK,Users 1-37,text,true,,958,202,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=a96adf7610774a9674cc2b8e5af57617,1519,0,47
+1764914765661,104,GET Login Page,200,OK,Users 1-8,text,true,,1146,169,50,50,https://microservices.iqbalfadhil.biz.id/login,104,0,47
+1764914764258,1540,POST /api/auth/login,200,OK,Users 1-49,text,true,,905,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,1539,0,49
+1764914764314,1513,GET /api/auth/me?token=XXX,200,OK,Users 1-38,text,true,,956,202,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=573aade6166e771725730e2852b96d64,1513,0,48
+1764914764349,1618,Re-Login (simulate logout),200,OK,Users 1-10,text,true,,909,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,1618,0,47
+1764914764458,1650,POST /api/auth/login,200,OK,Users 1-50,text,true,,903,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,1650,0,50
+1764914764522,1647,GET /api/auth/me?token=XXX,200,OK,Users 1-39,text,true,,960,202,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=d16adeccb76561cac4cfa6f39704e368,1618,0,50
+1764914764468,1817,POST /api/auth/login,200,OK,Users 1-4,text,true,,903,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,1817,0,47
+1764914761213,5092,POST /submit,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-12,text,false,,3145,0,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=e62c84f3ebd3fd435fadeefcb0013b76,0,0,47
+1764914761253,5076,POST /submit,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-13,text,false,,3145,0,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=63fd7bd4e0c9c05694ac3e23e99831ed,0,0,49
+1764914764836,1512,GET /api/auth/me?token=XXX,200,OK,Users 1-40,text,true,,952,202,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=cea539deaaf49983482cfb45b7810d1f,1512,0,50
+1764914765017,1363,GET /api/auth/me?token=XXX,200,OK,Users 1-41,text,true,,960,202,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=c6b228d06da50c6a942fa88450297da6,1363,0,45
+1764914764951,1571,POST /api/auth/login,200,OK,Users 1-5,text,true,,911,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,1571,0,48
+1764914765174,1379,GET /api/auth/me?token=XXX,200,OK,Users 1-42,text,true,,952,202,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=4068b8a0cf04431b478236aa331f48e0,1379,0,45
+1764914765331,1257,GET /api/auth/me?token=XXX,200,OK,Users 1-43,text,true,,962,202,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=4cd3c66df4191284ba3d84ad3d9a48ed,1257,0,50
+1764914761489,5102,GET /questions,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-21,text,false,,3145,0,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,0,0,56
+1764914761523,5090,GET /questions,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-20,text,false,,3145,0,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,0,0,51
+1764914766508,112,GET Login Page,200,OK,Users 1-9,text,true,,1150,169,50,50,https://microservices.iqbalfadhil.biz.id/login,112,0,48
+1764914765476,1256,POST /api/auth/login,200,OK,Users 1-6,text,true,,905,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,1256,0,47
+1764914765647,1119,GET /api/auth/me?token=XXX,200,OK,Users 1-44,text,true,,956,202,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=7685f69055fb8d503f3fa1b44f09baa5,1118,0,48
+1764914765694,1206,Re-Login (simulate logout),200,OK,Users 1-11,text,true,,903,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,1205,0,48
+1764914765830,1103,GET /api/auth/me?token=XXX,200,OK,Users 1-2,text,true,,946,202,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=e86fafe4777a7cd2af7c33c324525eb5,1103,0,46
+1764914761875,5081,GET /questions,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-22,text,false,,3145,0,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,0,0,52
+1764914765964,1000,GET /api/auth/me?token=XXX,200,OK,Users 1-45,text,true,,962,202,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=721b1997a24a061db60d93c0b3423307,1000,0,49
+1764914766969,0,Debug Vars,200,OK,Users 1-10,text,true,,857,0,50,50,null,0,0,0
+1764914766144,856,GET /api/auth/me?token=XXX,200,OK,Users 1-46,text,true,,958,202,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=598186e3a332b6f032c39fbce374918f,855,0,47
+1764914766113,1029,POST /api/auth/login,200,OK,Users 1-7,text,true,,903,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,1029,0,48
+1764914766345,865,GET /api/auth/me?token=XXX,200,OK,Users 1-47,text,true,,960,202,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=2256d808e404b41f3eb6c74a6c416ddb,860,0,49
+1764914766488,750,GET /api/auth/me?token=XXX,200,OK,Users 1-3,text,true,,958,202,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=22be1af9ed618e5715471e3eadc20926,750,0,49
+1764914762189,5073,GET /questions,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-23,text,false,,3145,0,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,0,0,49
+1764914766626,646,GET /api/auth/me?token=XXX,200,OK,Users 1-48,text,true,,946,202,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=22cb99a626fefbbd129ef09306525301,646,0,48
+1764914766800,501,GET /api/auth/me?token=XXX,200,OK,Users 1-49,text,true,,958,202,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=dfbd99c3ec95612bc8659e464b261f8e,500,0,46
+1764914762268,5078,POST /submit,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-14,text,false,,3145,0,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=cdb52f6f3bd5eb30f134178e72654a0f,0,0,48
+1764914766766,682,POST /api/auth/login,200,OK,Users 1-8,text,true,,905,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,682,0,47
+1764914767129,364,GET /api/auth/me?token=XXX,200,OK,Users 1-50,text,true,,952,202,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=13b56a4b1a383d8dde137b28a58b3134,364,0,44
+1764914767288,262,GET /api/auth/me?token=XXX,200,OK,Users 1-4,text,true,,962,202,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=678e35fb6769e62ac2a5f2a0dfc198d6,262,0,45
+1764914762537,5029,GET /questions,200,OK,Users 1-24,text,true,,2696,178,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,5029,0,49
+1764914762991,4612,GET /questions,200,OK,Users 1-25,text,true,,2692,178,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,4612,0,50
+1764914763164,4464,GET /questions,200,OK,Users 1-26,text,true,,2694,178,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,4462,0,51
+1764914763529,4125,GET /questions,200,OK,Users 1-27,text,true,,2702,178,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,4123,0,50
+1764914763565,4120,GET /questions,200,OK,Users 1-28,text,true,,2710,178,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,4119,0,48
+1764914767332,372,Re-Login (simulate logout),200,OK,Users 1-13,text,true,,907,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,372,0,47
+1764914764165,3545,GET /questions,200,OK,Users 1-29,text,true,,2694,178,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,3545,0,49
+1764914767312,528,Re-Login (simulate logout),200,OK,Users 1-12,text,true,,901,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,528,0,47
+1764914767531,337,GET /api/auth/me?token=XXX,200,OK,Users 1-5,text,true,,958,202,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=b12a42d2dff9a3011e2b2d4563b4404f,336,0,44
+1764914767900,0,Debug Vars,200,OK,Users 1-11,text,true,,856,0,50,50,null,0,0,0
+1764914764381,3541,POST /submit,200,OK,Users 1-15,text,true,,2332,665,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=bbcb114dc94d9ae43ef0997fd8912ae9,3540,0,46
+1764914764368,3582,GET /questions,200,OK,Users 1-30,text,true,,2702,178,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,3581,0,49
+1764914767625,421,POST /api/auth/login,200,OK,Users 1-9,text,true,,897,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,420,0,48
+1764914767735,345,GET /api/auth/me?token=XXX,200,OK,Users 1-6,text,true,,954,202,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=0397923cf431fd4361dd7cf9b2f1dced,345,0,47
+1764914767970,110,GET Login Page,200,OK,Users 1-10,text,true,,1148,169,50,50,https://microservices.iqbalfadhil.biz.id/login,110,0,47
+1764914764415,3715,POST /submit,200,OK,Users 1-16,text,true,,2327,665,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=88a0b83786ee125e7488a7db121d5cba,3715,0,46
+1764914764441,3831,POST /submit,200,OK,Users 1-17,text,true,,2339,665,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=05dc3f62bc7e3f3079632318393e7276,3829,0,49
+1764914768161,151,GET /api/auth/me?token=XXX,200,OK,Users 1-7,text,true,,956,202,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=4af7e41fdd2fd498a18f09f0bb059f0d,151,0,46
+1764914764707,3611,GET /questions,200,OK,Users 1-31,text,true,,2696,178,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,3610,0,50
+1764914764871,3498,GET /questions,200,OK,Users 1-1,text,true,,2700,178,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,3497,0,47
+1764914765192,3223,GET /questions,200,OK,Users 1-32,text,true,,2698,178,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,3223,0,48
+1764914765363,3094,GET /questions,200,OK,Users 1-33,text,true,,2700,178,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,3094,0,53
+1764914765741,2825,POST /submit,200,OK,Users 1-19,text,true,,2327,665,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=53de41b2c21ea96120a0f7a4ab873f5a,2822,0,51
+1764914768348,352,Re-Login (simulate logout),200,OK,Users 1-14,text,true,,901,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,352,0,48
+1764914768707,0,Debug Vars,200,OK,Users 1-13,text,true,,857,0,50,50,null,0,0,0
+1764914768452,315,GET /api/auth/me?token=XXX,200,OK,Users 1-8,text,true,,960,202,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=9146cde310fed740891a9ffabd6cf934,282,0,45
+1764914765716,3077,POST /submit,200,OK,Users 1-18,text,true,,2332,665,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=0adbd383b6f4fa737cca6f0722150c10,3077,0,46
+1764914766031,2812,GET /questions,200,OK,Users 1-34,text,true,,2698,178,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,2812,0,52
+1764914768846,0,Debug Vars,200,OK,Users 1-12,text,true,,857,0,50,50,null,0,0,0
+1764914766169,2706,GET /questions,200,OK,Users 1-35,text,true,,2700,178,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,2706,0,47
+1764914766200,2714,GET /questions,200,OK,Users 1-36,text,true,,2700,178,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,2714,0,50
+1764914766659,2296,GET /questions,200,OK,Users 1-37,text,true,,2696,178,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,2294,0,50
+1764914766832,2158,GET /questions,200,OK,Users 1-38,text,true,,2696,178,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,2158,0,47
+1764914767172,1852,GET /questions,200,OK,Users 1-39,text,true,,2704,178,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,1852,0,54
+1764914768903,130,GET Login Page,200,OK,Users 1-11,text,true,,1148,169,50,50,https://microservices.iqbalfadhil.biz.id/login,129,0,48
+1764914767355,1711,GET /questions,200,OK,Users 1-40,text,true,,2698,178,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,1711,0,46
+1764914767389,1709,GET /questions,200,OK,Users 1-41,text,true,,2698,178,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,1709,0,50
+1764914767554,1581,GET /questions,200,OK,Users 1-42,text,true,,2698,178,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,1581,0,46
+1764914767591,1571,GET /questions,200,OK,Users 1-43,text,true,,2690,178,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,1571,0,51
+1764914768923,314,Re-Login (simulate logout),200,OK,Users 1-15,text,true,,907,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,314,0,48
+1764914769054,215,GET /api/auth/me?token=XXX,200,OK,Users 1-9,text,true,,954,202,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=2aca84139703928d1f7accfe1219c72c,215,0,47
+1764914767602,1723,POST /submit,200,OK,Users 1-21,text,true,,2337,665,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=d22b35edd5b6a18da05bafa583b23f43,1722,0,50
+1764914769086,360,POST /api/auth/login,200,OK,Users 1-10,text,true,,903,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,360,0,46
+1764914769131,466,Re-Login (simulate logout),200,OK,Users 1-16,text,true,,903,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,466,0,47
+1764914767616,2038,POST /submit,200,OK,Users 1-20,text,true,,2336,665,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=f089fc03bd98a46eddc6a2f59e720504,2037,0,48
+1764914767767,1911,GET /questions,200,OK,Users 1-44,text,true,,2698,178,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,1911,0,52
+1764914767938,1782,GET /questions,200,OK,Users 1-2,text,true,,2688,178,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,1782,0,47
+1764914769738,0,Debug Vars,200,OK,Users 1-14,text,true,,857,0,50,50,null,0,0,0
+1764914769282,501,Re-Login (simulate logout),200,OK,Users 1-17,text,true,,913,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,500,0,48
+1764914769715,109,GET Login Page,200,OK,Users 1-13,text,true,,1154,169,50,50,https://microservices.iqbalfadhil.biz.id/login,108,0,47
+1764914769565,353,Re-Login (simulate logout),200,OK,Users 1-19,text,true,,903,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,352,0,48
+1764914769846,122,GET Login Page,200,OK,Users 1-12,text,true,,1154,169,50,50,https://microservices.iqbalfadhil.biz.id/login,120,0,54
+1764914767963,2014,POST /submit,200,OK,Users 1-22,text,true,,2330,665,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=133e79ae9ce9eaa36b0e5cd19bc5f61f,2014,0,50
+1764914767966,2038,GET /questions,200,OK,Users 1-45,text,true,,2698,178,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,2036,0,52
+1764914768004,2029,GET /questions,200,OK,Users 1-46,text,true,,2688,178,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,2029,0,48
+1764914768222,1843,GET /questions,200,OK,Users 1-47,text,true,,2710,178,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,1839,0,57
+1764914768248,1850,GET /questions,200,OK,Users 1-3,text,true,,2696,178,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,1848,0,47
+1764914769811,317,Re-Login (simulate logout),200,OK,Users 1-18,text,true,,913,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,314,0,45
+1764914768275,1858,GET /questions,200,OK,Users 1-48,text,true,,2694,178,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,1857,0,53
+1764914768286,1928,POST /submit,200,OK,Users 1-23,text,true,,2333,665,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=72d25ca3e190ec2ba9338e202fd37f83,1928,0,47
+1764914770239,0,Debug Vars,200,OK,Users 1-15,text,true,,857,0,50,50,null,0,0,0
+1764914768304,1958,GET /questions,200,OK,Users 1-49,text,true,,2694,178,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,1958,0,51
+1764914768498,1806,GET /questions,200,OK,Users 1-50,text,true,,2704,178,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,1806,0,53
+1764914768551,1779,GET /questions,200,OK,Users 1-4,text,true,,2704,178,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,1779,0,46
+1764914770037,349,POST /api/auth/login,200,OK,Users 1-11,text,true,,907,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,349,0,49
+1764914768569,1866,POST /submit,200,OK,Users 1-24,text,true,,2339,665,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=8103afc5cefb08ad7a9cc3e51570ab5b,1865,0,47
+1764914768609,1931,POST /submit,200,OK,Users 1-25,text,true,,2334,665,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=799e9e4ed2387a76856969a37c79af30,1931,0,46
+1764914770598,0,Debug Vars,200,OK,Users 1-16,text,true,,857,0,50,50,null,0,0,0
+1764914770327,349,Re-Login (simulate logout),200,OK,Users 1-21,text,true,,907,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,349,0,48
+1764914770453,258,GET /api/auth/me?token=XXX,200,OK,Users 1-10,text,true,,954,202,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=1338127dec6449322ca3cad54ad98744,258,0,48
+1764914768642,2125,POST /submit,200,OK,Users 1-26,text,true,,2331,665,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=729aaef5d5cb1a3e558759b16b6ef27f,2124,0,46
+1764914770783,0,Debug Vars,200,OK,Users 1-17,text,true,,857,0,50,50,null,0,0,0
+1764914770767,99,GET Login Page,200,OK,Users 1-14,text,true,,1156,169,50,50,https://microservices.iqbalfadhil.biz.id/login,98,0,44
+1764914768662,2214,POST /submit,200,OK,Users 1-27,text,true,,2336,665,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=6848923b8c8feac1dc834995dcd2f6f4,2214,0,48
+1764914770921,0,Debug Vars,200,OK,Users 1-19,text,true,,857,0,50,50,null,0,0,0
+1764914770667,352,Re-Login (simulate logout),200,OK,Users 1-20,text,true,,909,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,351,0,47
+1764914768688,2380,POST /submit,200,OK,Users 1-28,text,true,,2329,665,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=f17506aee083f3af1b7825532c0dc01e,2380,0,47
+1764914771130,0,Debug Vars,200,OK,Users 1-18,text,true,,857,0,50,50,null,0,0,0
+1764914770828,374,POST /api/auth/login,200,OK,Users 1-13,text,true,,907,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,374,0,50
+1764914768713,2538,POST /submit,200,OK,Users 1-29,text,true,,2333,665,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=22e31fec1a730309373e5966cfeef938,2538,0,48
+1764914768871,2407,GET /questions,200,OK,Users 1-5,text,true,,2704,178,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,2407,0,48
+1764914771244,111,GET Login Page,200,OK,Users 1-15,text,true,,1146,169,50,50,https://microservices.iqbalfadhil.biz.id/login,111,0,49
+1764914770974,406,POST /api/auth/login,200,OK,Users 1-12,text,true,,907,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,406,0,48
+1764914770980,544,Re-Login (simulate logout),200,OK,Users 1-22,text,true,,905,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,544,0,46
+1764914768953,2613,POST /submit,200,OK,Users 1-30,text,true,,2325,665,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=a3eae82a55bc4613b7261bed658f63a5,2613,0,46
+1764914769086,2507,GET /questions,200,OK,Users 1-6,text,true,,2696,178,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,2507,0,46
+1764914769320,2302,GET /questions,200,OK,Users 1-7,text,true,,2698,178,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,2302,0,48
+1764914771680,0,Debug Vars,200,OK,Users 1-21,text,true,,857,0,50,50,null,0,0,0
+1764914771223,478,Re-Login (simulate logout),200,OK,Users 1-23,text,true,,911,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,477,0,46
+1764914771600,113,GET Login Page,200,OK,Users 1-16,text,true,,1152,169,50,50,https://microservices.iqbalfadhil.biz.id/login,113,0,55
+1764914771388,347,GET /api/auth/me?token=XXX,200,OK,Users 1-11,text,true,,958,202,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=83aac688c7fec090502ae1710f99cd2f,346,0,47
+1764914771437,437,Re-Login (simulate logout),200,OK,Users 1-24,text,true,,903,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,437,0,44
+1764914771783,105,GET Login Page,200,OK,Users 1-17,text,true,,1166,169,50,50,https://microservices.iqbalfadhil.biz.id/login,105,0,48
+1764914769323,2597,POST /submit,200,OK,Users 1-31,text,true,,2331,665,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=ee6fade5d0ce28aca747a3c2664f62df,2596,0,48
+1764914772029,0,Debug Vars,200,OK,Users 1-20,text,true,,857,0,50,50,null,0,0,0
+1764914771930,112,GET Login Page,200,OK,Users 1-19,text,true,,1148,169,50,50,https://microservices.iqbalfadhil.biz.id/login,112,0,48
+1764914771550,503,Re-Login (simulate logout),200,OK,Users 1-25,text,true,,905,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,503,0,46
+1764914771769,427,Re-Login (simulate logout),200,OK,Users 1-26,text,true,,907,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,426,0,45
+1764914769373,2871,POST /submit,200,OK,Users 1-1,text,true,,2336,665,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=1fb82428b36cb6431f80dba9757a0175,2871,0,45
+1764914772142,110,GET Login Page,200,OK,Users 1-18,text,true,,1150,169,50,50,https://microservices.iqbalfadhil.biz.id/login,110,0,45
+1764914771876,497,Re-Login (simulate logout),200,OK,Users 1-27,text,true,,907,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,497,0,47
+1764914771873,644,POST /api/auth/login,200,OK,Users 1-14,text,true,,903,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,644,0,48
+1764914772540,0,Debug Vars,200,OK,Users 1-22,text,true,,857,0,50,50,null,0,0,0
+1764914772070,594,Re-Login (simulate logout),200,OK,Users 1-28,text,true,,911,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,593,0,46
+1764914772704,0,Debug Vars,200,OK,Users 1-23,text,true,,857,0,50,50,null,0,0,0
+1764914769417,3291,POST /submit,200,OK,Users 1-32,text,true,,2329,665,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=00ed4ca3bb98eea7f29cbb9b9c3f160c,3289,0,48
+1764914772208,518,GET /api/auth/me?token=XXX,200,OK,Users 1-13,text,true,,962,202,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=5aec4346a33e22ca00e3efd199a77080,518,0,47
+1764914772689,106,GET Login Page,200,OK,Users 1-21,text,true,,1156,169,50,50,https://microservices.iqbalfadhil.biz.id/login,106,0,47
+1764914772256,611,Re-Login (simulate logout),200,OK,Users 1-29,text,true,,903,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,611,0,47
+1764914772880,0,Debug Vars,200,OK,Users 1-24,text,true,,857,0,50,50,null,0,0,0
+1764914772386,514,GET /api/auth/me?token=XXX,200,OK,Users 1-12,text,true,,954,202,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=45f689cad5979c38427ce8d80ce04a5d,513,0,47
+1764914772357,681,POST /api/auth/login,200,OK,Users 1-15,text,true,,899,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,680,0,46
+1764914773059,0,Debug Vars,200,OK,Users 1-25,text,true,,856,0,50,50,null,0,0,0
+1764914769460,3617,POST /submit,200,OK,Users 1-33,text,true,,2332,665,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=53aa9a83ece0dec7b1a79586a0670282,3617,0,47
+1764914769770,3335,GET /questions,200,OK,Users 1-8,text,true,,2696,178,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,3335,0,43
+1764914773035,106,GET Login Page,200,OK,Users 1-20,text,true,,1156,169,50,50,https://microservices.iqbalfadhil.biz.id/login,106,0,49
+1764914773201,0,Debug Vars,200,OK,Users 1-26,text,true,,857,0,50,50,null,0,0,0
+1764914772575,632,Re-Login (simulate logout),200,OK,Users 1-30,text,true,,911,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,631,0,47
+1764914772721,628,POST /api/auth/login,200,OK,Users 1-16,text,true,,911,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,628,0,46
+1764914773394,1,Debug Vars,200,OK,Users 1-27,text,true,,857,0,50,50,null,0,0,0
+1764914772890,601,POST /api/auth/login,200,OK,Users 1-17,text,true,,899,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,600,0,45
+1764914772933,700,Re-Login (simulate logout),200,OK,Users 1-31,text,true,,911,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,700,0,57
+1764914773664,0,Debug Vars,200,OK,Users 1-28,text,true,,857,0,50,50,null,0,0,0
+1764914773560,105,GET Login Page,200,OK,Users 1-22,text,true,,1156,169,50,50,https://microservices.iqbalfadhil.biz.id/login,104,0,47
+1764914769846,3830,POST /submit,200,OK,Users 1-34,text,true,,2345,665,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=9f1032888eb4464371fff07acac1602e,3830,0,47
+1764914773058,752,POST /api/auth/login,200,OK,Users 1-19,text,true,,907,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,752,0,44
+1764914773707,108,GET Login Page,200,OK,Users 1-23,text,true,,1150,169,50,50,https://microservices.iqbalfadhil.biz.id/login,108,0,48
+1764914773868,0,Debug Vars,200,OK,Users 1-29,text,true,,857,0,50,50,null,0,0,0
+1764914773250,700,Re-Login (simulate logout),200,OK,Users 1-1,text,true,,907,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,700,0,47
+1764914773882,161,GET Login Page,200,OK,Users 1-24,text,true,,1148,169,50,50,https://microservices.iqbalfadhil.biz.id/login,161,0,47
+1764914773255,843,POST /api/auth/login,200,OK,Users 1-18,text,true,,907,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,843,0,45
+1764914773531,601,GET /api/auth/me?token=XXX,200,OK,Users 1-14,text,true,,958,202,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=a35e5f3301b103e9337d9bf9b691ccaa,601,0,45
+1764914774061,112,GET Login Page,200,OK,Users 1-25,text,true,,1156,169,50,50,https://microservices.iqbalfadhil.biz.id/login,110,0,49
+1764914769878,4298,POST /submit,200,OK,Users 1-35,text,true,,2328,665,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=cdf89b214442d5996f3d11e415b55e17,4298,0,44
+1764914774209,1,Debug Vars,200,OK,Users 1-30,text,true,,856,0,50,50,null,0,0,0
+1764914773712,588,Re-Login (simulate logout),200,OK,Users 1-32,text,true,,907,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,588,0,46
+1764914774202,101,GET Login Page,200,OK,Users 1-26,text,true,,1154,169,50,50,https://microservices.iqbalfadhil.biz.id/login,101,0,46
+1764914773840,603,POST /api/auth/login,200,OK,Users 1-21,text,true,,905,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,603,0,47
+1764914774042,431,GET /api/auth/me?token=XXX,200,OK,Users 1-15,text,true,,954,202,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=9de546ba6fd94058e3d4e57d12365664,431,0,52
+1764914774416,111,GET Login Page,200,OK,Users 1-27,text,true,,1162,169,50,50,https://microservices.iqbalfadhil.biz.id/login,110,0,46
+1764914769915,4612,POST /submit,200,OK,Users 1-36,text,true,,2333,665,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=c46f606f0cdbbd2c618782debccecf57,4611,0,45
+1764914774079,573,Re-Login (simulate logout),200,OK,Users 1-33,text,true,,911,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,572,0,48
+1764914774654,0,Debug Vars,200,OK,Users 1-31,text,true,,857,0,50,50,null,0,0,0
+1764914774144,651,POST /api/auth/login,200,OK,Users 1-20,text,true,,909,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,650,0,49
+1764914774666,140,GET Login Page,200,OK,Users 1-28,text,true,,1162,169,50,50,https://microservices.iqbalfadhil.biz.id/login,140,0,47
+1764914774354,476,GET /api/auth/me?token=XXX,200,OK,Users 1-16,text,true,,956,202,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=62d844593b76b04de8beef6794b98201,475,0,46
+1764914769959,4930,POST /submit,200,OK,Users 1-37,text,true,,2325,665,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=a96adf7610774a9674cc2b8e5af57617,4928,0,45
+1764914774504,397,GET /api/auth/me?token=XXX,200,OK,Users 1-17,text,true,,956,202,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=3253893760c445870c74d5d9df19f442,396,0,50
+1764914774958,0,Debug Vars,200,OK,Users 1-1,text,true,,855,0,50,50,null,0,0,0
+1764914774871,105,GET Login Page,200,OK,Users 1-29,text,true,,1152,169,50,50,https://microservices.iqbalfadhil.biz.id/login,104,0,49
+1764914774681,368,Re-Login (simulate logout),200,OK,Users 1-34,text,true,,905,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,367,0,47
+1764914769992,5077,POST /submit,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-38,text,false,,3145,0,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=573aade6166e771725730e2852b96d64,0,0,48
+1764914770026,5071,POST /submit,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-39,text,false,,3145,0,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=d16adeccb76561cac4cfa6f39704e368,0,0,44
+1764914774827,283,GET /api/auth/me?token=XXX,200,OK,Users 1-19,text,true,,958,202,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=8d9657c17b99d13844b173704c2f5f18,283,0,48
+1764914770070,5077,POST /submit,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-40,text,false,,3145,0,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=cea539deaaf49983482cfb45b7810d1f,0,0,46
+1764914770099,5078,POST /submit,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-41,text,false,,3145,0,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=c6b228d06da50c6a942fa88450297da6,0,0,49
+1764914770140,5076,POST /submit,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-42,text,false,,3145,0,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=4068b8a0cf04431b478236aa331f48e0,0,0,46
+1764914770167,5081,POST /submit,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-43,text,false,,3145,0,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=4cd3c66df4191284ba3d84ad3d9a48ed,0,0,49
+1764914774830,426,POST /api/auth/login,200,OK,Users 1-23,text,true,,901,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,426,0,48
+1764914775305,0,Debug Vars,200,OK,Users 1-32,text,true,,857,0,50,50,null,0,0,0
+1764914775213,100,GET Login Page,200,OK,Users 1-30,text,true,,1160,169,50,50,https://microservices.iqbalfadhil.biz.id/login,100,0,44
+1764914770276,5076,GET /questions,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-9,text,false,,3145,0,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,0,0,48
+1764914775053,371,POST /api/auth/login,200,OK,Users 1-24,text,true,,907,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,371,0,45
+1764914775107,346,GET /api/auth/me?token=XXX,200,OK,Users 1-18,text,true,,958,202,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=e213b76fce5b20526416b7bfca135677,345,0,47
+1764914775177,448,POST /api/auth/login,200,OK,Users 1-25,text,true,,905,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,448,0,43
+1764914775671,0,Debug Vars,200,OK,Users 1-33,text,true,,857,0,50,50,null,0,0,0
+1764914770680,5084,POST /submit,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-44,text,false,,3145,0,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=7685f69055fb8d503f3fa1b44f09baa5,0,0,47
+1764914775180,590,Re-Login (simulate logout),200,OK,Users 1-35,text,true,,905,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,589,0,46
+1764914770730,5080,POST /submit,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-2,text,false,,3145,0,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=e86fafe4777a7cd2af7c33c324525eb5,0,0,49
+1764914775696,134,GET Login Page,200,OK,Users 1-31,text,true,,1154,169,50,50,https://microservices.iqbalfadhil.biz.id/login,133,0,48
+1764914775306,636,POST /api/auth/login,200,OK,Users 1-26,text,true,,899,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,636,0,45
+1764914775448,527,GET /api/auth/me?token=XXX,200,OK,Users 1-21,text,true,,956,202,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=1d169c1524cf8c8a3316af04e98d9b8a,526,0,48
+1764914776057,0,Debug Vars,200,OK,Users 1-34,text,true,,856,0,50,50,null,0,0,0
+1764914775960,110,GET Login Page,200,OK,Users 1-1,text,true,,1146,169,50,50,https://microservices.iqbalfadhil.biz.id/login,109,0,53
+1764914771017,5087,POST /submit,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-45,text,false,,3145,0,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=721b1997a24a061db60d93c0b3423307,0,0,48
+1764914775529,592,Re-Login (simulate logout),200,OK,Users 1-36,text,true,,905,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,591,0,46
+1764914771044,5090,POST /submit,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-46,text,false,,3145,0,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=598186e3a332b6f032c39fbce374918f,0,0,46
+1764914771068,5076,POST /submit,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-47,text,false,,3145,0,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=2256d808e404b41f3eb6c74a6c416ddb,0,0,47
+1764914771114,5086,POST /submit,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-3,text,false,,3145,0,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=22be1af9ed618e5715471e3eadc20926,0,0,47
+1764914771138,5074,POST /submit,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-48,text,false,,3145,0,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=22cb99a626fefbbd129ef09306525301,0,0,45
+1764914775545,718,POST /api/auth/login,200,OK,Users 1-27,text,true,,899,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,717,0,47
+1764914771263,5088,POST /submit,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-49,text,false,,3145,0,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=dfbd99c3ec95612bc8659e464b261f8e,0,0,48
+1764914771308,5073,POST /submit,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-50,text,false,,3145,0,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=13b56a4b1a383d8dde137b28a58b3134,0,0,47
+1764914776308,104,GET Login Page,200,OK,Users 1-32,text,true,,1156,169,50,50,https://microservices.iqbalfadhil.biz.id/login,104,0,47
+1764914771332,5089,POST /submit,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-4,text,false,,3145,0,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=678e35fb6769e62ac2a5f2a0dfc198d6,0,0,48
+1764914774667,1768,POST /api/auth/login,200,OK,Users 1-22,text,true,,905,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,1767,0,1077
+1764914775798,668,GET /api/auth/me?token=XXX,200,OK,Users 1-20,text,true,,956,202,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=4e665c7396d1b9faf2de68b910176f14,668,0,46
+1764914775808,800,POST /api/auth/login,200,OK,Users 1-28,text,true,,909,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,799,0,46
+1764914775893,857,Re-Login (simulate logout),200,OK,Users 1-37,text,true,,911,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,857,0,48
+1764914776774,0,Debug Vars,200,OK,Users 1-35,text,true,,856,0,50,50,null,0,0,0
+1764914771715,5082,GET /questions,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-10,text,false,,3145,0,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,0,0,47
+1764914776709,107,GET Login Page,200,OK,Users 1-33,text,true,,1148,169,50,50,https://microservices.iqbalfadhil.biz.id/login,106,0,48
+1764914775976,912,POST /api/auth/login,200,OK,Users 1-29,text,true,,907,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,912,0,51
+1764914776072,964,Re-Login (simulate logout),200,OK,Users 1-38,text,true,,907,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,964,0,48
+1764914777125,0,Debug Vars,200,OK,Users 1-36,text,true,,857,0,50,50,null,0,0,0
+1764914776101,1075,Re-Login (simulate logout),200,OK,Users 1-39,text,true,,911,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,1075,0,45
+1764914777061,115,GET Login Page,200,OK,Users 1-34,text,true,,1158,169,50,50,https://microservices.iqbalfadhil.biz.id/login,115,0,45
+1764914776152,1168,Re-Login (simulate logout),200,OK,Users 1-40,text,true,,905,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,1168,0,50
+1764914772281,5095,POST /submit,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-5,text,false,,3145,0,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=b12a42d2dff9a3011e2b2d4563b4404f,0,0,55
+1764914776181,1315,Re-Login (simulate logout),200,OK,Users 1-41,text,true,,903,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,1314,0,49
+1764914776258,1270,GET /api/auth/me?token=XXX,200,OK,Users 1-23,text,true,,954,202,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=e694f824dcaf892c479ef02cc143b169,1270,0,50
+1764914776218,1454,Re-Login (simulate logout),200,OK,Users 1-42,text,true,,913,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,1454,0,46
+1764914772595,5078,POST /submit,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-6,text,false,,3145,0,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=0397923cf431fd4361dd7cf9b2f1dced,0,0,48
+1764914772627,5075,POST /submit,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-7,text,false,,3145,0,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=4af7e41fdd2fd498a18f09f0bb059f0d,0,0,47
+1764914777753,0,Debug Vars,200,OK,Users 1-37,text,true,,857,0,50,50,null,0,0,0
+1764914776255,1564,Re-Login (simulate logout),200,OK,Users 1-43,text,true,,899,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,1563,0,50
+1764914772737,5084,GET /questions,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-11,text,false,,3145,0,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,0,0,46
+1764914777799,105,GET Login Page,200,OK,Users 1-35,text,true,,1150,169,50,50,https://microservices.iqbalfadhil.biz.id/login,105,0,48
+1764914776319,1648,POST /api/auth/login,200,OK,Users 1-30,text,true,,907,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,1638,0,45
+1764914776426,1564,GET /api/auth/me?token=XXX,200,OK,Users 1-24,text,true,,956,202,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=6fdbcb746980b3979a5cac4304159c47,1563,0,45
+1764914776628,1395,GET /api/auth/me?token=XXX,200,OK,Users 1-25,text,true,,956,202,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=e751038c4be7d54ad733996da3495113,1394,0,50
+1764914778037,0,Debug Vars,200,OK,Users 1-38,text,true,,857,0,50,50,null,0,0,0
+1764914776767,1396,Re-Login (simulate logout),200,OK,Users 1-44,text,true,,909,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,1396,0,49
+1764914778179,0,Debug Vars,200,OK,Users 1-39,text,true,,857,0,50,50,null,0,0,0
+1764914778129,105,GET Login Page,200,OK,Users 1-36,text,true,,1148,169,50,50,https://microservices.iqbalfadhil.biz.id/login,104,0,49
+1764914776812,1497,Re-Login (simulate logout),200,OK,Users 1-2,text,true,,901,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,1497,0,47
+1764914778362,0,Debug Vars,200,OK,Users 1-40,text,true,,856,0,50,50,null,0,0,0
+1764914776831,1616,POST /api/auth/login,200,OK,Users 1-31,text,true,,909,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,1616,0,50
+1764914776953,1523,GET /api/auth/me?token=XXX,200,OK,Users 1-26,text,true,,956,202,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=57b316e28255da521a5d5420ca3bda54,1522,0,47
+1764914778525,0,Debug Vars,200,OK,Users 1-41,text,true,,857,0,50,50,null,0,0,0
+1764914777072,1547,POST /api/auth/login,200,OK,Users 1-1,text,true,,907,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,1547,0,48
+1764914778692,0,Debug Vars,200,OK,Users 1-42,text,true,,857,0,50,50,null,0,0,0
+1764914777111,1648,Re-Login (simulate logout),200,OK,Users 1-45,text,true,,909,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,1647,0,46
+1764914773729,5071,GET /questions,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-13,text,false,,3145,0,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,0,0,47
+1764914778821,0,Debug Vars,200,OK,Users 1-43,text,true,,857,0,50,50,null,0,0,0
+1764914778766,98,GET Login Page,200,OK,Users 1-37,text,true,,1156,169,50,50,https://microservices.iqbalfadhil.biz.id/login,98,0,44
+1764914777148,1756,Re-Login (simulate logout),200,OK,Users 1-47,text,true,,903,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,1755,0,45
+1764914773911,5079,GET /questions,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-12,text,false,,3145,0,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,0,0,49
+1764914777147,1898,Re-Login (simulate logout),200,OK,Users 1-46,text,true,,905,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,1898,0,46
+1764914779038,110,GET Login Page,200,OK,Users 1-38,text,true,,1160,169,50,50,https://microservices.iqbalfadhil.biz.id/login,110,0,50
+1764914779166,1,Debug Vars,200,OK,Users 1-44,text,true,,857,0,50,50,null,0,0,0
+1764914777204,1986,Re-Login (simulate logout),200,OK,Users 1-3,text,true,,907,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,1986,0,47
+1764914774118,5077,POST /submit,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-8,text,false,,3145,0,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=9146cde310fed740891a9ffabd6cf934,0,0,48
+1764914777266,1958,GET /api/auth/me?token=XXX,200,OK,Users 1-27,text,true,,958,202,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=2716300c70ed580dd64e25cde1b754c9,1958,0,48
+1764914779181,101,GET Login Page,200,OK,Users 1-39,text,true,,1156,169,50,50,https://microservices.iqbalfadhil.biz.id/login,101,0,46
+1764914779318,0,Debug Vars,200,OK,Users 1-2,text,true,,856,0,50,50,null,0,0,0
+1764914777232,2130,Re-Login (simulate logout),200,OK,Users 1-48,text,true,,909,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,2130,0,47
+1764914779376,109,GET Login Page,200,OK,Users 1-40,text,true,,1150,169,50,50,https://microservices.iqbalfadhil.biz.id/login,108,0,47
+1764914777383,2152,Re-Login (simulate logout),200,OK,Users 1-50,text,true,,909,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,2152,0,48
+1764914779526,115,GET Login Page,200,OK,Users 1-41,text,true,,1158,169,50,50,https://microservices.iqbalfadhil.biz.id/login,115,0,46
+1764914777354,2324,Re-Login (simulate logout),200,OK,Users 1-49,text,true,,907,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,2323,0,47
+1764914777442,2269,GET /api/auth/me?token=XXX,200,OK,Users 1-22,text,true,,958,202,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=09f4265a094df46fb98db0902c32c7aa,2269,0,46
+1764914779768,0,Debug Vars,200,OK,Users 1-45,text,true,,857,0,50,50,null,0,0,0
+1764914779702,116,GET Login Page,200,OK,Users 1-42,text,true,,1148,169,50,50,https://microservices.iqbalfadhil.biz.id/login,116,0,53
+1764914777414,2441,POST /api/auth/login,200,OK,Users 1-32,text,true,,905,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,2440,0,46
+1764914779905,0,Debug Vars,200,OK,Users 1-47,text,true,,857,0,50,50,null,0,0,0
+1764914779827,103,GET Login Page,200,OK,Users 1-43,text,true,,1152,169,50,50,https://microservices.iqbalfadhil.biz.id/login,102,0,51
+1764914777432,2573,Re-Login (simulate logout),200,OK,Users 1-4,text,true,,903,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,2573,0,47
+1764914777610,2424,GET /api/auth/me?token=XXX,200,OK,Users 1-28,text,true,,956,202,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=12283ba1362be029e901031fe2051b34,2423,0,45
+1764914780055,0,Debug Vars,200,OK,Users 1-46,text,true,,857,0,50,50,null,0,0,0
+1764914777894,2171,GET /api/auth/me?token=XXX,200,OK,Users 1-29,text,true,,954,202,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=90a45359f4075bffd3577cec4a5f706f,2170,0,48
+1764914780203,0,Debug Vars,200,OK,Users 1-3,text,true,,856,0,50,50,null,0,0,0
+1764914777841,2371,POST /api/auth/login,200,OK,Users 1-33,text,true,,905,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,2371,0,49
+1764914775147,5079,GET /questions,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-14,text,false,,3145,0,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,0,0,49
+1764914780173,105,GET Login Page,200,OK,Users 1-44,text,true,,1152,169,50,50,https://microservices.iqbalfadhil.biz.id/login,104,0,48
+1764914778177,2184,POST /api/auth/login,200,OK,Users 1-34,text,true,,905,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,2184,0,46
+1764914780374,0,Debug Vars,200,OK,Users 1-48,text,true,,857,0,50,50,null,0,0,0
+1764914780320,158,GET Login Page,200,OK,Users 1-2,text,true,,1152,169,50,50,https://microservices.iqbalfadhil.biz.id/login,157,0,48
+1764914778379,2127,Re-Login (simulate logout),200,OK,Users 1-5,text,true,,901,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,2127,0,49
+1764914780536,0,Debug Vars,200,OK,Users 1-50,text,true,,857,0,50,50,null,0,0,0
+1764914775481,5079,GET /questions,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-15,text,false,,3145,0,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,0,0,45
+1764914778677,1972,Re-Login (simulate logout),200,OK,Users 1-6,text,true,,899,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,1971,0,49
+1764914780679,0,Debug Vars,200,OK,Users 1-49,text,true,,856,0,50,50,null,0,0,0
+1764914778908,1878,POST /api/auth/login,200,OK,Users 1-35,text,true,,909,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,1878,0,46
+1764914778969,1848,GET /api/auth/me?token=XXX,200,OK,Users 1-30,text,true,,964,202,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=5674dea46f57e62afeccea5e43a480b0,1848,0,172
+1764914780784,107,GET Login Page,200,OK,Users 1-45,text,true,,1146,169,50,50,https://microservices.iqbalfadhil.biz.id/login,106,0,50
+1764914775836,5083,GET /questions,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-16,text,false,,3145,0,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,0,0,46
+1764914778705,2252,Re-Login (simulate logout),200,OK,Users 1-7,text,true,,899,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,2248,0,47
+1764914775902,5076,GET /questions,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-17,text,false,,3145,0,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,0,0,46
+1764914781022,1,Debug Vars,200,OK,Users 1-4,text,true,,856,0,50,50,null,0,0,0
+1764914780905,138,GET Login Page,200,OK,Users 1-47,text,true,,1148,169,50,50,https://microservices.iqbalfadhil.biz.id/login,138,0,47
+1764914779236,1855,POST /api/auth/login,200,OK,Users 1-36,text,true,,899,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,1855,0,49
+1764914779460,1698,GET /api/auth/me?token=XXX,200,OK,Users 1-31,text,true,,958,202,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=4bde235b26abb54c7e9541380087ccbc,1698,0,44
+1764914779627,1556,GET /api/auth/me?token=XXX,200,OK,Users 1-1,text,true,,954,202,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=4db279f9b688b9d76ba6b485df9984eb,1556,0,48
+1764914776113,5075,GET /questions,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-19,text,false,,3145,0,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,0,0,47
+1764914781064,135,GET Login Page,200,OK,Users 1-46,text,true,,1150,169,50,50,https://microservices.iqbalfadhil.biz.id/login,135,0,43
+1764914779871,1453,POST /api/auth/login,200,OK,Users 1-37,text,true,,915,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,1453,0,46
+1764914781215,114,GET Login Page,200,OK,Users 1-3,text,true,,1152,169,50,50,https://microservices.iqbalfadhil.biz.id/login,112,0,47
+1764914776359,5085,POST /submit,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-9,text,false,,3145,0,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=2aca84139703928d1f7accfe1219c72c,0,0,50
+1764914780155,1312,POST /api/auth/login,200,OK,Users 1-38,text,true,,905,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,1312,0,45
+1764914781508,0,Debug Vars,200,OK,Users 1-5,text,true,,856,0,50,50,null,0,0,0
+1764914776455,5077,GET /questions,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-18,text,false,,3145,0,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,0,0,45
+1764914781387,150,GET Login Page,200,OK,Users 1-48,text,true,,1148,169,50,50,https://microservices.iqbalfadhil.biz.id/login,149,0,53
+1764914780198,1412,Re-Login (simulate logout),200,OK,Users 1-8,text,true,,907,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,1410,0,47
+1764914781537,100,GET Login Page,200,OK,Users 1-50,text,true,,1154,169,50,50,https://microservices.iqbalfadhil.biz.id/login,100,0,45
+1764914781653,0,Debug Vars,200,OK,Users 1-6,text,true,,856,0,50,50,null,0,0,0
+1764914780286,1465,POST /api/auth/login,200,OK,Users 1-39,text,true,,907,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,1464,0,47
+1764914781682,100,GET Login Page,200,OK,Users 1-49,text,true,,1160,169,50,50,https://microservices.iqbalfadhil.biz.id/login,99,0,47
+1764914780509,1386,POST /api/auth/login,200,OK,Users 1-40,text,true,,903,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,1386,0,50
+1764914781961,0,Debug Vars,200,OK,Users 1-7,text,true,,856,0,50,50,null,0,0,0
+1764914780643,1390,POST /api/auth/login,200,OK,Users 1-41,text,true,,905,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,1390,0,49
+1764914776976,5087,GET /questions,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-21,text,false,,3145,0,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,0,0,47
+1764914780857,1210,GET /api/auth/me?token=XXX,200,OK,Users 1-32,text,true,,958,202,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=b490b3ba417f4f0b10bff30cbb896fa3,1209,0,45
+1764914782039,114,GET Login Page,200,OK,Users 1-4,text,true,,1154,169,50,50,https://microservices.iqbalfadhil.biz.id/login,114,0,49
+1764914780826,1383,POST /api/auth/login,200,OK,Users 1-42,text,true,,907,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,1383,0,46
+1764914780933,1439,POST /api/auth/login,200,OK,Users 1-43,text,true,,903,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,1439,0,46
+1764914781230,1187,GET /api/auth/me?token=XXX,200,OK,Users 1-33,text,true,,956,202,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=9e643a96a2dfb2aead9b8f4e3369fc33,1186,0,47
+1764914777471,5072,GET /questions,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-20,text,false,,3145,0,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,0,0,46
+1764914781281,1271,POST /api/auth/login,200,OK,Users 1-44,text,true,,907,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,1271,0,48
+1764914781365,1215,GET /api/auth/me?token=XXX,200,OK,Users 1-34,text,true,,962,202,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=7a1b75eede45745d3f4ed6060ed7a3f3,1215,0,45
+1764914782617,0,Debug Vars,200,OK,Users 1-8,text,true,,856,0,50,50,null,0,0,0
+1764914782510,113,GET Login Page,200,OK,Users 1-5,text,true,,1154,169,50,50,https://microservices.iqbalfadhil.biz.id/login,113,0,48
+1764914781485,1268,POST /api/auth/login,200,OK,Users 1-2,text,true,,907,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,1268,0,46
+1764914781800,957,GET /api/auth/me?token=XXX,200,OK,Users 1-35,text,true,,952,202,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=59fce827e70d94109d25ceff9a823c57,957,0,46
+1764914782658,103,GET Login Page,200,OK,Users 1-6,text,true,,1154,169,50,50,https://microservices.iqbalfadhil.biz.id/login,102,0,46
+1764914781917,988,POST /api/auth/login,200,OK,Users 1-45,text,true,,907,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,987,0,47
+1764914777800,5126,POST /submit,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-10,text,false,,3145,0,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=1338127dec6449322ca3cad54ad98744,0,0,48
+1764914782057,989,POST /api/auth/login,200,OK,Users 1-47,text,true,,909,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,988,0,45
+1764914782092,1025,GET /api/auth/me?token=XXX,200,OK,Users 1-36,text,true,,950,202,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=9c13a2f09231075b1bf1bb04f71ec99c,979,0,47
+1764914782967,152,GET Login Page,200,OK,Users 1-7,text,true,,1162,169,50,50,https://microservices.iqbalfadhil.biz.id/login,152,0,78
+1764914782208,1004,POST /api/auth/login,200,OK,Users 1-46,text,true,,903,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,1004,0,45
+1764914782333,947,GET /api/auth/me?token=XXX,200,OK,Users 1-37,text,true,,958,202,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=0820d1765db2d6b4d6b5126242d1e7e2,947,0,45
+1764914782333,1085,POST /api/auth/login,200,OK,Users 1-3,text,true,,901,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,1085,0,45
+1764914782486,963,GET /api/auth/me?token=XXX,200,OK,Users 1-38,text,true,,952,202,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=c6c05153b9782ff9745198f5242cf4b5,962,0,49
+1764914782446,1148,Re-Login (simulate logout),200,OK,Users 1-9,text,true,,909,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,1147,0,48
+1764914778531,5071,GET /questions,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-23,text,false,,3145,0,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,0,0,46
+1764914783619,103,GET Login Page,200,OK,Users 1-8,text,true,,1154,169,50,50,https://microservices.iqbalfadhil.biz.id/login,103,0,48
+1764914782546,1188,POST /api/auth/login,200,OK,Users 1-48,text,true,,907,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,1188,0,47
+1764914782639,1237,POST /api/auth/login,200,OK,Users 1-50,text,true,,903,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,1237,0,45
+1764914778825,5075,POST /submit,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-11,text,false,,3145,0,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=83aac688c7fec090502ae1710f99cd2f,0,0,48
+1764914782754,1154,GET /api/auth/me?token=XXX,200,OK,Users 1-39,text,true,,954,202,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=c9bc8ff970e7a1b872a6d0f20f51ac08,1154,0,72
+1764914782783,1265,POST /api/auth/login,200,OK,Users 1-49,text,true,,909,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,1265,0,121
+1764914778992,5082,GET /questions,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-24,text,false,,3145,0,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,0,0,46
+1764914782904,1179,GET /api/auth/me?token=XXX,200,OK,Users 1-40,text,true,,956,202,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=0260b030dd3a72816263dc0b904752d6,1178,0,93
+1764914779037,5070,GET /questions,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-25,text,false,,3145,0,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,0,0,47
+1764914783035,1081,GET /api/auth/me?token=XXX,200,OK,Users 1-41,text,true,,952,202,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=237c175182b198bfc83bea2ab93f0de3,1080,0,84
+1764914783218,966,GET /api/auth/me?token=XXX,200,OK,Users 1-42,text,true,,956,202,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=7429f4b86dfc492286d16d80083fba59,965,0,75
+1764914783161,1171,POST /api/auth/login,200,OK,Users 1-4,text,true,,907,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,1170,0,108
+1764914783404,996,GET /api/auth/me?token=XXX,200,OK,Users 1-43,text,true,,960,202,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=08dc00ef290a6813cfa5268fecf9c5ec,960,0,46
+1764914783555,845,GET /api/auth/me?token=XXX,200,OK,Users 1-44,text,true,,960,202,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=3b5409f9c846898a892aa596d4b60615,845,0,46
+1764914783624,913,POST /api/auth/login,200,OK,Users 1-5,text,true,,903,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,913,0,45
+1764914779477,5086,GET /questions,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-26,text,false,,3145,0,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,0,0,49
+1764914783762,806,GET /api/auth/me?token=XXX,200,OK,Users 1-2,text,true,,952,202,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=e942319531d2fddfd30fed90c6f87f2e,805,0,47
+1764914781716,0,Debug Vars,200,OK,Users 1-9,text,true,,856,0,50,50,null,0,0,0
+1764914783762,948,POST /api/auth/login,200,OK,Users 1-6,text,true,,911,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,948,0,48
+1764914783911,833,GET /api/auth/me?token=XXX,200,OK,Users 1-45,text,true,,954,202,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=97fd65f348a823452863c75c060039f5,833,0,46
+1764914783926,961,Re-Login (simulate logout),200,OK,Users 1-10,text,true,,903,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,959,0,43
+1764914779806,5081,POST /submit,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-13,text,false,,3145,0,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=5aec4346a33e22ca00e3efd199a77080,0,0,49
+1764914784058,862,GET /api/auth/me?token=XXX,200,OK,Users 1-47,text,true,,964,202,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=1447ed6b86b9b53c9a6e09e862bf3bc4,862,0,45
+1764914779994,5084,POST /submit,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-12,text,false,,3145,0,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=45f689cad5979c38427ce8d80ce04a5d,0,0,50
+1764914784121,973,POST /api/auth/login,200,OK,Users 1-7,text,true,,901,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,970,0,44
+1764914784222,902,GET /api/auth/me?token=XXX,200,OK,Users 1-46,text,true,,956,202,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=e3bf3b4a38fc1ec0612155c5c1a429a1,902,0,46
+1764914784439,718,GET /api/auth/me?token=XXX,200,OK,Users 1-3,text,true,,956,202,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=bd4f1a1b8349d5ce6b5493e985bea1ec,717,0,65
+1764914781856,455,GET /api/auth/me?token=XXX,200,OK,Users 1-48,text,true,,962,202,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=44ff25842b8c46c1f58d90649ebedb94,455,0,45
+1764914780225,5085,GET /questions,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-27,text,false,,3145,0,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,0,0,46
+1764914781858,594,POST /api/auth/login,200,OK,Users 1-8,text,true,,899,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,594,0,45
+1764914782001,481,GET /api/auth/me?token=XXX,200,OK,Users 1-50,text,true,,956,202,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=2dfe722a9bf6b1a41ef3eb751449c9a8,481,0,49
+1764914782027,628,Re-Login (simulate logout),200,OK,Users 1-11,text,true,,907,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,627,0,49
+1764914782171,516,GET /api/auth/me?token=XXX,200,OK,Users 1-49,text,true,,954,202,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=db77c37a4b29a7adad6758d15bb04f4e,516,0,47
+1764914782460,293,GET /api/auth/me?token=XXX,200,OK,Users 1-4,text,true,,952,202,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=f0e563f23940a984b4cd1c1048a89ffb,290,0,48
+1764914782658,129,GET /api/auth/me?token=XXX,200,OK,Users 1-5,text,true,,956,202,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=f091197ae0d6928bc8336314155c8916,129,0,46
+1764914782744,100,GET Login Page,200,OK,Users 1-9,text,true,,1156,169,50,50,https://microservices.iqbalfadhil.biz.id/login,100,0,47
+1764914780716,5078,GET /questions,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-22,text,false,,3145,0,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,0,0,48
+1764914782831,139,GET /api/auth/me?token=XXX,200,OK,Users 1-6,text,true,,958,202,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=201105475bb3cabd85e97decc747af37,139,0,46
+1764914783021,0,Debug Vars,200,OK,Users 1-10,text,true,,857,0,50,50,null,0,0,0
+1764914781038,5073,GET /questions,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-28,text,false,,3145,0,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,0,0,45
+1764914781066,5093,GET /questions,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-29,text,false,,3145,0,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,0,0,44
+1764914783012,384,Re-Login (simulate logout),200,OK,Users 1-13,text,true,,907,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,382,0,45
+1764914781227,5089,POST /submit,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-14,text,false,,3145,0,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=a35e5f3301b103e9337d9bf9b691ccaa,0,0,49
+1764914783216,241,GET /api/auth/me?token=XXX,200,OK,Users 1-7,text,true,,954,202,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=196b2625d73f8b192ca7807b8a7932cd,241,0,47
+1764914783202,390,Re-Login (simulate logout),200,OK,Users 1-12,text,true,,913,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,390,0,50
+1764914783454,200,GET /api/auth/me?token=XXX,200,OK,Users 1-8,text,true,,960,202,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=da7ffd53ac7d94b4bb8c50ec6e870bd9,199,0,49
+1764914783657,1,Debug Vars,200,OK,Users 1-11,text,true,,856,0,50,50,null,0,0,0
+1764914781560,5074,POST /submit,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-15,text,false,,3145,0,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=9de546ba6fd94058e3d4e57d12365664,0,0,52
+1764914781822,5077,GET /questions,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-30,text,false,,3145,0,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,0,0,47
+1764914781919,5088,POST /submit,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-16,text,false,,3145,0,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=62d844593b76b04de8beef6794b98201,0,0,51
+1764914784022,107,GET Login Page,200,OK,Users 1-10,text,true,,1156,169,50,50,https://microservices.iqbalfadhil.biz.id/login,107,0,45
+1764914781980,5077,POST /submit,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-17,text,false,,3145,0,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=3253893760c445870c74d5d9df19f442,0,0,48
+1764914783872,326,POST /api/auth/login,200,OK,Users 1-9,text,true,,903,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,326,0,47
+1764914782164,5086,GET /questions,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-31,text,false,,3145,0,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,0,0,49
+1764914782187,5079,GET /questions,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-1,text,false,,3145,0,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,0,0,47
+1764914782190,5077,POST /submit,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-19,text,false,,3145,0,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=8d9657c17b99d13844b173704c2f5f18,0,0,48
+1764914784397,0,Debug Vars,200,OK,Users 1-13,text,true,,857,0,50,50,null,0,0,0
+1764914784596,0,Debug Vars,200,OK,Users 1-12,text,true,,857,0,50,50,null,0,0,0
+1764914782546,5092,POST /submit,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-18,text,false,,3145,0,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=e213b76fce5b20526416b7bfca135677,0,0,48
+1764914784664,106,GET Login Page,200,OK,Users 1-11,text,true,,1152,169,50,50,https://microservices.iqbalfadhil.biz.id/login,106,0,45
+1764914784439,437,Re-Login (simulate logout),200,OK,Users 1-14,text,true,,901,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,437,0,45
+1764914784756,377,Re-Login (simulate logout),200,OK,Users 1-15,text,true,,905,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,377,0,45
+1764914783065,5116,POST /submit,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-21,text,false,,3145,0,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=1d169c1524cf8c8a3316af04e98d9b8a,0,0,81
+1764914783071,5123,GET /questions,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-32,text,false,,3145,0,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,0,0,90
+1764914785136,325,Re-Login (simulate logout),200,OK,Users 1-16,text,true,,913,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,325,0,46
+1764914785204,291,GET /api/auth/me?token=XXX,200,OK,Users 1-9,text,true,,956,202,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=04aa4fc3a28bd39edacf701578a007fa,290,0,46
+1764914785401,104,GET Login Page,200,OK,Users 1-13,text,true,,1156,169,50,50,https://microservices.iqbalfadhil.biz.id/login,104,0,48
+1764914783418,5083,GET /questions,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-33,text,false,,3145,0,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,0,0,45
+1764914785150,495,POST /api/auth/login,200,OK,Users 1-10,text,true,,909,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,495,0,44
+1764914785606,100,GET Login Page,200,OK,Users 1-12,text,true,,1152,169,50,50,https://microservices.iqbalfadhil.biz.id/login,100,0,44
+1764914783547,5085,POST /submit,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-20,text,false,,3145,0,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=4e665c7396d1b9faf2de68b910176f14,0,0,49
+1764914783581,5076,GET /questions,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-34,text,false,,3145,0,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,0,0,45
+1764914785180,605,Re-Login (simulate logout),200,OK,Users 1-17,text,true,,899,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,604,0,46
+1764914785883,0,Debug Vars,200,OK,Users 1-14,text,true,,857,0,50,50,null,0,0,0
+1764914785389,573,Re-Login (simulate logout),200,OK,Users 1-19,text,true,,911,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,573,0,49
+1764914783762,5080,GET /questions,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-35,text,false,,3145,0,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,0,0,47
+1764914785764,371,Re-Login (simulate logout),200,OK,Users 1-18,text,true,,911,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,370,0,46
+1764914786155,1,Debug Vars,200,OK,Users 1-15,text,true,,857,0,50,50,null,0,0,0
+1764914785772,502,POST /api/auth/login,200,OK,Users 1-11,text,true,,903,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,501,0,45
+1764914784117,5068,GET /questions,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-36,text,false,,3145,0,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,0,0,43
+1764914786468,0,Debug Vars,200,OK,Users 1-16,text,true,,857,0,50,50,null,0,0,0
+1764914784281,5086,GET /questions,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-37,text,false,,3145,0,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,0,0,46
+1764914786303,380,Re-Login (simulate logout),200,OK,Users 1-21,text,true,,913,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,378,0,45
+1764914784473,5098,GET /questions,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-38,text,false,,3145,0,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,0,0,59
+1764914786784,1,Debug Vars,200,OK,Users 1-17,text,true,,857,0,50,50,null,0,0,0
+1764914781723,5083,POST /submit,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-23,text,false,,3145,0,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=e694f824dcaf892c479ef02cc143b169,0,0,55
+1764914786507,371,POST /api/auth/login,200,OK,Users 1-13,text,true,,911,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,370,0,45
+1764914786645,267,GET /api/auth/me?token=XXX,200,OK,Users 1-10,text,true,,952,202,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=c1ee4005c58f1ef3691f882b7f01042d,267,0,45
+1764914786970,0,Debug Vars,200,OK,Users 1-19,text,true,,857,0,50,50,null,0,0,0
+1764914786883,99,GET Login Page,200,OK,Users 1-14,text,true,,1166,169,50,50,https://microservices.iqbalfadhil.biz.id/login,99,0,45
+1764914786716,385,POST /api/auth/login,200,OK,Users 1-12,text,true,,903,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,384,0,46
+1764914782028,5078,GET /questions,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-39,text,false,,3145,0,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,0,0,50
+1764914787149,0,Debug Vars,200,OK,Users 1-18,text,true,,857,0,50,50,null,0,0,0
+1764914786757,476,Re-Login (simulate logout),200,OK,Users 1-20,text,true,,909,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,476,0,45
+1764914782208,5076,POST /submit,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-24,text,false,,3145,0,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=6fdbcb746980b3979a5cac4304159c47,0,0,46
+1764914787160,131,GET Login Page,200,OK,Users 1-15,text,true,,1158,169,50,50,https://microservices.iqbalfadhil.biz.id/login,131,0,45
+1764914782203,5094,GET /questions,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-40,text,false,,3145,0,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,0,0,49
+1764914782238,5080,GET /questions,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-41,text,false,,3145,0,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,0,0,50
+1764914782230,5088,POST /submit,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-25,text,false,,3145,0,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=e751038c4be7d54ad733996da3495113,0,0,52
+1764914782307,5079,GET /questions,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-42,text,false,,3145,0,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,0,0,50
+1764914787274,143,GET /api/auth/me?token=XXX,200,OK,Users 1-11,text,true,,962,202,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=d46dc21156666cbd99ad179e7a9dc1ae,143,0,45
+1764914787471,115,GET Login Page,200,OK,Users 1-16,text,true,,1156,169,50,50,https://microservices.iqbalfadhil.biz.id/login,115,0,45
+1764914782526,5102,GET /questions,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-43,text,false,,3145,0,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,0,0,56
+1764914782524,5108,GET /questions,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-44,text,false,,3145,0,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,0,0,57
+1764914787686,0,Debug Vars,200,OK,Users 1-21,text,true,,857,0,50,50,null,0,0,0
+1764914782691,5087,GET /questions,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-2,text,false,,3145,0,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,0,0,49
+1764914782692,5089,POST /submit,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-26,text,false,,3145,0,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=57b316e28255da521a5d5420ca3bda54,0,0,52
+1764914787787,105,GET Login Page,200,OK,Users 1-17,text,true,,1152,169,50,50,https://microservices.iqbalfadhil.biz.id/login,105,0,47
+1764914782872,5081,GET /questions,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-45,text,false,,3145,0,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,0,0,48
+1764914787977,127,GET Login Page,200,OK,Users 1-19,text,true,,1148,169,50,50,https://microservices.iqbalfadhil.biz.id/login,126,0,47
+1764914783043,5077,GET /questions,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-47,text,false,,3145,0,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,0,0,46
+1764914783250,4903,GET /questions,200,OK,Users 1-46,text,true,,2700,178,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,4902,0,50
+1764914783278,4902,GET /questions,200,OK,Users 1-3,text,true,,2696,178,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,4902,0,49
+1764914787807,399,Re-Login (simulate logout),200,OK,Users 1-23,text,true,,909,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,399,0,43
+1764914783313,4899,GET /questions,200,OK,Users 1-48,text,true,,2703,178,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,4895,0,60
+1764914788235,0,Debug Vars,200,OK,Users 1-20,text,true,,857,0,50,50,null,0,0,0
+1764914787885,362,GET /api/auth/me?token=XXX,200,OK,Users 1-13,text,true,,956,202,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=fbb76b848e7600a7838d2d2d2aca2e16,362,0,44
+1764914788150,144,GET Login Page,200,OK,Users 1-18,text,true,,1152,169,50,50,https://microservices.iqbalfadhil.biz.id/login,143,0,43
+1764914788015,370,POST /api/auth/login,200,OK,Users 1-14,text,true,,905,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,370,0,51
+1764914783434,5007,POST /submit,200,OK,Users 1-27,text,true,,2332,665,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=2716300c70ed580dd64e25cde1b754c9,5007,0,51
+1764914783483,4997,GET /questions,200,OK,Users 1-50,text,true,,2696,178,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,4997,0,51
+1764914783692,4841,GET /questions,200,OK,Users 1-49,text,true,,2698,178,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,4841,0,52
+1764914783773,4779,GET /questions,200,OK,Users 1-4,text,true,,2700,178,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,4779,0,49
+1764914783790,4786,GET /questions,200,OK,Users 1-5,text,true,,2700,178,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,4785,0,49
+1764914788317,305,POST /api/auth/login,200,OK,Users 1-15,text,true,,905,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,305,0,44
+1764914788286,472,Re-Login (simulate logout),200,OK,Users 1-24,text,true,,903,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,472,0,45
+1764914788690,109,GET Login Page,200,OK,Users 1-21,text,true,,1160,169,50,50,https://microservices.iqbalfadhil.biz.id/login,109,0,48
+1764914788325,569,Re-Login (simulate logout),200,OK,Users 1-25,text,true,,905,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,568,0,43
+1764914788102,825,GET /api/auth/me?token=XXX,200,OK,Users 1-12,text,true,,952,202,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=eb04c783ce65c0d386f7fb07c88367c0,825,0,47
+1764914783931,5049,POST /submit,200,OK,Users 1-22,text,true,,2339,665,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=09f4265a094df46fb98db0902c32c7aa,5049,0,53
+1764914783972,5046,GET /questions,200,OK,Users 1-6,text,true,,2702,178,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,5046,0,50
+1764914788594,513,POST /api/auth/login,200,OK,Users 1-16,text,true,,911,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,513,0,45
+1764914789220,0,Debug Vars,200,OK,Users 1-23,text,true,,857,0,50,50,null,0,0,0
+1764914788784,467,Re-Login (simulate logout),200,OK,Users 1-26,text,true,,905,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,467,0,44
+1764914784232,5081,POST /submit,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-28,text,false,,3145,0,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=12283ba1362be029e901031fe2051b34,0,0,51
+1764914789237,99,GET Login Page,200,OK,Users 1-20,text,true,,1150,169,50,50,https://microservices.iqbalfadhil.biz.id/login,99,0,45
+1764914784281,5078,POST /submit,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-29,text,false,,3145,0,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=90a45359f4075bffd3577cec4a5f706f,0,0,49
+1764914788896,496,POST /api/auth/login,200,OK,Users 1-17,text,true,,899,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,496,0,45
+1764914784465,5083,GET /questions,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-7,text,false,,3145,0,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,0,0,48
+1764914789111,441,POST /api/auth/login,200,OK,Users 1-19,text,true,,899,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,441,0,46
+1764914784677,4969,GET /questions,200,OK,Users 1-8,text,true,,2696,178,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,4968,0,49
+1764914789301,423,POST /api/auth/login,200,OK,Users 1-18,text,true,,903,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,423,0,50
+1764914789389,368,GET /api/auth/me?token=XXX,200,OK,Users 1-14,text,true,,954,202,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=23b3e2835b05f00598f9270c3b2838a3,368,0,48
+1764914789761,0,Debug Vars,200,OK,Users 1-24,text,true,,857,0,50,50,null,0,0,0
+1764914789897,0,Debug Vars,200,OK,Users 1-25,text,true,,856,0,50,50,null,0,0,0
+1764914789441,459,Re-Login (simulate logout),200,OK,Users 1-27,text,true,,905,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,458,0,46
+1764914785021,4928,POST /submit,200,OK,Users 1-30,text,true,,2331,665,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=5674dea46f57e62afeccea5e43a480b0,4928,0,48
+1764914789628,336,GET /api/auth/me?token=XXX,200,OK,Users 1-15,text,true,,956,202,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=5c3a0cdb401c44021ceeb5c0b9a6c407,336,0,44
+1764914789807,298,POST /api/auth/login,200,OK,Users 1-21,text,true,,905,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,298,0,46
+1764914785374,4772,POST /submit,200,OK,Users 1-31,text,true,,2330,665,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=4bde235b26abb54c7e9541380087ccbc,4772,0,50
+1764914790253,0,Debug Vars,200,OK,Users 1-26,text,true,,857,0,50,50,null,0,0,0
+1764914789981,293,Re-Login (simulate logout),200,OK,Users 1-22,text,true,,905,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,292,0,44
+1764914785389,4933,POST /submit,200,OK,Users 1-1,text,true,,2333,665,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=4db279f9b688b9d76ba6b485df9984eb,4933,0,50
+1764914790246,104,GET Login Page,200,OK,Users 1-23,text,true,,1150,169,50,50,https://microservices.iqbalfadhil.biz.id/login,104,0,47
+1764914790108,257,GET /api/auth/me?token=XXX,200,OK,Users 1-16,text,true,,960,202,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=54c89545201678409e30f8d5bdeedc4b,229,0,45
+1764914786328,4080,POST /submit,200,OK,Users 1-32,text,true,,2337,665,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=b490b3ba417f4f0b10bff30cbb896fa3,4079,0,47
+1764914786496,3967,GET /questions,200,OK,Users 1-9,text,true,,2692,178,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,3967,0,47
+1764914790329,353,Re-Login (simulate logout),200,OK,Users 1-28,text,true,,907,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,352,0,44
+1764914790394,327,GET /api/auth/me?token=XXX,200,OK,Users 1-17,text,true,,956,202,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=a2f8ccda3b30fd73d32d921f1c483834,327,0,47
+1764914790765,108,GET Login Page,200,OK,Users 1-24,text,true,,1146,169,50,50,https://microservices.iqbalfadhil.biz.id/login,108,0,43
+1764914790338,544,POST /api/auth/login,200,OK,Users 1-20,text,true,,905,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,543,0,43
+1764914790901,0,Debug Vars,200,OK,Users 1-27,text,true,,857,0,50,50,null,0,0,0
+1764914790899,119,GET Login Page,200,OK,Users 1-25,text,true,,1152,169,50,50,https://microservices.iqbalfadhil.biz.id/login,119,0,48
+1764914790366,654,Re-Login (simulate logout),200,OK,Users 1-29,text,true,,905,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,653,0,44
+1764914786634,4430,POST /submit,200,OK,Users 1-33,text,true,,2339,665,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=9e643a96a2dfb2aead9b8f4e3369fc33,4429,0,49
+1764914790561,523,GET /api/auth/me?token=XXX,200,OK,Users 1-19,text,true,,952,202,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=4108876a396b456a0d09b5512132bb27,523,0,43
+1764914790731,379,GET /api/auth/me?token=XXX,200,OK,Users 1-18,text,true,,956,202,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=d7ccaef590fe7f1c4dc7fef33e3c6035,378,0,44
+1764914786779,4384,POST /submit,200,OK,Users 1-34,text,true,,2331,665,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=7a1b75eede45745d3f4ed6060ed7a3f3,4383,0,49
+1764914790952,332,Re-Login (simulate logout),200,OK,Users 1-30,text,true,,911,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,332,0,45
+1764914791299,0,Debug Vars,200,OK,Users 1-22,text,true,,857,0,50,50,null,0,0,0
+1764914786968,4361,POST /submit,200,OK,Users 1-35,text,true,,2344,665,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=59fce827e70d94109d25ceff9a823c57,4361,0,47
+1764914791112,238,GET /api/auth/me?token=XXX,200,OK,Users 1-21,text,true,,946,202,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=c8ca3f174ab3f2f1d6d67c30fea2cad7,238,0,45
+1764914791254,101,GET Login Page,200,OK,Users 1-26,text,true,,1152,169,50,50,https://microservices.iqbalfadhil.biz.id/login,101,0,46
+1764914791146,346,Re-Login (simulate logout),200,OK,Users 1-31,text,true,,899,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,345,0,48
+1764914787305,4232,POST /submit,200,OK,Users 1-36,text,true,,2335,665,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=9c13a2f09231075b1bf1bb04f71ec99c,4232,0,48
+1764914791324,340,Re-Login (simulate logout),200,OK,Users 1-1,text,true,,907,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,340,0,47
+1764914791688,0,Debug Vars,200,OK,Users 1-28,text,true,,857,0,50,50,null,0,0,0
+1764914791350,449,POST /api/auth/login,200,OK,Users 1-23,text,true,,903,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,449,0,50
+1764914787504,4336,POST /submit,200,OK,Users 1-37,text,true,,2333,665,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=0820d1765db2d6b4d6b5126242d1e7e2,4335,0,49
+1764914791412,561,Re-Login (simulate logout),200,OK,Users 1-32,text,true,,903,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,560,0,46
+1764914791904,103,GET Login Page,200,OK,Users 1-27,text,true,,1152,169,50,50,https://microservices.iqbalfadhil.biz.id/login,102,0,46
+1764914787695,4319,POST /submit,200,OK,Users 1-38,text,true,,2339,665,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=c6c05153b9782ff9745198f5242cf4b5,4319,0,47
+1764914792024,0,Debug Vars,200,OK,Users 1-29,text,true,,857,0,50,50,null,0,0,0
+1764914791887,147,GET /api/auth/me?token=XXX,200,OK,Users 1-20,text,true,,958,202,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=6d91c9a1ef303cfdc4198e8ac716942e,147,0,43
+1764914787914,4133,GET /questions,200,OK,Users 1-10,text,true,,2702,178,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,4133,0,46
+1764914791877,304,POST /api/auth/login,200,OK,Users 1-24,text,true,,905,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,304,0,44
+1764914788107,4118,POST /submit,200,OK,Users 1-39,text,true,,2334,665,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=c9bc8ff970e7a1b872a6d0f20f51ac08,4118,0,49
+1764914792299,0,Debug Vars,200,OK,Users 1-30,text,true,,856,0,50,50,null,0,0,0
+1764914792023,332,POST /api/auth/login,200,OK,Users 1-25,text,true,,905,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,332,0,46
+1764914792495,1,Debug Vars,200,OK,Users 1-31,text,true,,857,0,50,50,null,0,0,0
+1764914792066,431,Re-Login (simulate logout),200,OK,Users 1-33,text,true,,903,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,430,0,44
+1764914788301,4241,POST /submit,200,OK,Users 1-40,text,true,,2328,665,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=0260b030dd3a72816263dc0b904752d6,4240,0,47
+1764914792307,287,GET Login Page,200,OK,Users 1-22,text,true,,1150,169,50,50,https://microservices.iqbalfadhil.biz.id/login,286,0,45
+1764914792669,0,Debug Vars,200,OK,Users 1-1,text,true,,855,0,50,50,null,0,0,0
+1764914792173,499,Re-Login (simulate logout),200,OK,Users 1-34,text,true,,915,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,499,0,47
+1764914792333,479,Re-Login (simulate logout),200,OK,Users 1-35,text,true,,903,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,479,0,46
+1764914792691,133,GET Login Page,200,OK,Users 1-28,text,true,,1152,169,50,50,https://microservices.iqbalfadhil.biz.id/login,133,0,45
+1764914792376,580,POST /api/auth/login,200,OK,Users 1-26,text,true,,907,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,580,0,46
+1764914788320,4684,POST /submit,200,OK,Users 1-41,text,true,,2329,665,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=237c175182b198bfc83bea2ab93f0de3,4683,0,49
+1764914793035,0,Debug Vars,200,OK,Users 1-32,text,true,,857,0,50,50,null,0,0,0
+1764914793025,101,GET Login Page,200,OK,Users 1-29,text,true,,1148,169,50,50,https://microservices.iqbalfadhil.biz.id/login,101,0,45
+1764914792543,584,Re-Login (simulate logout),200,OK,Users 1-36,text,true,,907,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,584,0,45
+1764914792815,348,GET /api/auth/me?token=XXX,200,OK,Users 1-23,text,true,,952,202,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=0cbe3e0d264eba225c0a4de154079247,345,0,45
+1764914792842,457,Re-Login (simulate logout),200,OK,Users 1-37,text,true,,907,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,457,0,45
+1764914788389,4956,POST /submit,200,OK,Users 1-42,text,true,,2335,665,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=7429f4b86dfc492286d16d80083fba59,4955,0,57
+1764914788420,4955,GET /questions,200,OK,Users 1-11,text,true,,2698,178,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,4954,0,53
+1764914793301,100,GET Login Page,200,OK,Users 1-30,text,true,,1148,169,50,50,https://microservices.iqbalfadhil.biz.id/login,99,0,45
+1764914793016,463,Re-Login (simulate logout),200,OK,Users 1-38,text,true,,913,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,463,0,43
+1764914793526,0,Debug Vars,200,OK,Users 1-33,text,true,,857,0,50,50,null,0,0,0
+1764914793014,617,POST /api/auth/login,200,OK,Users 1-27,text,true,,911,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,617,0,44
+1764914793192,469,GET /api/auth/me?token=XXX,200,OK,Users 1-24,text,true,,952,202,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=5df48be662e4a59c3ed2386066039bdc,468,0,49
+1764914793526,138,GET Login Page,200,OK,Users 1-31,text,true,,1156,169,50,50,https://microservices.iqbalfadhil.biz.id/login,138,0,48
+1764914793673,0,Debug Vars,200,OK,Users 1-34,text,true,,856,0,50,50,null,0,0,0
+1764914788632,5081,POST /submit,200,OK,Users 1-44,text,true,,2332,665,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=3b5409f9c846898a892aa596d4b60615,5081,0,48
+1764914788648,5078,POST /submit,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-43,text,false,,3145,0,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=08dc00ef290a6813cfa5268fecf9c5ec,0,0,48
+1764914793670,113,GET Login Page,200,OK,Users 1-1,text,true,,1150,169,50,50,https://microservices.iqbalfadhil.biz.id/login,113,0,46
+1764914793815,0,Debug Vars,200,OK,Users 1-35,text,true,,856,0,50,50,null,0,0,0
+1764914793234,602,Re-Login (simulate logout),200,OK,Users 1-39,text,true,,899,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,602,0,46
+1764914788778,5072,POST /submit,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-2,text,false,,3145,0,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=e942319531d2fddfd30fed90c6f87f2e,0,0,48
+1764914793362,508,GET /api/auth/me?token=XXX,200,OK,Users 1-25,text,true,,956,202,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=30223b1ce056a0c27d3bc2d82dddeafc,508,0,46
+1764914793545,471,Re-Login (simulate logout),200,OK,Users 1-40,text,true,,901,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,471,0,46
+1764914788956,5075,POST /submit,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-45,text,false,,3145,0,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=97fd65f348a823452863c75c060039f5,0,0,48
+1764914794135,0,Debug Vars,200,OK,Users 1-36,text,true,,857,0,50,50,null,0,0,0
+1764914794043,117,GET Login Page,200,OK,Users 1-32,text,true,,1154,169,50,50,https://microservices.iqbalfadhil.biz.id/login,117,0,47
+1764914793602,583,POST /api/auth/login,200,OK,Users 1-22,text,true,,907,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,582,0,47
+1764914789121,5094,POST /submit,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-47,text,false,,3145,0,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=1447ed6b86b9b53c9a6e09e862bf3bc4,0,0,48
+1764914789153,5076,POST /submit,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-46,text,false,,3145,0,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=e3bf3b4a38fc1ec0612155c5c1a429a1,0,0,44
+1764914789188,5080,POST /submit,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-3,text,false,,3145,0,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=bd4f1a1b8349d5ce6b5493e985bea1ec,0,0,48
+1764914789214,5079,POST /submit,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-48,text,false,,3145,0,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=44ff25842b8c46c1f58d90649ebedb94,0,0,47
+1764914794300,0,Debug Vars,200,OK,Users 1-37,text,true,,857,0,50,50,null,0,0,0
+1764914793828,495,POST /api/auth/login,200,OK,Users 1-28,text,true,,901,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,495,0,45
+1764914789248,5082,GET /questions,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-13,text,false,,3145,0,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,0,0,47
+1764914793959,398,GET /api/auth/me?token=XXX,200,OK,Users 1-26,text,true,,952,202,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=57e298df32eb3f3cbf229ce88de3baf4,398,0,46
+1764914794492,0,Debug Vars,200,OK,Users 1-38,text,true,,857,0,50,50,null,0,0,0
+1764914794020,514,Re-Login (simulate logout),200,OK,Users 1-41,text,true,,901,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,514,0,45
+1764914789494,5080,POST /submit,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-50,text,false,,3145,0,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=2dfe722a9bf6b1a41ef3eb751449c9a8,0,0,45
+1764914789536,5082,POST /submit,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-49,text,false,,3145,0,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=db77c37a4b29a7adad6758d15bb04f4e,0,0,44
+1764914794530,100,GET Login Page,200,OK,Users 1-33,text,true,,1148,169,50,50,https://microservices.iqbalfadhil.biz.id/login,99,0,45
+1764914789557,5074,POST /submit,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-4,text,false,,3145,0,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=f0e563f23940a984b4cd1c1048a89ffb,0,0,44
+1764914789577,5076,POST /submit,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-5,text,false,,3145,0,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=f091197ae0d6928bc8336314155c8916,0,0,45
+1764914794133,547,POST /api/auth/login,200,OK,Users 1-29,text,true,,907,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,547,0,44
+1764914794676,102,GET Login Page,200,OK,Users 1-34,text,true,,1154,169,50,50,https://microservices.iqbalfadhil.biz.id/login,101,0,47
+1764914794841,0,Debug Vars,200,OK,Users 1-39,text,true,,857,0,50,50,null,0,0,0
+1764914794347,507,Re-Login (simulate logout),200,OK,Users 1-42,text,true,,903,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,507,0,46
+1764914794817,105,GET Login Page,200,OK,Users 1-35,text,true,,1154,169,50,50,https://microservices.iqbalfadhil.biz.id/login,105,0,47
+1764914794403,595,POST /api/auth/login,200,OK,Users 1-30,text,true,,901,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,595,0,47
+1764914795019,0,Debug Vars,200,OK,Users 1-40,text,true,,856,0,50,50,null,0,0,0
+1764914789943,5086,GET /questions,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-12,text,false,,3145,0,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,0,0,57
+1764914794632,400,GET /api/auth/me?token=XXX,200,OK,Users 1-27,text,true,,956,202,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=b4ae55d8fd37323b0b604c6cd2417307,399,0,45
+1764914790023,5070,POST /submit,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-6,text,false,,3145,0,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=201105475bb3cabd85e97decc747af37,0,0,44
+1764914794669,544,POST /api/auth/login,200,OK,Users 1-31,text,true,,905,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,543,0,46
+1764914795138,101,GET Login Page,200,OK,Users 1-36,text,true,,1152,169,50,50,https://microservices.iqbalfadhil.biz.id/login,101,0,47
+1764914794729,629,Re-Login (simulate logout),200,OK,Users 1-43,text,true,,911,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,629,0,46
+1764914795323,99,GET Login Page,200,OK,Users 1-37,text,true,,1152,169,50,50,https://microservices.iqbalfadhil.biz.id/login,99,0,44
+1764914794724,781,Re-Login (simulate logout),200,OK,Users 1-44,text,true,,897,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,781,0,45
+1764914795538,0,Debug Vars,200,OK,Users 1-41,text,true,,857,0,50,50,null,0,0,0
+1764914795496,105,GET Login Page,200,OK,Users 1-38,text,true,,1156,169,50,50,https://microservices.iqbalfadhil.biz.id/login,105,0,46
+1764914790551,5086,POST /submit,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-7,text,false,,3145,0,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=196b2625d73f8b192ca7807b8a7932cd,0,0,48
+1764914794788,859,POST /api/auth/login,200,OK,Users 1-1,text,true,,899,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,859,0,46
+1764914790648,5074,POST /submit,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-8,text,false,,3145,0,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=da7ffd53ac7d94b4bb8c50ec6e870bd9,0,0,44
+1764914794855,933,Re-Login (simulate logout),200,OK,Users 1-2,text,true,,905,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,933,0,45
+1764914790761,5077,GET /questions,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-14,text,false,,3145,0,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,0,0,48
+1764914795855,0,Debug Vars,200,OK,Users 1-42,text,true,,857,0,50,50,null,0,0,0
+1764914795845,107,GET Login Page,200,OK,Users 1-39,text,true,,1150,169,50,50,https://microservices.iqbalfadhil.biz.id/login,107,0,48
+1764914795035,931,Re-Login (simulate logout),200,OK,Users 1-45,text,true,,901,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,930,0,45
+1764914795188,809,GET /api/auth/me?token=XXX,200,OK,Users 1-22,text,true,,948,202,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=5485240a3fec37680233b05b890580bf,808,0,47
+1764914790974,5072,GET /questions,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-15,text,false,,3145,0,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,0,0,48
+1764914796022,103,GET Login Page,200,OK,Users 1-40,text,true,,1154,169,50,50,https://microservices.iqbalfadhil.biz.id/login,102,0,45
+1764914795170,972,POST /api/auth/login,200,OK,Users 1-32,text,true,,903,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,972,0,45
+1764914795217,1070,Re-Login (simulate logout),200,OK,Users 1-47,text,true,,903,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,1069,0,45
+1764914796365,0,Debug Vars,200,OK,Users 1-43,text,true,,857,0,50,50,null,0,0,0
+1764914795271,1158,Re-Login (simulate logout),200,OK,Users 1-3,text,true,,899,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,1157,0,47
+1764914791365,5094,GET /questions,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-16,text,false,,3145,0,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,0,0,50
+1764914795325,1136,GET /api/auth/me?token=XXX,200,OK,Users 1-28,text,true,,960,202,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=c9e31f5bca15c39f317811d0e74b402f,1136,0,44
+1764914796518,0,Debug Vars,200,OK,Users 1-44,text,true,,857,0,50,50,null,0,0,0
+1764914791471,5070,POST /submit,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-9,text,false,,3145,0,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=04aa4fc3a28bd39edacf701578a007fa,0,0,45
+1764914795235,1370,Re-Login (simulate logout),200,OK,Users 1-46,text,true,,905,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,1369,0,44
+1764914796554,130,GET Login Page,200,OK,Users 1-41,text,true,,1148,169,50,50,https://microservices.iqbalfadhil.biz.id/login,129,0,47
+1764914795297,1446,Re-Login (simulate logout),200,OK,Users 1-48,text,true,,907,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,1446,0,44
+1764914796796,0,Debug Vars,200,OK,Users 1-2,text,true,,856,0,50,50,null,0,0,0
+1764914791727,5084,GET /questions,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-17,text,false,,3145,0,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,0,0,55
+1764914795579,1307,Re-Login (simulate logout),200,OK,Users 1-50,text,true,,907,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,1307,0,49
+1764914796865,103,GET Login Page,200,OK,Users 1-42,text,true,,1152,169,50,50,https://microservices.iqbalfadhil.biz.id/login,103,0,47
+1764914797027,0,Debug Vars,200,OK,Users 1-45,text,true,,857,0,50,50,null,0,0,0
+1764914795631,1397,POST /api/auth/login,200,OK,Users 1-33,text,true,,907,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,1396,0,45
+1764914795620,1550,Re-Login (simulate logout),200,OK,Users 1-49,text,true,,911,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,1549,0,46
+1764914792088,5112,GET /questions,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-19,text,false,,3145,0,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,0,0,49
+1764914792111,5089,GET /questions,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-18,text,false,,3145,0,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,0,0,50
+1764914797291,0,Debug Vars,200,OK,Users 1-47,text,true,,857,0,50,50,null,0,0,0
+1764914795655,1659,Re-Login (simulate logout),200,OK,Users 1-5,text,true,,897,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,1659,0,45
+1764914795683,1664,GET /api/auth/me?token=XXX,200,OK,Users 1-29,text,true,,954,202,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=a3b33acd8fc773f4a51ee1318ae7f96c,1663,0,48
+1764914797434,0,Debug Vars,200,OK,Users 1-3,text,true,,856,0,50,50,null,0,0,0
+1764914792355,5083,GET /questions,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-21,text,false,,3145,0,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,0,0,52
+1764914797377,106,GET Login Page,200,OK,Users 1-43,text,true,,1152,169,50,50,https://microservices.iqbalfadhil.biz.id/login,105,0,47
+1764914795638,1851,Re-Login (simulate logout),200,OK,Users 1-4,text,true,,911,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,1849,0,46
+1764914797610,0,Debug Vars,200,OK,Users 1-46,text,true,,857,0,50,50,null,0,0,0
+1764914797530,136,GET Login Page,200,OK,Users 1-44,text,true,,1156,169,50,50,https://microservices.iqbalfadhil.biz.id/login,136,0,46
+1764914795780,1889,POST /api/auth/login,200,OK,Users 1-34,text,true,,911,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,1887,0,48
+1764914797745,0,Debug Vars,200,OK,Users 1-48,text,true,,857,0,50,50,null,0,0,0
+1764914795929,1879,POST /api/auth/login,200,OK,Users 1-35,text,true,,915,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,1878,0,46
+1764914796000,1842,GET /api/auth/me?token=XXX,200,OK,Users 1-30,text,true,,954,202,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=78a50c6ca3f5407f8d6d402235fb3edb,1842,0,46
+1764914797801,103,GET Login Page,200,OK,Users 1-2,text,true,,1152,169,50,50,https://microservices.iqbalfadhil.biz.id/login,103,0,48
+1764914797906,0,Debug Vars,200,OK,Users 1-50,text,true,,857,0,50,50,null,0,0,0
+1764914796097,1888,Re-Login (simulate logout),200,OK,Users 1-6,text,true,,905,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,1887,0,46
+1764914796218,1801,GET /api/auth/me?token=XXX,200,OK,Users 1-31,text,true,,954,202,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=bd49416e39747aa0a1706ec7571c084b,1799,0,46
+1764914793038,5077,GET /questions,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-20,text,false,,3145,0,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,0,0,47
+1764914793050,5096,POST /submit,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-10,text,false,,3145,0,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=c1ee4005c58f1ef3691f882b7f01042d,0,0,47
+1764914798028,128,GET Login Page,200,OK,Users 1-45,text,true,,1162,169,50,50,https://microservices.iqbalfadhil.biz.id/login,128,0,51
+1764914796240,1918,POST /api/auth/login,200,OK,Users 1-36,text,true,,905,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,1916,0,47
+1764914798171,1,Debug Vars,200,OK,Users 1-49,text,true,,856,0,50,50,null,0,0,0
+1764914796427,1871,POST /api/auth/login,200,OK,Users 1-37,text,true,,907,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,1871,0,44
+1764914798318,0,Debug Vars,200,OK,Users 1-5,text,true,,856,0,50,50,null,0,0,0
+1764914796650,1681,GET /api/auth/me?token=XXX,200,OK,Users 1-1,text,true,,958,202,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=71f63f53f181e29417b972194878d632,1681,0,46
+1764914798304,109,GET Login Page,200,OK,Users 1-47,text,true,,1150,169,50,50,https://microservices.iqbalfadhil.biz.id/login,108,0,46
+1764914796607,1855,POST /api/auth/login,200,OK,Users 1-38,text,true,,913,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,1855,0,45
+1764914798495,1,Debug Vars,200,OK,Users 1-4,text,true,,856,0,50,50,null,0,0,0
+1764914798439,107,GET Login Page,200,OK,Users 1-3,text,true,,1156,169,50,50,https://microservices.iqbalfadhil.biz.id/login,106,0,47
+1764914796642,1966,Re-Login (simulate logout),200,OK,Users 1-7,text,true,,897,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,1965,0,45
+1764914798613,97,GET Login Page,200,OK,Users 1-46,text,true,,1152,169,50,50,https://microservices.iqbalfadhil.biz.id/login,97,0,45
+1764914796727,2022,Re-Login (simulate logout),200,OK,Users 1-8,text,true,,903,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,2021,0,46
+1764914798750,100,GET Login Page,200,OK,Users 1-48,text,true,,1148,169,50,50,https://microservices.iqbalfadhil.biz.id/login,99,0,44
+1764914796956,1937,POST /api/auth/login,200,OK,Users 1-39,text,true,,899,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,1936,0,46
+1764914797146,1808,GET /api/auth/me?token=XXX,200,OK,Users 1-32,text,true,,960,202,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=2b1fb4255d96d3e407b83e844f2907ac,1779,0,47
+1764914798989,0,Debug Vars,200,OK,Users 1-6,text,true,,856,0,50,50,null,0,0,0
+1764914798912,103,GET Login Page,200,OK,Users 1-50,text,true,,1154,169,50,50,https://microservices.iqbalfadhil.biz.id/login,101,0,47
+1764914797136,1939,POST /api/auth/login,200,OK,Users 1-40,text,true,,905,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,1939,0,48
+1764914797558,1693,Re-Login (simulate logout),200,OK,Users 1-9,text,true,,907,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,1692,0,46
+1764914794175,5076,GET /questions,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-23,text,false,,3145,0,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,0,0,47
+1764914799188,100,GET Login Page,200,OK,Users 1-49,text,true,,1156,169,50,50,https://microservices.iqbalfadhil.biz.id/login,100,0,46
+1764914797687,1711,POST /api/auth/login,200,OK,Users 1-41,text,true,,905,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,1710,0,48
+1764914799320,103,GET Login Page,200,OK,Users 1-5,text,true,,1148,169,50,50,https://microservices.iqbalfadhil.biz.id/login,103,0,45
+1764914794380,5092,POST /submit,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-11,text,false,,3145,0,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=d46dc21156666cbd99ad179e7a9dc1ae,0,0,48
+1764914797970,1569,POST /api/auth/login,200,OK,Users 1-42,text,true,,909,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,1568,0,45
+1764914798029,1542,GET /api/auth/me?token=XXX,200,OK,Users 1-33,text,true,,954,202,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=5d61f3403ef6d4016c5a4979206e6c0a,1542,0,44
+1764914799504,103,GET Login Page,200,OK,Users 1-4,text,true,,1160,169,50,50,https://microservices.iqbalfadhil.biz.id/login,103,0,48
+1764914799610,0,Debug Vars,200,OK,Users 1-7,text,true,,856,0,50,50,null,0,0,0
+1764914798501,1219,POST /api/auth/login,200,OK,Users 1-43,text,true,,909,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,1219,0,45
+1764914794663,5084,GET /questions,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-24,text,false,,3145,0,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,0,0,47
+1764914799752,0,Debug Vars,200,OK,Users 1-8,text,true,,856,0,50,50,null,0,0,0
+1764914798697,1082,GET /api/auth/me?token=XXX,200,OK,Users 1-34,text,true,,960,202,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=996b4f747c92cb9360bf6fb7e861582f,1053,0,45
+1764914798680,1212,POST /api/auth/login,200,OK,Users 1-44,text,true,,901,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,1212,0,47
+1764914798810,1114,GET /api/auth/me?token=XXX,200,OK,Users 1-35,text,true,,960,202,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=e5be0adab42034e73f75e88ff80e954c,1114,0,46
+1764914794871,5093,GET /questions,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-25,text,false,,3145,0,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,0,0,49
+1764914798908,1152,POST /api/auth/login,200,OK,Users 1-2,text,true,,901,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,1152,0,46
+1764914799997,110,GET Login Page,200,OK,Users 1-6,text,true,,1156,169,50,50,https://microservices.iqbalfadhil.biz.id/login,110,0,46
+1764914799162,967,GET /api/auth/me?token=XXX,200,OK,Users 1-36,text,true,,962,202,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=9036ddfe1741184e29999fa0b0193d36,966,0,45
+1764914799159,1098,POST /api/auth/login,200,OK,Users 1-45,text,true,,899,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,1097,0,44
+1764914800258,0,Debug Vars,200,OK,Users 1-9,text,true,,856,0,50,50,null,0,0,0
+1764914799161,1236,Re-Login (simulate logout),200,OK,Users 1-10,text,true,,895,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,1235,0,46
+1764914795332,5078,POST /submit,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-13,text,false,,3145,0,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=fbb76b848e7600a7838d2d2d2aca2e16,0,0,47
+1764914799302,1139,GET /api/auth/me?token=XXX,200,OK,Users 1-37,text,true,,958,202,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=bfe1d2b863c81fe7b869199828b6ef42,1138,0,46
+1764914795368,5080,GET /questions,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-26,text,false,,3145,0,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,0,0,46
+1764914799466,996,GET /api/auth/me?token=XXX,200,OK,Users 1-38,text,true,,952,202,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=2d37bcc2136f8a1a5b2e44bc5a03b06a,995,0,47
+1764914799414,1196,POST /api/auth/login,200,OK,Users 1-47,text,true,,899,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,1196,0,46
+1764914800613,105,GET Login Page,200,OK,Users 1-7,text,true,,1156,169,50,50,https://microservices.iqbalfadhil.biz.id/login,103,0,47
+1764914799553,1198,POST /api/auth/login,200,OK,Users 1-3,text,true,,903,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,1197,0,47
+1764914800754,113,GET Login Page,200,OK,Users 1-8,text,true,,1146,169,50,50,https://microservices.iqbalfadhil.biz.id/login,113,0,50
+1764914799722,1172,POST /api/auth/login,200,OK,Users 1-46,text,true,,899,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,1171,0,48
+1764914799894,1033,GET /api/auth/me?token=XXX,200,OK,Users 1-39,text,true,,954,202,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=c5d5d17ace58aa65c244c2d087b77f56,1032,0,41
+1764914799852,1216,POST /api/auth/login,200,OK,Users 1-48,text,true,,899,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,1216,0,47
+1764914796034,5073,POST /submit,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-12,text,false,,3145,0,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=eb04c783ce65c0d386f7fb07c88367c0,0,0,48
+1764914796035,5075,GET /questions,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-27,text,false,,3145,0,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,0,0,45
+1764914800078,1057,GET /api/auth/me?token=XXX,200,OK,Users 1-40,text,true,,966,202,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=86bebdb7f61204f87c4537e76ec713e0,1056,0,46
+1764914800017,1262,POST /api/auth/login,200,OK,Users 1-50,text,true,,897,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,1262,0,48
+1764914801274,113,GET Login Page,200,OK,Users 1-9,text,true,,1154,169,50,50,https://microservices.iqbalfadhil.biz.id/login,112,0,50
+1764914801409,0,Debug Vars,200,OK,Users 1-10,text,true,,857,0,50,50,null,0,0,0
+1764914800309,1117,POST /api/auth/login,200,OK,Users 1-49,text,true,,911,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,1116,0,50
+1764914800403,1055,GET /api/auth/me?token=XXX,200,OK,Users 1-41,text,true,,952,202,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=de47b93cfb5216119368cfdf7660c097,1055,0,46
+1764914800424,1175,POST /api/auth/login,200,OK,Users 1-5,text,true,,903,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,1174,0,48
+1764914800473,1270,Re-Login (simulate logout),200,OK,Users 1-11,text,true,,905,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,1269,0,46
+1764914800553,1223,GET /api/auth/me?token=XXX,200,OK,Users 1-42,text,true,,954,202,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=2b84177b20eaaf35af0ca4ecbbcd6e77,1223,0,46
+1764914800622,1296,POST /api/auth/login,200,OK,Users 1-4,text,true,,909,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,1296,0,46
+1764914796849,5075,POST /submit,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-14,text,false,,3145,0,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=23b3e2835b05f00598f9270c3b2838a3,0,0,48
+1764914800736,1219,GET /api/auth/me?token=XXX,200,OK,Users 1-43,text,true,,960,202,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=81b586ff02c4468e6b7998ca34564524,1219,0,46
+1764914800907,1079,GET /api/auth/me?token=XXX,200,OK,Users 1-44,text,true,,960,202,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=1cf7af8631c592dfcea4f98dc1e2790d,1079,0,50
+1764914801068,982,GET /api/auth/me?token=XXX,200,OK,Users 1-2,text,true,,952,202,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=fb028e2ff536632af45a8d498f280606,982,0,47
+1764914796999,5081,GET /questions,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-22,text,false,,3145,0,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,0,0,49
+1764914797051,5077,POST /submit,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-15,text,false,,3145,0,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=5c3a0cdb401c44021ceeb5c0b9a6c407,0,0,49
+1764914801111,1082,POST /api/auth/login,200,OK,Users 1-6,text,true,,901,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,1082,0,50
+1764914801260,967,GET /api/auth/me?token=XXX,200,OK,Users 1-45,text,true,,952,202,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=c45cbb7d401c3841a1d908673bae6a4d,967,0,45
+1764914801617,647,GET /api/auth/me?token=XXX,200,OK,Users 1-47,text,true,,952,202,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=73e98d7f4dc34a279116a81b975d69ec,646,0,45
+1764914801752,540,GET /api/auth/me?token=XXX,200,OK,Users 1-3,text,true,,956,202,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=8f703304416def1e779671b237e6daa4,540,0,45
+1764914801726,712,POST /api/auth/login,200,OK,Users 1-7,text,true,,907,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,711,0,44
+1764914801900,569,GET /api/auth/me?token=XXX,200,OK,Users 1-46,text,true,,960,202,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=b27c951a680425e7a9b6b8f71d130c7e,568,0,44
+1764914802428,103,GET Login Page,200,OK,Users 1-10,text,true,,1158,169,50,50,https://microservices.iqbalfadhil.biz.id/login,103,0,45
+1764914797463,5079,GET /questions,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-28,text,false,,3145,0,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,0,0,50
+1764914797463,5084,POST /submit,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-16,text,false,,3145,0,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=54c89545201678409e30f8d5bdeedc4b,0,0,55
+1764914801872,744,POST /api/auth/login,200,OK,Users 1-8,text,true,,901,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,743,0,48
+1764914802070,614,GET /api/auth/me?token=XXX,200,OK,Users 1-48,text,true,,960,202,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=d4fdc6017989c938f97bf3b6d58b65bb,614,0,44
+1764914802748,0,Debug Vars,200,OK,Users 1-11,text,true,,856,0,50,50,null,0,0,0
+1764914802109,728,Re-Login (simulate logout),200,OK,Users 1-12,text,true,,909,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,727,0,46
+1764914802297,572,GET /api/auth/me?token=XXX,200,OK,Users 1-50,text,true,,954,202,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=0e058e3b601e06dd1998c47a04456800,571,0,46
+1764914797813,5079,POST /submit,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-17,text,false,,3145,0,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=a2f8ccda3b30fd73d32d921f1c483834,0,0,49
+1764914802428,504,GET /api/auth/me?token=XXX,200,OK,Users 1-49,text,true,,960,202,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=754c816141c77131e0048748fa5deb14,474,0,46
+1764914802392,658,POST /api/auth/login,200,OK,Users 1-9,text,true,,905,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,658,0,48
+1764914801410,1785,Re-Login (simulate logout),200,OK,Users 1-13,text,true,,907,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,1785,0,1057
+1764914802604,619,GET /api/auth/me?token=XXX,200,OK,Users 1-5,text,true,,954,202,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=009382c1b1b0ac0cbc211f2567ec7795,619,0,45
+1764914802922,373,GET /api/auth/me?token=XXX,200,OK,Users 1-4,text,true,,952,202,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=21c4d7a2600dffaa039c6d95c4442f47,372,0,44
+1764914798220,5077,POST /submit,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-19,text,false,,3145,0,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=4108876a396b456a0d09b5512132bb27,0,0,47
+1764914798218,5079,POST /submit,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-18,text,false,,3145,0,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=d7ccaef590fe7f1c4dc7fef33e3c6035,0,0,47
+1764914798350,5082,GET /questions,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-29,text,false,,3145,0,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,0,0,46
+1764914802926,521,Re-Login (simulate logout),200,OK,Users 1-14,text,true,,903,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,520,0,47
+1764914798441,5080,POST /submit,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-21,text,false,,3145,0,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=c8ca3f174ab3f2f1d6d67c30fea2cad7,0,0,50
+1764914803129,465,Re-Login (simulate logout),200,OK,Users 1-15,text,true,,905,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,465,0,45
+1764914803204,421,GET /api/auth/me?token=XXX,200,OK,Users 1-6,text,true,,962,202,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=7c2e328b6b2d35fe7ede8a79f77ecf2b,420,0,44
+1764914803440,243,GET /api/auth/me?token=XXX,200,OK,Users 1-7,text,true,,962,202,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=0aaa750f3db4a8796d6036b8131bd5b0,243,0,49
+1764914803532,292,POST /api/auth/login,200,OK,Users 1-10,text,true,,915,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,291,0,44
+1764914803755,104,GET Login Page,200,OK,Users 1-11,text,true,,1150,169,50,50,https://microservices.iqbalfadhil.biz.id/login,104,0,48
+1764914803882,0,Debug Vars,200,OK,Users 1-12,text,true,,857,0,50,50,null,0,0,0
+1764914798847,5077,GET /questions,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-30,text,false,,3145,0,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,0,0,47
+1764914803549,419,Re-Login (simulate logout),200,OK,Users 1-16,text,true,,911,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,419,0,47
+1764914803617,412,GET /api/auth/me?token=XXX,200,OK,Users 1-8,text,true,,960,202,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=f26a1684c59199820d28df92524e85b6,412,0,49
+1764914799063,5081,GET /questions,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-31,text,false,,3145,0,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,0,0,45
+1764914799117,5079,POST /submit,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-20,text,false,,3145,0,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=6d91c9a1ef303cfdc4198e8ac716942e,0,0,50
+1764914804196,0,Debug Vars,200,OK,Users 1-13,text,true,,857,0,50,50,null,0,0,0
+1764914803899,307,Re-Login (simulate logout),200,OK,Users 1-17,text,true,,907,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,307,0,54
+1764914804056,217,GET /api/auth/me?token=XXX,200,OK,Users 1-9,text,true,,952,202,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=f08f5d4858770809aaabf42955f51b58,217,0,45
+1764914799334,5075,GET /questions,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-1,text,false,,3145,0,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,0,0,46
+1764914804462,0,Debug Vars,200,OK,Users 1-14,text,true,,857,0,50,50,null,0,0,0
+1764914804599,0,Debug Vars,200,OK,Users 1-15,text,true,,857,0,50,50,null,0,0,0
+1764914804299,311,Re-Login (simulate logout),200,OK,Users 1-18,text,true,,901,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,310,0,47
+1764914804298,454,Re-Login (simulate logout),200,OK,Users 1-19,text,true,,907,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,454,0,47
+1764914804525,411,Re-Login (simulate logout),200,OK,Users 1-21,text,true,,899,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,407,0,46
+1764914804989,0,Debug Vars,200,OK,Users 1-16,text,true,,857,0,50,50,null,0,0,0
+1764914804834,165,GET /api/auth/me?token=XXX,200,OK,Users 1-10,text,true,,950,202,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=f0a8c788270168fce4720d87d6bf6776,165,0,48
+1764914799957,5074,GET /questions,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-32,text,false,,3145,0,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,0,0,48
+1764914804929,111,GET Login Page,200,OK,Users 1-12,text,true,,1148,169,50,50,https://microservices.iqbalfadhil.biz.id/login,110,0,49
+1764914805207,0,Debug Vars,200,OK,Users 1-17,text,true,,857,0,50,50,null,0,0,0
+1764914805207,110,GET Login Page,200,OK,Users 1-13,text,true,,1146,169,50,50,https://microservices.iqbalfadhil.biz.id/login,110,0,49
+1764914804862,460,POST /api/auth/login,200,OK,Users 1-11,text,true,,917,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,459,0,48
+1764914800260,5082,POST /submit,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-23,text,false,,3145,0,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=0cbe3e0d264eba225c0a4de154079247,0,0,52
+1764914805200,384,Re-Login (simulate logout),200,OK,Users 1-20,text,true,,901,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,383,0,47
+1764914805470,117,GET Login Page,200,OK,Users 1-14,text,true,,1148,169,50,50,https://microservices.iqbalfadhil.biz.id/login,116,0,49
+1764914805610,0,Debug Vars,200,OK,Users 1-18,text,true,,857,0,50,50,null,0,0,0
+1764914800573,5085,GET /questions,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-33,text,false,,3145,0,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,0,0,48
+1764914805600,101,GET Login Page,200,OK,Users 1-15,text,true,,1158,169,50,50,https://microservices.iqbalfadhil.biz.id/login,101,0,43
+1764914805767,0,Debug Vars,200,OK,Users 1-19,text,true,,857,0,50,50,null,0,0,0
+1764914800754,5094,POST /submit,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-24,text,false,,3145,0,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=5df48be662e4a59c3ed2386066039bdc,0,0,50
+1764914800798,5091,GET /questions,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-34,text,false,,3145,0,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,0,0,49
+1764914805937,0,Debug Vars,200,OK,Users 1-21,text,true,,857,0,50,50,null,0,0,0
+1764914800927,5087,GET /questions,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-35,text,false,,3145,0,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,0,0,51
+1764914800976,5098,POST /submit,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-25,text,false,,3145,0,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=30223b1ce056a0c27d3bc2d82dddeafc,0,0,52
+1764914805992,129,GET Login Page,200,OK,Users 1-16,text,true,,1160,169,50,50,https://microservices.iqbalfadhil.biz.id/login,129,0,47
+1764914801130,5080,GET /questions,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-36,text,false,,3145,0,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,0,0,47
+1764914806212,104,GET Login Page,200,OK,Users 1-17,text,true,,1148,169,50,50,https://microservices.iqbalfadhil.biz.id/login,104,0,47
+1764914806050,334,POST /api/auth/login,200,OK,Users 1-12,text,true,,909,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,334,0,48
+1764914806333,141,GET /api/auth/me?token=XXX,200,OK,Users 1-11,text,true,,954,202,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=13bb8e3ac9e5e644bf9e60f4279e30b8,141,0,44
+1764914801443,5080,GET /questions,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-37,text,false,,3145,0,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,0,0,49
+1764914801452,5086,POST /submit,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-26,text,false,,3145,0,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=57e298df32eb3f3cbf229ce88de3baf4,0,0,48
+1764914801465,5083,GET /questions,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-38,text,false,,3145,0,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,0,0,46
+1764914806588,0,Debug Vars,200,OK,Users 1-20,text,true,,857,0,50,50,null,0,0,0
+1764914806342,341,POST /api/auth/login,200,OK,Users 1-13,text,true,,905,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,341,0,46
+1764914806616,108,GET Login Page,200,OK,Users 1-18,text,true,,1152,169,50,50,https://microservices.iqbalfadhil.biz.id/login,106,0,52
+1764914806346,479,Re-Login (simulate logout),200,OK,Users 1-23,text,true,,901,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,479,0,46
+1764914806769,108,GET Login Page,200,OK,Users 1-19,text,true,,1152,169,50,50,https://microservices.iqbalfadhil.biz.id/login,108,0,47
+1764914806593,418,POST /api/auth/login,200,OK,Users 1-14,text,true,,907,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,416,0,45
+1764914801928,5086,GET /questions,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-39,text,false,,3145,0,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,0,0,50
+1764914806946,108,GET Login Page,200,OK,Users 1-21,text,true,,1158,169,50,50,https://microservices.iqbalfadhil.biz.id/login,107,0,50
+1764914806702,448,POST /api/auth/login,200,OK,Users 1-15,text,true,,907,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,448,0,45
+1764914802113,5077,POST /submit,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-27,text,false,,3145,0,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=b4ae55d8fd37323b0b604c6cd2417307,0,0,49
+1764914802145,5107,GET /questions,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-40,text,false,,3145,0,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,0,0,45
+1764914806858,471,Re-Login (simulate logout),200,OK,Users 1-24,text,true,,901,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,471,0,47
+1764914807078,393,Re-Login (simulate logout),200,OK,Users 1-25,text,true,,903,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,393,0,47
+1764914802459,5084,GET /questions,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-41,text,false,,3145,0,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,0,0,44
+1764914807123,491,POST /api/auth/login,200,OK,Users 1-16,text,true,,901,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,490,0,48
+1764914807389,292,GET /api/auth/me?token=XXX,200,OK,Users 1-12,text,true,,952,202,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=6844f71f36d5f7ca08aba8cab876b128,292,0,47
+1764914807592,108,GET Login Page,200,OK,Users 1-20,text,true,,1150,169,50,50,https://microservices.iqbalfadhil.biz.id/login,108,0,46
+1764914807321,504,POST /api/auth/login,200,OK,Users 1-17,text,true,,903,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,504,0,47
+1764914807836,0,Debug Vars,200,OK,Users 1-23,text,true,,857,0,50,50,null,0,0,0
+1764914802781,5072,GET /questions,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-42,text,false,,3145,0,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,0,0,46
+1764914807566,438,Re-Login (simulate logout),200,OK,Users 1-26,text,true,,907,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,438,0,46
+1764914807689,346,GET /api/auth/me?token=XXX,200,OK,Users 1-13,text,true,,954,202,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=2641bc848e34090b68531bd887b67561,346,0,45
+1764914802991,5081,GET /questions,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-43,text,false,,3145,0,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,0,0,49
+1764914803012,5079,GET /questions,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-44,text,false,,3145,0,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,0,0,50
+1764914803055,5084,GET /questions,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-2,text,false,,3145,0,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,0,0,48
+1764914803094,5092,POST /submit,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-22,text,false,,3145,0,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=5485240a3fec37680233b05b890580bf,0,0,51
+1764914807727,459,POST /api/auth/login,200,OK,Users 1-18,text,true,,909,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,457,0,49
+1764914803235,5076,GET /questions,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-45,text,false,,3145,0,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,0,0,47
+1764914808331,0,Debug Vars,200,OK,Users 1-24,text,true,,857,0,50,50,null,0,0,0
+1764914803267,5087,GET /questions,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-47,text,false,,3145,0,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,0,0,55
+1764914807879,477,POST /api/auth/login,200,OK,Users 1-19,text,true,,899,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,476,0,44
+1764914803295,5087,GET /questions,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-3,text,false,,3145,0,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,0,0,56
+1764914808014,374,GET /api/auth/me?token=XXX,200,OK,Users 1-14,text,true,,950,202,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=785eef6b998d39df3a0f29313746435d,374,0,59
+1764914808483,0,Debug Vars,200,OK,Users 1-25,text,true,,856,0,50,50,null,0,0,0
+1764914808055,476,POST /api/auth/login,200,OK,Users 1-21,text,true,,903,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,475,0,45
+1764914803470,5084,GET /questions,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-46,text,false,,3145,0,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,0,0,50
+1764914808160,401,GET /api/auth/me?token=XXX,200,OK,Users 1-15,text,true,,950,202,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=aa7432c6acd6541cb76f687f7dc3688c,400,0,51
+1764914803545,5086,POST /submit,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-28,text,false,,3145,0,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=c9e31f5bca15c39f317811d0e74b402f,0,0,48
+1764914808192,552,Re-Login (simulate logout),200,OK,Users 1-27,text,true,,903,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,552,0,46
+1764914803696,5079,GET /questions,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-48,text,false,,3145,0,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,0,0,51
+1764914808617,193,GET /api/auth/me?token=XXX,200,OK,Users 1-16,text,true,,958,202,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=2f44c54cad1335e98e77f0f628ff876b,193,0,48
+1764914808836,107,GET Login Page,200,OK,Users 1-23,text,true,,1150,169,50,50,https://microservices.iqbalfadhil.biz.id/login,103,0,51
+1764914803869,5122,GET /questions,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-50,text,false,,3145,0,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,0,0,50
+1764914809006,0,Debug Vars,200,OK,Users 1-26,text,true,,857,0,50,50,null,0,0,0
+1764914808733,333,POST /api/auth/login,200,OK,Users 1-20,text,true,,899,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,331,0,49
+1764914803937,5133,GET /questions,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-49,text,false,,3145,0,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,0,0,56
+1764914808830,295,GET /api/auth/me?token=XXX,200,OK,Users 1-17,text,true,,960,202,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=2499bbb48c28370dcd2a96217c4b5276,268,0,48
+1764914804225,5083,GET /questions,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-5,text,false,,3145,0,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,0,0,53
+1764914809190,142,GET /api/auth/me?token=XXX,200,OK,Users 1-18,text,true,,952,202,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=41693438bdf7da1770c45f29fb3b2042,142,0,50
+1764914804298,5093,GET /questions,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-4,text,false,,3145,0,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,0,0,52
+1764914809336,141,GET Login Page,200,OK,Users 1-24,text,true,,1152,169,50,50,https://microservices.iqbalfadhil.biz.id/login,141,0,50
+1764914809197,322,Re-Login (simulate logout),200,OK,Users 1-22,text,true,,905,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,322,0,48
+1764914804438,5101,POST /submit,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-29,text,false,,3145,0,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=a3b33acd8fc773f4a51ee1318ae7f96c,0,0,63
+1764914809484,103,GET Login Page,200,OK,Users 1-25,text,true,,1154,169,50,50,https://microservices.iqbalfadhil.biz.id/login,101,0,47
+1764914809359,238,GET /api/auth/me?token=XXX,200,OK,Users 1-19,text,true,,952,202,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=b47f1539f49a7afde35ad317ce7e0e47,238,0,55
+1764914809542,143,GET /api/auth/me?token=XXX,200,OK,Users 1-21,text,true,,958,202,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=6cf3e7ce2bd8baba0e466c66934ffd3e,142,0,48
+1764914804639,5079,GET /questions,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-6,text,false,,3145,0,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,0,0,48
+1764914809746,1,Debug Vars,200,OK,Users 1-27,text,true,,857,0,50,50,null,0,0,0
+1764914804692,5078,GET /questions,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-7,text,false,,3145,0,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,0,0,50
+1764914809634,338,Re-Login (simulate logout),200,OK,Users 1-28,text,true,,903,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,338,0,47
+1764914804929,5076,POST /submit,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-30,text,false,,3145,0,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=78a50c6ca3f5407f8d6d402235fb3edb,0,0,50
+1764914805031,5044,GET /questions,200,OK,Users 1-8,text,true,,2700,178,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,5041,0,48
+1764914810010,140,GET Login Page,200,OK,Users 1-26,text,true,,1150,169,50,50,https://microservices.iqbalfadhil.biz.id/login,140,0,55
+1764914805146,5030,POST /submit,200,OK,Users 1-31,text,true,,2338,665,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=bd49416e39747aa0a1706ec7571c084b,5029,0,55
+1764914805278,4931,GET /questions,200,OK,Users 1-9,text,true,,2702,178,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,4929,0,51
+1764914809975,342,POST /api/auth/login,200,OK,Users 1-23,text,true,,911,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,342,0,56
+1764914810071,285,GET /api/auth/me?token=XXX,200,OK,Users 1-20,text,true,,960,202,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=7469dace765aceda244c857a4fc18bc1,284,0,50
+1764914805418,4994,POST /submit,200,OK,Users 1-1,text,true,,2340,665,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=71f63f53f181e29417b972194878d632,4994,0,52
+1764914806006,4470,GET /questions,200,OK,Users 1-10,text,true,,2700,178,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,4469,0,51
+1764914810522,0,Debug Vars,200,OK,Users 1-22,text,true,,857,0,50,50,null,0,0,0
+1764914806032,4620,POST /submit,200,OK,Users 1-32,text,true,,2333,665,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=2b1fb4255d96d3e407b83e844f2907ac,4606,0,49
+1764914806669,4077,POST /submit,200,OK,Users 1-33,text,true,,2335,665,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=5d61f3403ef6d4016c5a4979206e6c0a,4076,0,50
+1764914810482,405,POST /api/auth/login,200,OK,Users 1-24,text,true,,903,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,405,0,50
+1764914810977,0,Debug Vars,200,OK,Users 1-28,text,true,,857,0,50,50,null,0,0,0
+1764914810545,491,Re-Login (simulate logout),200,OK,Users 1-29,text,true,,905,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,489,0,46
+1764914810747,301,GET Login Page,200,OK,Users 1-27,text,true,,1152,169,50,50,https://microservices.iqbalfadhil.biz.id/login,301,0,47
+1764914806902,4165,POST /submit,200,OK,Users 1-34,text,true,,2338,665,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=996b4f747c92cb9360bf6fb7e861582f,4165,0,49
+1764914810595,600,POST /api/auth/login,200,OK,Users 1-25,text,true,,911,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,599,0,57
+1764914807015,4223,POST /submit,200,OK,Users 1-35,text,true,,2346,665,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=e5be0adab42034e73f75e88ff80e954c,4221,0,50
+1764914811009,362,Re-Login (simulate logout),200,OK,Users 1-30,text,true,,901,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,360,0,47
+1764914807217,4199,POST /submit,200,OK,Users 1-36,text,true,,2335,665,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=9036ddfe1741184e29999fa0b0193d36,4196,0,55
+1764914807475,3970,GET /questions,200,OK,Users 1-11,text,true,,2698,178,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,3967,0,55
+1764914811159,378,POST /api/auth/login,200,OK,Users 1-26,text,true,,899,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,376,0,48
+1764914811525,107,GET Login Page,200,OK,Users 1-22,text,true,,1148,169,50,50,https://microservices.iqbalfadhil.biz.id/login,106,0,47
+1764914811181,501,Re-Login (simulate logout),200,OK,Users 1-31,text,true,,907,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,496,0,45
+1764914811340,402,GET /api/auth/me?token=XXX,200,OK,Users 1-23,text,true,,958,202,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=586bcda800a927c144e96f64e732cf76,396,0,48
+1764914807529,4242,POST /submit,200,OK,Users 1-37,text,true,,2331,665,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=bfe1d2b863c81fe7b869199828b6ef42,4235,0,53
+1764914811416,494,Re-Login (simulate logout),200,OK,Users 1-1,text,true,,907,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,493,0,50
+1764914807552,4389,POST /submit,200,OK,Users 1-38,text,true,,2340,665,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=2d37bcc2136f8a1a5b2e44bc5a03b06a,4387,0,49
+1764914809200,0,Debug Vars,200,OK,Users 1-29,text,true,,857,0,50,50,null,0,0,0
+1764914811653,419,Re-Login (simulate logout),200,OK,Users 1-32,text,true,,905,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,418,0,66
+1764914809138,107,GET Login Page,200,OK,Users 1-28,text,true,,1148,169,50,50,https://microservices.iqbalfadhil.biz.id/login,107,0,50
+1764914808911,459,Re-Login (simulate logout),200,OK,Users 1-33,text,true,,905,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,459,0,50
+1764914808017,4240,POST /submit,200,OK,Users 1-39,text,true,,2332,665,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=c5d5d17ace58aa65c244c2d087b77f56,4239,0,57
+1764914809049,387,GET /api/auth/me?token=XXX,200,OK,Users 1-24,text,true,,954,202,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=888d2219e367e4224c98b0051eba02ee,386,0,54
+1764914809533,0,Debug Vars,200,OK,Users 1-30,text,true,,856,0,50,50,null,0,0,0
+1764914809209,372,POST /api/auth/login,200,OK,Users 1-27,text,true,,901,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,371,0,46
+1764914809232,491,Re-Login (simulate logout),200,OK,Users 1-34,text,true,,905,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,490,0,46
+1764914808266,4343,POST /submit,200,OK,Users 1-40,text,true,,2332,665,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=86bebdb7f61204f87c4537e76ec713e0,4342,0,55
+1764914809365,425,GET /api/auth/me?token=XXX,200,OK,Users 1-25,text,true,,954,202,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=265dd66abacfc8e5bf09c585d0a9dcd5,425,0,47
+1764914809856,0,Debug Vars,200,OK,Users 1-31,text,true,,857,0,50,50,null,0,0,0
+1764914809400,532,Re-Login (simulate logout),200,OK,Users 1-35,text,true,,903,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,532,0,46
+1764914810083,0,Debug Vars,200,OK,Users 1-1,text,true,,855,0,50,50,null,0,0,0
+1764914809579,505,Re-Login (simulate logout),200,OK,Users 1-36,text,true,,905,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,504,0,46
+1764914808557,4407,POST /submit,200,OK,Users 1-41,text,true,,2328,665,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=de47b93cfb5216119368cfdf7660c097,4407,0,48
+1764914809701,438,GET /api/auth/me?token=XXX,200,OK,Users 1-26,text,true,,958,202,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=6630d5fb093e1cb1ff4e6a3caf299df1,438,0,47
+1764914808686,4305,GET /questions,200,OK,Users 1-12,text,true,,2706,178,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,4303,0,51
+1764914810232,0,Debug Vars,200,OK,Users 1-32,text,true,,857,0,50,50,null,0,0,0
+1764914809793,486,POST /api/auth/login,200,OK,Users 1-22,text,true,,909,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,486,0,47
+1764914810205,109,GET Login Page,200,OK,Users 1-29,text,true,,1154,169,50,50,https://microservices.iqbalfadhil.biz.id/login,109,0,48
+1764914808855,4314,POST /submit,200,OK,Users 1-42,text,true,,2336,665,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=2b84177b20eaaf35af0ca4ecbbcd6e77,4313,0,49
+1764914809043,4157,GET /questions,200,OK,Users 1-13,text,true,,2706,178,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,4155,0,54
+1764914810371,0,Debug Vars,200,OK,Users 1-33,text,true,,857,0,50,50,null,0,0,0
+1764914810101,364,Re-Login (simulate logout),200,OK,Users 1-38,text,true,,903,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,363,0,47
+1764914809074,4274,POST /submit,200,OK,Users 1-43,text,true,,2330,665,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=81b586ff02c4468e6b7998ca34564524,4271,0,51
+1764914810248,392,POST /api/auth/login,200,OK,Users 1-28,text,true,,909,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,391,0,46
+1764914810536,115,GET Login Page,200,OK,Users 1-30,text,true,,1146,169,50,50,https://microservices.iqbalfadhil.biz.id/login,112,0,47
+1764914809095,4429,POST /submit,200,OK,Users 1-44,text,true,,2325,665,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=1cf7af8631c592dfcea4f98dc1e2790d,4422,0,50
+1764914810727,0,Debug Vars,200,OK,Users 1-34,text,true,,856,0,50,50,null,0,0,0
+1764914810419,396,Re-Login (simulate logout),200,OK,Users 1-39,text,true,,905,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,394,0,49
+1764914809142,4554,POST /submit,200,OK,Users 1-2,text,true,,2331,665,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=fb028e2ff536632af45a8d498f280606,4550,0,50
+1764914810594,274,GET /api/auth/me?token=XXX,200,OK,Users 1-27,text,true,,954,202,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=e7a9d89cbcde9e4ddbd431fea5f163a4,274,0,58
+1764914809315,4461,POST /submit,200,OK,Users 1-45,text,true,,2339,665,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=c45cbb7d401c3841a1d908673bae6a4d,4461,0,50
+1764914810952,0,Debug Vars,200,OK,Users 1-35,text,true,,856,0,50,50,null,0,0,0
+1764914810860,106,GET Login Page,200,OK,Users 1-31,text,true,,1152,169,50,50,https://microservices.iqbalfadhil.biz.id/login,105,0,48
+1764914811088,0,Debug Vars,200,OK,Users 1-36,text,true,,857,0,50,50,null,0,0,0
+1764914810791,305,Re-Login (simulate logout),200,OK,Users 1-40,text,true,,905,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,304,0,48
+1764914809365,4619,POST /submit,200,OK,Users 1-47,text,true,,2330,665,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=73e98d7f4dc34a279116a81b975d69ec,4617,0,56
+1764914809390,4622,GET /questions,200,OK,Users 1-14,text,true,,2698,178,50,50,https://test-microservices.iqbalfadhil.biz.id/questions,4622,0,51
+1764914811102,107,GET Login Page,200,OK,Users 1-1,text,true,,1154,169,50,50,https://microservices.iqbalfadhil.biz.id/login,107,0,47
+1764914809931,1344,Re-Login (simulate logout),200,OK,Users 1-37,text,true,,899,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,1343,0,1055
+1764914809385,4776,POST /submit,200,OK,Users 1-3,text,true,,2335,665,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=8f703304416def1e779671b237e6daa4,4775,0,56
+1764914811234,103,GET Login Page,200,OK,Users 1-32,text,true,,1156,169,50,50,https://microservices.iqbalfadhil.biz.id/login,103,0,45
+1764914811139,328,Re-Login (simulate logout),200,OK,Users 1-41,text,true,,905,267,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,328,0,47
+1764914811470,0,Debug Vars,200,OK,Users 1-38,text,true,,857,0,50,50,null,0,0,0
+1764914811375,103,GET Login Page,200,OK,Users 1-33,text,true,,1152,169,50,50,https://microservices.iqbalfadhil.biz.id/login,103,0,48
+1764914809558,4795,POST /submit,200,OK,Users 1-46,text,true,,2333,665,50,50,https://test-microservices.iqbalfadhil.biz.id/submit?token=b27c951a680425e7a9b6b8f71d130c7e,4795,0,57
+1764914811285,250,GET /api/auth/me?token=XXX,200,OK,Users 1-22,text,true,,954,202,50,50,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=91bf1ecc04c1ca8630020c160c446ad5,250,0,48
+1764914809567,4822,GET /questions,200,OK,Users 1-15,text,true,,2696,178,49,49,https://test-microservices.iqbalfadhil.biz.id/questions,4820,0,56
+1764914811326,354,POST /api/auth/login,200,OK,Users 1-29,text,true,,907,267,48,48,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,352,0,49
+1764914811815,0,Debug Vars,200,OK,Users 1-39,text,true,,857,0,47,47,null,0,0,0
+1764914811329,488,Re-Login (simulate logout),200,OK,Users 1-42,text,true,,907,267,46,46,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,488,0,45
+1764914811733,104,GET Login Page,200,OK,Users 1-34,text,true,,1158,169,45,45,https://microservices.iqbalfadhil.biz.id/login,104,0,47
+1764914809779,4925,POST /submit,200,OK,Users 1-48,text,true,,2334,665,44,44,https://test-microservices.iqbalfadhil.biz.id/submit?token=d4fdc6017989c938f97bf3b6d58b65bb,4923,0,50
+1764914809812,4918,GET /questions,200,OK,Users 1-16,text,true,,2694,178,43,43,https://test-microservices.iqbalfadhil.biz.id/questions,4915,0,51
+1764914811517,497,Re-Login (simulate logout),200,OK,Users 1-43,text,true,,905,267,42,42,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,497,0,45
+1764914811648,376,GET /api/auth/me?token=XXX,200,OK,Users 1-28,text,true,,960,202,41,41,https://auth-microservices.iqbalfadhil.biz.id/api/auth/me?token=2cf8cfa81d14e07140d5a22315ce57bc,375,0,48
+1764914811958,113,GET Login Page,200,OK,Users 1-35,text,true,,1150,169,40,40,https://microservices.iqbalfadhil.biz.id/login,112,0,56
+1764914812100,0,Debug Vars,200,OK,Users 1-40,text,true,,856,0,39,39,null,0,0,0
+1764914811652,517,POST /api/auth/login,200,OK,Users 1-30,text,true,,893,267,38,38,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,516,0,46
+1764914812091,99,GET Login Page,200,OK,Users 1-36,text,true,,1148,169,37,37,https://microservices.iqbalfadhil.biz.id/login,99,0,45
+1764914810004,5081,POST /submit,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-50,text,false,,3145,0,36,36,https://test-microservices.iqbalfadhil.biz.id/submit?token=0e058e3b601e06dd1998c47a04456800,0,0,51
+1764914812285,0,Debug Vars,200,OK,Users 1-37,text,true,,857,0,35,35,null,0,0,0
+1764914810072,5081,POST /submit,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-49,text,false,,3145,0,34,34,https://test-microservices.iqbalfadhil.biz.id/submit?token=754c816141c77131e0048748fa5deb14,0,0,50
+1764914811684,629,Re-Login (simulate logout),200,OK,Users 1-44,text,true,,911,267,33,33,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,629,0,47
+1764914810130,5092,GET /questions,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-17,text,false,,3145,0,32,32,https://test-microservices.iqbalfadhil.biz.id/questions,0,0,60
+1764914812476,0,Debug Vars,200,OK,Users 1-41,text,true,,857,0,31,31,null,0,0,0
+1764914811857,644,Re-Login (simulate logout),200,OK,Users 1-2,text,true,,901,267,30,30,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,644,0,47
+1764914810312,5085,POST /submit,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-5,text,false,,3145,0,29,29,https://test-microservices.iqbalfadhil.biz.id/submit?token=009382c1b1b0ac0cbc211f2567ec7795,0,0,55
+1764914810334,5084,GET /questions,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-18,text,false,,3145,0,28,28,https://test-microservices.iqbalfadhil.biz.id/questions,0,0,51
+1764914812479,103,GET Login Page,200,OK,Users 1-38,text,true,,1158,169,27,27,https://microservices.iqbalfadhil.biz.id/login,103,0,48
+1764914810395,5078,POST /submit,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-4,text,false,,3145,0,26,26,https://test-microservices.iqbalfadhil.biz.id/submit?token=21c4d7a2600dffaa039c6d95c4442f47,0,0,50
+1764914811937,708,Re-Login (simulate logout),200,OK,Users 1-45,text,true,,915,267,25,25,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,708,0,77
+1764914811979,809,POST /api/auth/login,200,OK,Users 1-31,text,true,,905,267,24,24,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,809,0,60
+1764914810613,5106,GET /questions,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-19,text,false,,3145,0,23,23,https://test-microservices.iqbalfadhil.biz.id/questions,0,0,72
+1764914810686,5080,GET /questions,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-21,text,false,,3145,0,22,22,https://test-microservices.iqbalfadhil.biz.id/questions,0,0,55
+1764914812148,780,Re-Login (simulate logout),200,OK,Users 1-47,text,true,,905,267,21,21,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,780,0,47
+1764914810739,5080,POST /submit,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-6,text,false,,3145,0,20,20,https://test-microservices.iqbalfadhil.biz.id/submit?token=7c2e328b6b2d35fe7ede8a79f77ecf2b,0,0,53
+1764914810777,5080,POST /submit,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-7,text,false,,3145,0,19,19,https://test-microservices.iqbalfadhil.biz.id/submit?token=0aaa750f3db4a8796d6036b8131bd5b0,0,0,52
+1764914812212,862,POST /api/auth/login,200,OK,Users 1-1,text,true,,907,267,18,18,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,861,0,44
+1764914812330,928,Re-Login (simulate logout),200,OK,Users 1-3,text,true,,915,267,17,17,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,928,0,45
+1764914811077,5078,POST /submit,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-8,text,false,,3145,0,16,16,https://test-microservices.iqbalfadhil.biz.id/submit?token=f26a1684c59199820d28df92524e85b6,0,0,48
+1764914812340,1063,POST /api/auth/login,200,OK,Users 1-32,text,true,,903,267,15,15,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,1063,0,47
+1764914811211,5071,POST /submit,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-9,text,false,,3145,0,14,14,https://test-microservices.iqbalfadhil.biz.id/submit?token=f08f5d4858770809aaabf42955f51b58,0,0,46
+1764914812479,1068,POST /api/auth/login,200,OK,Users 1-33,text,true,,907,267,13,13,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,1067,0,47
+1764914811358,5085,GET /questions,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-20,text,false,,3145,0,12,12,https://test-microservices.iqbalfadhil.biz.id/questions,0,0,55
+1764914811477,5076,POST /submit,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-10,text,false,,3145,0,11,11,https://test-microservices.iqbalfadhil.biz.id/submit?token=f0a8c788270168fce4720d87d6bf6776,0,0,49
+1764914812514,1208,Re-Login (simulate logout),200,OK,Users 1-46,text,true,,901,267,10,10,https://auth-microservices.iqbalfadhil.biz.id/api/auth/login,1208,0,46
+1764914809606,5088,POST /submit,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-11,text,false,,3145,0,9,9,https://test-microservices.iqbalfadhil.biz.id/submit?token=13bb8e3ac9e5e644bf9e60f4279e30b8,0,0,51
+1764914809914,5100,GET /questions,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,Users 1-23,text,false,,3145,0,8,8,https://test-microservices.iqbalfadhil.biz.id/questions,0,0,50
+1764914810438,4682,GET /questions,200,OK,Users 1-24,text,true,,2704,178,7,7,https://test-microservices.iqbalfadhil.biz.id/questions,4682,0,59
+1764914810794,4375,GET /questions,200,OK,Users 1-25,text,true,,2698,178,6,6,https://test-microservices.iqbalfadhil.biz.id/questions,4374,0,52
+1764914811139,4073,GET /questions,200,OK,Users 1-26,text,true,,2700,178,5,5,https://test-microservices.iqbalfadhil.biz.id/questions,4072,0,54
+1764914811152,4195,POST /submit,200,OK,Users 1-12,text,true,,2328,665,4,4,https://test-microservices.iqbalfadhil.biz.id/submit?token=6844f71f36d5f7ca08aba8cab876b128,4195,0,47
+1764914811364,4127,POST /submit,200,OK,Users 1-13,text,true,,2330,665,3,3,https://test-microservices.iqbalfadhil.biz.id/submit?token=2641bc848e34090b68531bd887b67561,4127,0,47
+1764914811869,3686,GET /questions,200,OK,Users 1-27,text,true,,2706,178,2,2,https://test-microservices.iqbalfadhil.biz.id/questions,3685,0,51
+1764914812172,3527,POST /submit,200,OK,Users 1-14,text,true,,2343,665,1,1,https://test-microservices.iqbalfadhil.biz.id/submit?token=785eef6b998d39df3a0f29313746435d,3527,0,46

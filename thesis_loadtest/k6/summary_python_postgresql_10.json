@@ -1,0 +1,158 @@
+{
+    "metrics": {
+        "iteration_duration": {
+            "p(90)": 4785.3200392,
+            "p(95)": 4954.6609398499995,
+            "avg": 4701.491373286821,
+            "min": 3779.721738,
+            "med": 4679.6382135,
+            "max": 13522.754923
+        },
+        "http_req_connecting": {
+            "avg": 1.035452987403101,
+            "min": 0,
+            "med": 0,
+            "max": 177.528154,
+            "p(90)": 0,
+            "p(95)": 0
+        },
+        "http_req_receiving": {
+            "avg": 1.1357046967054258,
+            "min": 0.019285,
+            "med": 0.154738,
+            "max": 434.082794,
+            "p(90)": 0.7269743999999999,
+            "p(95)": 1.3354997999999996
+        },
+        "http_req_duration{expected_response:true}": {
+            "med": 103.2398405,
+            "max": 11698.442949,
+            "p(90)": 3428.249933,
+            "p(95)": 3474.56025905,
+            "avg": 912.4380649137584,
+            "min": 0.243111
+        },
+        "vus_max": {
+            "value": 10,
+            "min": 10,
+            "max": 10
+        },
+        "data_received": {
+            "count": 1327879,
+            "rate": 11107.703756574305
+        },
+        "http_req_failed": {
+            "passes": 0,
+            "fails": 1032,
+            "thresholds": {
+                "rate<0.5": false
+            },
+            "value": 0
+        },
+        "http_req_blocked": {
+            "avg": 2.6600646521318545,
+            "min": 0.000101,
+            "med": 0.000304,
+            "max": 450.067077,
+            "p(90)": 0.000507,
+            "p(95)": 0.00071
+        },
+        "http_req_waiting": {
+            "p(95)": 3474.43978405,
+            "avg": 911.2359244602709,
+            "min": 0,
+            "med": 102.66913,
+            "max": 11698.146801,
+            "p(90)": 3428.0052024
+        },
+        "vus": {
+            "min": 10,
+            "max": 10,
+            "value": 10
+        },
+        "data_sent": {
+            "count": 127438,
+            "rate": 1066.018478589025
+        },
+        "http_reqs": {
+            "count": 1032,
+            "rate": 8.632676830332192
+        },
+        "iterations": {
+            "count": 258,
+            "rate": 2.158169207583048
+        },
+        "http_req_tls_handshaking": {
+            "min": 0,
+            "med": 0,
+            "max": 395.082326,
+            "p(90)": 0,
+            "p(95)": 0,
+            "avg": 1.5949420794573643
+        },
+        "http_req_duration": {
+            "p(95)": 3474.56025905,
+            "avg": 912.4380649137584,
+            "min": 0.243111,
+            "med": 103.2398405,
+            "max": 11698.442949,
+            "p(90)": 3428.249933
+        },
+        "checks": {
+            "passes": 1290,
+            "fails": 0,
+            "value": 1
+        },
+        "http_req_sending": {
+            "p(95)": 0.12387429999999996,
+            "avg": 0.06643575678294567,
+            "min": 0.018475,
+            "med": 0.0561845,
+            "max": 1.573273,
+            "p(90)": 0.1054377
+        }
+    },
+    "root_group": {
+        "path": "",
+        "id": "d41d8cd98f00b204e9800998ecf8427e",
+        "groups": {},
+        "checks": {
+                "front status 200": {
+                    "name": "front status 200",
+                    "path": "::front status 200",
+                    "id": "eac2fbc357edc360a9276bb9c8d21b7e",
+                    "passes": 258,
+                    "fails": 0
+                },
+                "login status 200": {
+                    "passes": 258,
+                    "fails": 0,
+                    "name": "login status 200",
+                    "path": "::login status 200",
+                    "id": "a9f04e9f501317c68a9f824e04811bea"
+                },
+                "login has token": {
+                    "id": "76fad3378234b1d9b3859991679a6c46",
+                    "passes": 258,
+                    "fails": 0,
+                    "name": "login has token",
+                    "path": "::login has token"
+                },
+                "me status 200": {
+                    "name": "me status 200",
+                    "path": "::me status 200",
+                    "id": "f66e4f179f3edcebba3fcf9c8c70e57e",
+                    "passes": 258,
+                    "fails": 0
+                },
+                "questions status 200": {
+                    "name": "questions status 200",
+                    "path": "::questions status 200",
+                    "id": "41208a10389aac550f84fc670271289e",
+                    "passes": 258,
+                    "fails": 0
+                }
+            },
+        "name": ""
+    }
+}

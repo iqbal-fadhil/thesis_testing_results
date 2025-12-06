@@ -1,0 +1,4 @@
+architecture,concurrency,flows,total_steps,duration_sec,throughput_steps_per_sec,avg_latency_ms,min_latency_ms,max_latency_ms,error_count,error_rate,success_count
+ms_python_mysql,10,50,100,611.02,0.16,30297.17,60.47,60928.6,1,0.01,99
+ms_python_mysql,20,50,100,366.0,0.27,30562.08,130.69,60909.95,0,0.0,100
+ms_python_mysql,50,50,100,122.0,0.82,30580.01,175.24,60904.32,0,0.0,100
