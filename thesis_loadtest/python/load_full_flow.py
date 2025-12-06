@@ -22,12 +22,12 @@ from statistics import mean
 # -----------------------
 # Defaults (override via CLI args or env)
 # -----------------------
-DEFAULT_ARCH = os.environ.get("ARCHITECTURE_NAME", "ms_python_mysql")
+DEFAULT_ARCH = os.environ.get("ARCHITECTURE_NAME", "ms_nodejs_mysql")
 DEFAULT_FRONTEND_BASE = os.environ.get("FRONTEND_BASE", "https://microservices.iqbalfadhil.biz.id")
 DEFAULT_AUTH_BASE     = os.environ.get("AUTH_BASE", "https://auth-microservices.iqbalfadhil.biz.id/api/auth")
 DEFAULT_TEST_BASE     = os.environ.get("TEST_BASE", "https://test-microservices.iqbalfadhil.biz.id")
 DEFAULT_USERNAME = os.environ.get("LOADTEST_USER", "student1")
-DEFAULT_PASSWORD = os.environ.get("LOADTEST_PASS", "Student123!")
+DEFAULT_PASSWORD = os.environ.get("LOADTEST_PASS", "Student123")
 DEFAULT_NUM_ANSWERS = int(os.environ.get("NUM_ANSWERS", "10"))
 
 # sensible defaults requested

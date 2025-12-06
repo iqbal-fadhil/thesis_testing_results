@@ -1,0 +1,4 @@
+architecture,concurrency,flows,total_steps,duration_sec,throughput_steps_per_sec,avg_latency_ms,min_latency_ms,max_latency_ms,error_count,error_rate,success_count
+ms_nodejs_mysql,10,50,250,8.74,28.59,333.89,48.25,1603.86,0,0.0,250
+ms_nodejs_mysql,20,50,250,7.3,34.26,558.21,50.53,3514.97,0,0.0,250
+ms_nodejs_mysql,50,50,250,7.55,33.12,1233.22,51.33,6874.0,5,0.02,245

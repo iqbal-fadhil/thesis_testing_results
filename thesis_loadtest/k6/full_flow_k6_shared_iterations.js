@@ -5,7 +5,7 @@ const FRONTEND_BASE = __ENV.FRONTEND_BASE || 'https://microservices.iqbalfadhil.
 const AUTH_BASE     = __ENV.AUTH_BASE     || 'https://auth-microservices.iqbalfadhil.biz.id/api/auth';
 const TEST_BASE     = __ENV.TEST_BASE     || 'https://test-microservices.iqbalfadhil.biz.id';
 const USERNAME      = __ENV.LOADTEST_USER || 'student1';
-const PASSWORD      = __ENV.LOADTEST_PASS || 'Student123!';
+const PASSWORD      = __ENV.LOADTEST_PASS || 'Student123';
 
 export let options = {
   // no built-in vus here; we'll pass --vus / --iterations via CLI or wrapper
