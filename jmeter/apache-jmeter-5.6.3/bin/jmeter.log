@@ -272,3 +272,231 @@
 2025-12-06 09:50:08,108 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-15
 2025-12-06 09:50:08,108 INFO o.a.j.e.StandardJMeterEngine: Notifying test listeners of end of test
 2025-12-06 09:50:08,108 INFO o.a.j.g.u.JMeterMenuBar: setRunning(false, *local*)
+2025-12-06 09:54:25,145 WARN o.a.j.r.ResultCollector: /home/iqbal/jmeter/apache-jmeter-5.6.3/bin/results/run_jmeter_for_testing_data_php_postgresql.jtl is empty
+2025-12-06 09:59:48,738 INFO o.a.j.e.StandardJMeterEngine: Running the test!
+2025-12-06 09:59:48,739 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2025-12-06 09:59:48,740 INFO o.a.j.g.u.JMeterMenuBar: setRunning(true, *local*)
+2025-12-06 09:59:48,815 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 1 : Users
+2025-12-06 09:59:48,815 INFO o.a.j.e.StandardJMeterEngine: Starting 10 threads for group Users.
+2025-12-06 09:59:48,815 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2025-12-06 09:59:48,815 INFO o.a.j.t.ThreadGroup: Starting thread group... number=1 threads=10 ramp-up=10 delayedStart=false
+2025-12-06 09:59:48,816 INFO o.a.j.t.JMeterThread: Thread started: Users 1-1
+2025-12-06 09:59:48,831 INFO o.a.j.t.ThreadGroup: Started thread group number 1
+2025-12-06 09:59:48,831 INFO o.a.j.e.StandardJMeterEngine: All thread groups have been started
+2025-12-06 09:59:49,828 INFO o.a.j.t.JMeterThread: Thread started: Users 1-2
+2025-12-06 09:59:50,825 INFO o.a.j.t.JMeterThread: Thread started: Users 1-3
+2025-12-06 09:59:51,825 INFO o.a.j.t.JMeterThread: Thread started: Users 1-4
+2025-12-06 09:59:52,824 INFO o.a.j.t.JMeterThread: Thread started: Users 1-5
+2025-12-06 09:59:53,831 INFO o.a.j.t.JMeterThread: Thread started: Users 1-6
+2025-12-06 09:59:54,821 INFO o.a.j.t.JMeterThread: Thread started: Users 1-7
+2025-12-06 09:59:55,817 INFO o.a.j.t.JMeterThread: Thread started: Users 1-8
+2025-12-06 09:59:56,816 INFO o.a.j.t.JMeterThread: Thread started: Users 1-9
+2025-12-06 09:59:57,824 INFO o.a.j.t.JMeterThread: Thread started: Users 1-10
+2025-12-06 10:00:48,243 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-3
+2025-12-06 10:00:48,447 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-1
+2025-12-06 10:00:48,447 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-2
+2025-12-06 10:00:48,474 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-8
+2025-12-06 10:00:48,526 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-6
+2025-12-06 10:00:48,762 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-9
+2025-12-06 10:00:48,766 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-7
+2025-12-06 10:00:48,858 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-5
+2025-12-06 10:00:48,858 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-5
+2025-12-06 10:00:49,069 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-10
+2025-12-06 10:00:49,069 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-10
+2025-12-06 10:00:49,103 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-4
+2025-12-06 10:00:49,104 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-4
+2025-12-06 10:00:49,105 INFO o.a.j.e.StandardJMeterEngine: Notifying test listeners of end of test
+2025-12-06 10:00:49,106 INFO o.a.j.g.u.JMeterMenuBar: setRunning(false, *local*)
+2025-12-06 10:07:07,260 INFO o.a.j.e.StandardJMeterEngine: Running the test!
+2025-12-06 10:07:07,260 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2025-12-06 10:07:07,262 INFO o.a.j.g.u.JMeterMenuBar: setRunning(true, *local*)
+2025-12-06 10:07:07,384 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 1 : Users
+2025-12-06 10:07:07,384 INFO o.a.j.e.StandardJMeterEngine: Starting 20 threads for group Users.
+2025-12-06 10:07:07,384 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2025-12-06 10:07:07,384 INFO o.a.j.t.ThreadGroup: Starting thread group... number=1 threads=20 ramp-up=10 delayedStart=false
+2025-12-06 10:07:07,385 INFO o.a.j.t.JMeterThread: Thread started: Users 1-1
+2025-12-06 10:07:07,392 INFO o.a.j.t.ThreadGroup: Started thread group number 1
+2025-12-06 10:07:07,393 INFO o.a.j.e.StandardJMeterEngine: All thread groups have been started
+2025-12-06 10:07:07,889 INFO o.a.j.t.JMeterThread: Thread started: Users 1-2
+2025-12-06 10:07:08,386 INFO o.a.j.t.JMeterThread: Thread started: Users 1-3
+2025-12-06 10:07:08,887 INFO o.a.j.t.JMeterThread: Thread started: Users 1-4
+2025-12-06 10:07:09,392 INFO o.a.j.t.JMeterThread: Thread started: Users 1-5
+2025-12-06 10:07:09,905 INFO o.a.j.t.JMeterThread: Thread started: Users 1-6
+2025-12-06 10:07:10,409 INFO o.a.j.t.JMeterThread: Thread started: Users 1-7
+2025-12-06 10:07:10,922 INFO o.a.j.t.JMeterThread: Thread started: Users 1-8
+2025-12-06 10:07:11,410 INFO o.a.j.t.JMeterThread: Thread started: Users 1-9
+2025-12-06 10:07:11,910 INFO o.a.j.t.JMeterThread: Thread started: Users 1-10
+2025-12-06 10:07:12,390 INFO o.a.j.t.JMeterThread: Thread started: Users 1-11
+2025-12-06 10:07:12,889 INFO o.a.j.t.JMeterThread: Thread started: Users 1-12
+2025-12-06 10:07:13,384 INFO o.a.j.t.JMeterThread: Thread started: Users 1-13
+2025-12-06 10:07:13,886 INFO o.a.j.t.JMeterThread: Thread started: Users 1-14
+2025-12-06 10:07:14,386 INFO o.a.j.t.JMeterThread: Thread started: Users 1-15
+2025-12-06 10:07:14,885 INFO o.a.j.t.JMeterThread: Thread started: Users 1-16
+2025-12-06 10:07:15,385 INFO o.a.j.t.JMeterThread: Thread started: Users 1-17
+2025-12-06 10:07:15,886 INFO o.a.j.t.JMeterThread: Thread started: Users 1-18
+2025-12-06 10:07:16,388 INFO o.a.j.t.JMeterThread: Thread started: Users 1-19
+2025-12-06 10:07:16,885 INFO o.a.j.t.JMeterThread: Thread started: Users 1-20
+2025-12-06 10:08:06,522 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-13
+2025-12-06 10:08:06,566 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-2
+2025-12-06 10:08:06,568 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-9
+2025-12-06 10:08:06,653 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-14
+2025-12-06 10:08:06,658 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-4
+2025-12-06 10:08:06,705 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-16
+2025-12-06 10:08:06,743 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-17
+2025-12-06 10:08:06,756 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-10
+2025-12-06 10:08:06,852 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-15
+2025-12-06 10:08:07,103 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-8
+2025-12-06 10:08:07,104 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-12
+2025-12-06 10:08:07,163 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-3
+2025-12-06 10:08:07,172 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-5
+2025-12-06 10:08:07,302 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-20
+2025-12-06 10:08:07,302 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-19
+2025-12-06 10:08:07,334 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-6
+2025-12-06 10:08:07,337 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-1
+2025-12-06 10:08:07,341 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-11
+2025-12-06 10:08:07,495 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-7
+2025-12-06 10:08:07,495 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-7
+2025-12-06 10:08:07,885 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-18
+2025-12-06 10:08:07,885 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-18
+2025-12-06 10:08:07,885 INFO o.a.j.e.StandardJMeterEngine: Notifying test listeners of end of test
+2025-12-06 10:08:07,886 INFO o.a.j.g.u.JMeterMenuBar: setRunning(false, *local*)
+2025-12-06 10:08:27,887 INFO o.a.j.e.StandardJMeterEngine: Running the test!
+2025-12-06 10:08:27,887 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2025-12-06 10:08:27,888 INFO o.a.j.g.u.JMeterMenuBar: setRunning(true, *local*)
+2025-12-06 10:08:27,997 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 1 : Users
+2025-12-06 10:08:27,997 INFO o.a.j.e.StandardJMeterEngine: Starting 50 threads for group Users.
+2025-12-06 10:08:27,998 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2025-12-06 10:08:27,998 INFO o.a.j.t.ThreadGroup: Starting thread group... number=1 threads=50 ramp-up=10 delayedStart=false
+2025-12-06 10:08:27,999 INFO o.a.j.t.JMeterThread: Thread started: Users 1-1
+2025-12-06 10:08:28,017 INFO o.a.j.t.ThreadGroup: Started thread group number 1
+2025-12-06 10:08:28,017 INFO o.a.j.e.StandardJMeterEngine: All thread groups have been started
+2025-12-06 10:08:28,199 INFO o.a.j.t.JMeterThread: Thread started: Users 1-2
+2025-12-06 10:08:28,399 INFO o.a.j.t.JMeterThread: Thread started: Users 1-3
+2025-12-06 10:08:28,609 INFO o.a.j.t.JMeterThread: Thread started: Users 1-4
+2025-12-06 10:08:28,812 INFO o.a.j.t.JMeterThread: Thread started: Users 1-5
+2025-12-06 10:08:29,009 INFO o.a.j.t.JMeterThread: Thread started: Users 1-6
+2025-12-06 10:08:29,205 INFO o.a.j.t.JMeterThread: Thread started: Users 1-7
+2025-12-06 10:08:29,412 INFO o.a.j.t.JMeterThread: Thread started: Users 1-8
+2025-12-06 10:08:29,610 INFO o.a.j.t.JMeterThread: Thread started: Users 1-9
+2025-12-06 10:08:29,803 INFO o.a.j.t.JMeterThread: Thread started: Users 1-10
+2025-12-06 10:08:30,001 INFO o.a.j.t.JMeterThread: Thread started: Users 1-11
+2025-12-06 10:08:30,207 INFO o.a.j.t.JMeterThread: Thread started: Users 1-12
+2025-12-06 10:08:30,400 INFO o.a.j.t.JMeterThread: Thread started: Users 1-13
+2025-12-06 10:08:30,605 INFO o.a.j.t.JMeterThread: Thread started: Users 1-14
+2025-12-06 10:08:30,801 INFO o.a.j.t.JMeterThread: Thread started: Users 1-15
+2025-12-06 10:08:31,009 INFO o.a.j.t.JMeterThread: Thread started: Users 1-16
+2025-12-06 10:08:31,205 INFO o.a.j.t.JMeterThread: Thread started: Users 1-17
+2025-12-06 10:08:31,400 INFO o.a.j.t.JMeterThread: Thread started: Users 1-18
+2025-12-06 10:08:31,603 INFO o.a.j.t.JMeterThread: Thread started: Users 1-19
+2025-12-06 10:08:31,801 INFO o.a.j.t.JMeterThread: Thread started: Users 1-20
+2025-12-06 10:08:32,001 INFO o.a.j.t.JMeterThread: Thread started: Users 1-21
+2025-12-06 10:08:32,213 INFO o.a.j.t.JMeterThread: Thread started: Users 1-22
+2025-12-06 10:08:32,400 INFO o.a.j.t.JMeterThread: Thread started: Users 1-23
+2025-12-06 10:08:32,603 INFO o.a.j.t.JMeterThread: Thread started: Users 1-24
+2025-12-06 10:08:32,804 INFO o.a.j.t.JMeterThread: Thread started: Users 1-25
+2025-12-06 10:08:33,001 INFO o.a.j.t.JMeterThread: Thread started: Users 1-26
+2025-12-06 10:08:33,201 INFO o.a.j.t.JMeterThread: Thread started: Users 1-27
+2025-12-06 10:08:33,404 INFO o.a.j.t.JMeterThread: Thread started: Users 1-28
+2025-12-06 10:08:33,604 INFO o.a.j.t.JMeterThread: Thread started: Users 1-29
+2025-12-06 10:08:33,800 INFO o.a.j.t.JMeterThread: Thread started: Users 1-30
+2025-12-06 10:08:33,999 INFO o.a.j.t.JMeterThread: Thread started: Users 1-31
+2025-12-06 10:08:34,199 INFO o.a.j.t.JMeterThread: Thread started: Users 1-32
+2025-12-06 10:08:34,398 INFO o.a.j.t.JMeterThread: Thread started: Users 1-33
+2025-12-06 10:08:34,599 INFO o.a.j.t.JMeterThread: Thread started: Users 1-34
+2025-12-06 10:08:34,800 INFO o.a.j.t.JMeterThread: Thread started: Users 1-35
+2025-12-06 10:08:34,999 INFO o.a.j.t.JMeterThread: Thread started: Users 1-36
+2025-12-06 10:08:35,199 INFO o.a.j.t.JMeterThread: Thread started: Users 1-37
+2025-12-06 10:08:35,399 INFO o.a.j.t.JMeterThread: Thread started: Users 1-38
+2025-12-06 10:08:35,598 INFO o.a.j.t.JMeterThread: Thread started: Users 1-39
+2025-12-06 10:08:35,799 INFO o.a.j.t.JMeterThread: Thread started: Users 1-40
+2025-12-06 10:08:35,998 INFO o.a.j.t.JMeterThread: Thread started: Users 1-41
+2025-12-06 10:08:36,198 INFO o.a.j.t.JMeterThread: Thread started: Users 1-42
+2025-12-06 10:08:36,399 INFO o.a.j.t.JMeterThread: Thread started: Users 1-43
+2025-12-06 10:08:36,600 INFO o.a.j.t.JMeterThread: Thread started: Users 1-44
+2025-12-06 10:08:36,801 INFO o.a.j.t.JMeterThread: Thread started: Users 1-45
+2025-12-06 10:08:37,002 INFO o.a.j.t.JMeterThread: Thread started: Users 1-46
+2025-12-06 10:08:37,199 INFO o.a.j.t.JMeterThread: Thread started: Users 1-47
+2025-12-06 10:08:37,403 INFO o.a.j.t.JMeterThread: Thread started: Users 1-48
+2025-12-06 10:08:37,608 INFO o.a.j.t.JMeterThread: Thread started: Users 1-49
+2025-12-06 10:08:37,801 INFO o.a.j.t.JMeterThread: Thread started: Users 1-50
+2025-12-06 10:08:43,977 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 10:08:44,010 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 10:08:44,860 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 10:08:45,001 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=Non HTTP response code: java.net.SocketTimeoutException
+2025-12-06 10:09:03,765 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=502
+2025-12-06 10:09:14,534 WARN o.a.j.e.J.Extract Token (robust): Extract Token: response not JSON and regex failed. responseCode=502
+2025-12-06 10:09:27,035 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-38
+2025-12-06 10:09:27,039 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-25
+2025-12-06 10:09:27,039 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-10
+2025-12-06 10:09:27,039 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-19
+2025-12-06 10:09:27,039 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-11
+2025-12-06 10:09:27,123 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-26
+2025-12-06 10:09:27,128 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-24
+2025-12-06 10:09:27,281 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-5
+2025-12-06 10:09:27,289 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-31
+2025-12-06 10:09:27,289 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-9
+2025-12-06 10:09:27,289 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-46
+2025-12-06 10:09:27,291 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-28
+2025-12-06 10:09:27,291 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-3
+2025-12-06 10:09:27,336 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-30
+2025-12-06 10:09:27,336 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-16
+2025-12-06 10:09:27,413 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-32
+2025-12-06 10:09:27,452 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-48
+2025-12-06 10:09:27,641 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-7
+2025-12-06 10:09:27,641 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-47
+2025-12-06 10:09:27,641 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-34
+2025-12-06 10:09:27,938 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-2
+2025-12-06 10:09:27,965 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-13
+2025-12-06 10:09:27,965 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-49
+2025-12-06 10:09:27,965 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-12
+2025-12-06 10:09:27,965 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-20
+2025-12-06 10:09:27,965 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-35
+2025-12-06 10:09:27,966 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-18
+2025-12-06 10:09:28,011 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-14
+2025-12-06 10:09:28,011 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-14
+2025-12-06 10:09:28,613 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-23
+2025-12-06 10:09:28,613 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-4
+2025-12-06 10:09:28,613 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-1
+2025-12-06 10:09:28,614 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-23
+2025-12-06 10:09:28,614 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-1
+2025-12-06 10:09:28,614 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-4
+2025-12-06 10:09:28,838 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-41
+2025-12-06 10:09:28,838 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-21
+2025-12-06 10:09:28,838 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-21
+2025-12-06 10:09:28,838 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-41
+2025-12-06 10:09:28,838 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-29
+2025-12-06 10:09:28,838 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-29
+2025-12-06 10:09:28,841 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-8
+2025-12-06 10:09:28,841 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-8
+2025-12-06 10:09:28,888 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-15
+2025-12-06 10:09:28,888 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-15
+2025-12-06 10:09:28,888 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-50
+2025-12-06 10:09:28,888 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-50
+2025-12-06 10:09:28,888 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-44
+2025-12-06 10:09:28,889 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-44
+2025-12-06 10:09:29,302 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-22
+2025-12-06 10:09:29,302 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-17
+2025-12-06 10:09:29,302 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-22
+2025-12-06 10:09:29,302 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-17
+2025-12-06 10:09:29,401 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-27
+2025-12-06 10:09:29,401 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-27
+2025-12-06 10:09:29,401 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-37
+2025-12-06 10:09:29,401 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-33
+2025-12-06 10:09:29,401 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-33
+2025-12-06 10:09:29,401 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-37
+2025-12-06 10:09:29,401 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-6
+2025-12-06 10:09:29,402 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-6
+2025-12-06 10:09:29,429 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-36
+2025-12-06 10:09:29,429 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-36
+2025-12-06 10:09:29,512 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-42
+2025-12-06 10:09:29,512 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-39
+2025-12-06 10:09:29,512 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-42
+2025-12-06 10:09:29,513 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-39
+2025-12-06 10:09:29,512 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-43
+2025-12-06 10:09:29,513 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-43
+2025-12-06 10:09:29,539 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-45
+2025-12-06 10:09:29,539 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-45
+2025-12-06 10:09:29,540 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Users 1-40
+2025-12-06 10:09:29,540 INFO o.a.j.t.JMeterThread: Thread finished: Users 1-40
+2025-12-06 10:09:29,540 INFO o.a.j.e.StandardJMeterEngine: Notifying test listeners of end of test
+2025-12-06 10:09:29,540 INFO o.a.j.g.u.JMeterMenuBar: setRunning(false, *local*)
