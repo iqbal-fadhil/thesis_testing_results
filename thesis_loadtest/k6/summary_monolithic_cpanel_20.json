@@ -1,0 +1,186 @@
+{
+    "metrics": {
+        "http_req_sending": {
+            "p(90)": 0.1064911,
+            "p(95)": 0.125124,
+            "avg": 0.06478429000000006,
+            "min": 0.0126,
+            "med": 0.0594995,
+            "max": 0.339407
+        },
+        "iteration_duration": {
+            "min": 4228.122941,
+            "med": 4902.001666,
+            "max": 10410.950906,
+            "p(90)": 5741.8510672,
+            "p(95)": 6021.003494749999,
+            "avg": 5136.537355181998
+        },
+        "http_req_blocked": {
+            "p(95)": 0.00065,
+            "avg": 0.40395268966664155,
+            "min": 0.0001,
+            "med": 0.0003,
+            "max": 260.629102,
+            "p(90)": 0.0005036999999999967
+        },
+        "http_req_waiting": {
+            "avg": 651.0265408549989,
+            "min": 0,
+            "med": 370.12139149999996,
+            "max": 5551.638525,
+            "p(90)": 1620.3305199000001,
+            "p(95)": 1918.8762639499996
+        },
+        "http_req_receiving": {
+            "max": 232.94725,
+            "p(90)": 0.210274,
+            "p(95)": 0.26924454999999975,
+            "avg": 0.34572069633333286,
+            "min": 0.0198,
+            "med": 0.122141
+        },
+        "data_sent": {
+            "count": 349091,
+            "rate": 2873.4617800213105
+        },
+        "http_req_connecting": {
+            "min": 0,
+            "med": 0,
+            "max": 20.099899,
+            "p(90)": 0,
+            "p(95)": 0,
+            "avg": 0.09663811833333333
+        },
+        "http_req_duration": {
+            "avg": 651.4370458413343,
+            "min": 0.124486,
+            "med": 370.35241099999996,
+            "max": 5551.851724,
+            "p(90)": 1620.5720448,
+            "p(95)": 1919.1419465999995
+        },
+        "vus_max": {
+            "min": 20,
+            "max": 20,
+            "value": 20
+        },
+        "http_req_failed": {
+            "passes": 0,
+            "fails": 3000,
+            "thresholds": {
+                "rate<0.5": false
+            },
+            "value": 0
+        },
+        "vus": {
+            "min": 19,
+            "max": 20,
+            "value": 19
+        },
+        "http_req_tls_handshaking": {
+            "min": 0,
+            "med": 0,
+            "max": 248.538361,
+            "p(90)": 0,
+            "p(95)": 0,
+            "avg": 0.29976137199999997
+        },
+        "iterations": {
+            "count": 500,
+            "rate": 4.115634290229926
+        },
+        "http_reqs": {
+            "count": 3000,
+            "rate": 24.693805741379556
+        },
+        "data_received": {
+            "count": 7643707,
+            "rate": 62917.40526734103
+        },
+        "checks": {
+            "passes": 4500,
+            "fails": 0,
+            "value": 1
+        },
+        "http_req_duration{expected_response:true}": {
+            "min": 0.124486,
+            "med": 370.35241099999996,
+            "max": 5551.851724,
+            "p(90)": 1620.5720448,
+            "p(95)": 1919.1419465999995,
+            "avg": 651.4370458413343
+        }
+    },
+    "root_group": {
+        "name": "",
+        "path": "",
+        "id": "d41d8cd98f00b204e9800998ecf8427e",
+        "groups": {},
+        "checks": {
+                "GET login page 200": {
+                    "passes": 500,
+                    "fails": 0,
+                    "name": "GET login page 200",
+                    "path": "::GET login page 200",
+                    "id": "0a0d6a93925fa3cd1e3380b7193e1e33"
+                },
+                "csrf token found": {
+                    "fails": 0,
+                    "name": "csrf token found",
+                    "path": "::csrf token found",
+                    "id": "27c1525b3ffcca5fd6fdec3ab28e9fd1",
+                    "passes": 500
+                },
+                "login response is redirect (or contains logout/profile)": {
+                    "name": "login response is redirect (or contains logout/profile)",
+                    "path": "::login response is redirect (or contains logout/profile)",
+                    "id": "b7aa7bfdfbd3305fbdd1e5f561e4bd8b",
+                    "passes": 500,
+                    "fails": 0
+                },
+                "login response status <400": {
+                    "name": "login response status <400",
+                    "path": "::login response status <400",
+                    "id": "37c5acfd6fe6028ec5fa3d814b373d5f",
+                    "passes": 500,
+                    "fails": 0
+                },
+                "sessionid present": {
+                    "id": "9ec40b94b8f823a1b8c7486eab0ad3f9",
+                    "passes": 500,
+                    "fails": 0,
+                    "name": "sessionid present",
+                    "path": "::sessionid present"
+                },
+                "profile status 200": {
+                    "name": "profile status 200",
+                    "path": "::profile status 200",
+                    "id": "16aa41166d195c4b5dbc4ca5a577c688",
+                    "passes": 500,
+                    "fails": 0
+                },
+                "profile contains username": {
+                    "name": "profile contains username",
+                    "path": "::profile contains username",
+                    "id": "d03f57d398705ebb10bae1598db1d343",
+                    "passes": 500,
+                    "fails": 0
+                },
+                "test page status 200": {
+                    "name": "test page status 200",
+                    "path": "::test page status 200",
+                    "id": "c7d047d7ee06d145406a967b59069bd7",
+                    "passes": 500,
+                    "fails": 0
+                },
+                "logout status 200 or redirect": {
+                    "path": "::logout status 200 or redirect",
+                    "id": "9dc806210336719a2e5b294bb21623c4",
+                    "passes": 500,
+                    "fails": 0,
+                    "name": "logout status 200 or redirect"
+                }
+            }
+    }
+}

@@ -1,0 +1,186 @@
+{
+    "root_group": {
+        "id": "d41d8cd98f00b204e9800998ecf8427e",
+        "groups": {},
+        "checks": {
+                "GET login page 200": {
+                    "name": "GET login page 200",
+                    "path": "::GET login page 200",
+                    "id": "0a0d6a93925fa3cd1e3380b7193e1e33",
+                    "passes": 390,
+                    "fails": 0
+                },
+                "csrf token found": {
+                    "fails": 0,
+                    "name": "csrf token found",
+                    "path": "::csrf token found",
+                    "id": "27c1525b3ffcca5fd6fdec3ab28e9fd1",
+                    "passes": 390
+                },
+                "login response is redirect (or contains logout/profile)": {
+                    "path": "::login response is redirect (or contains logout/profile)",
+                    "id": "b7aa7bfdfbd3305fbdd1e5f561e4bd8b",
+                    "passes": 390,
+                    "fails": 0,
+                    "name": "login response is redirect (or contains logout/profile)"
+                },
+                "login response status <400": {
+                    "name": "login response status <400",
+                    "path": "::login response status <400",
+                    "id": "37c5acfd6fe6028ec5fa3d814b373d5f",
+                    "passes": 390,
+                    "fails": 0
+                },
+                "sessionid present": {
+                    "fails": 0,
+                    "name": "sessionid present",
+                    "path": "::sessionid present",
+                    "id": "9ec40b94b8f823a1b8c7486eab0ad3f9",
+                    "passes": 390
+                },
+                "profile status 200": {
+                    "passes": 390,
+                    "fails": 0,
+                    "name": "profile status 200",
+                    "path": "::profile status 200",
+                    "id": "16aa41166d195c4b5dbc4ca5a577c688"
+                },
+                "profile contains username": {
+                    "id": "d03f57d398705ebb10bae1598db1d343",
+                    "passes": 390,
+                    "fails": 0,
+                    "name": "profile contains username",
+                    "path": "::profile contains username"
+                },
+                "test page status 200": {
+                    "name": "test page status 200",
+                    "path": "::test page status 200",
+                    "id": "c7d047d7ee06d145406a967b59069bd7",
+                    "passes": 390,
+                    "fails": 0
+                },
+                "logout status 200 or redirect": {
+                    "id": "9dc806210336719a2e5b294bb21623c4",
+                    "passes": 390,
+                    "fails": 0,
+                    "name": "logout status 200 or redirect",
+                    "path": "::logout status 200 or redirect"
+                }
+            },
+        "name": "",
+        "path": ""
+    },
+    "metrics": {
+        "http_req_failed": {
+            "passes": 0,
+            "fails": 2340,
+            "thresholds": {
+                "rate<0.5": false
+            },
+            "value": 0
+        },
+        "http_req_waiting": {
+            "min": 0,
+            "med": 184.5642015,
+            "max": 2221.327031,
+            "p(90)": 881.0335766,
+            "p(95)": 1041.6557544499988,
+            "avg": 345.15455023376
+        },
+        "http_req_receiving": {
+            "max": 23.802108,
+            "p(90)": 0.224499,
+            "p(95)": 0.3010634,
+            "avg": 0.3143201649572655,
+            "min": 0.0219,
+            "med": 0.1302
+        },
+        "data_sent": {
+            "count": 261856,
+            "rate": 2269.9021018043004
+        },
+        "vus_max": {
+            "value": 10,
+            "min": 10,
+            "max": 10
+        },
+        "checks": {
+            "passes": 3510,
+            "fails": 0,
+            "value": 1
+        },
+        "http_reqs": {
+            "count": 2340,
+            "rate": 20.284320077531405
+        },
+        "http_req_duration{expected_response:true}": {
+            "max": 2221.558821,
+            "p(90)": 881.23343,
+            "p(95)": 1041.816120699999,
+            "avg": 345.5377372735042,
+            "min": 0.115,
+            "med": 185.069628
+        },
+        "http_req_sending": {
+            "p(95)": 0.13076005,
+            "avg": 0.06886687478632474,
+            "min": 0.0171,
+            "med": 0.063807,
+            "max": 0.443515,
+            "p(90)": 0.11321629999999999
+        },
+        "http_req_connecting": {
+            "avg": 0.0513098829059829,
+            "min": 0,
+            "med": 0,
+            "max": 15.516628,
+            "p(90)": 0,
+            "p(95)": 0
+        },
+        "http_req_duration": {
+            "p(90)": 881.23343,
+            "p(95)": 1041.816120699999,
+            "avg": 345.5377372735042,
+            "min": 0.115,
+            "med": 185.069628,
+            "max": 2221.558821
+        },
+        "data_received": {
+            "count": 5937940,
+            "rate": 51473.10921417813
+        },
+        "iterations": {
+            "count": 390,
+            "rate": 3.3807200129219006
+        },
+        "http_req_tls_handshaking": {
+            "p(95)": 0,
+            "avg": 0.08931403418803419,
+            "min": 0,
+            "med": 0,
+            "max": 24.943106,
+            "p(90)": 0
+        },
+        "http_req_blocked": {
+            "med": 0.000318,
+            "max": 38.706908,
+            "p(90)": 0.000533,
+            "p(95)": 0.00065,
+            "avg": 0.14945679273504084,
+            "min": 0.000106
+        },
+        "vus": {
+            "value": 10,
+            "min": 10,
+            "max": 10
+        },
+        "iteration_duration": {
+            "p(90)": 3592.7194149,
+            "p(95)": 4323.486170849981,
+            "avg": 3092.1326600487187,
+            "min": 2492.439583,
+            "med": 2938.7281125,
+            "max": 5522.367293
+        }
+    }
+}

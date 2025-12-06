@@ -1,0 +1,186 @@
+{
+    "root_group": {
+        "name": "",
+        "path": "",
+        "id": "d41d8cd98f00b204e9800998ecf8427e",
+        "groups": {},
+        "checks": {
+                "GET login page 200": {
+                    "name": "GET login page 200",
+                    "path": "::GET login page 200",
+                    "id": "0a0d6a93925fa3cd1e3380b7193e1e33",
+                    "passes": 451,
+                    "fails": 0
+                },
+                "csrf token found": {
+                    "name": "csrf token found",
+                    "path": "::csrf token found",
+                    "id": "27c1525b3ffcca5fd6fdec3ab28e9fd1",
+                    "passes": 451,
+                    "fails": 0
+                },
+                "login response is redirect (or contains logout/profile)": {
+                    "passes": 450,
+                    "fails": 0,
+                    "name": "login response is redirect (or contains logout/profile)",
+                    "path": "::login response is redirect (or contains logout/profile)",
+                    "id": "b7aa7bfdfbd3305fbdd1e5f561e4bd8b"
+                },
+                "login response status <400": {
+                    "fails": 0,
+                    "name": "login response status <400",
+                    "path": "::login response status <400",
+                    "id": "37c5acfd6fe6028ec5fa3d814b373d5f",
+                    "passes": 450
+                },
+                "sessionid present": {
+                    "passes": 450,
+                    "fails": 0,
+                    "name": "sessionid present",
+                    "path": "::sessionid present",
+                    "id": "9ec40b94b8f823a1b8c7486eab0ad3f9"
+                },
+                "profile status 200": {
+                    "name": "profile status 200",
+                    "path": "::profile status 200",
+                    "id": "16aa41166d195c4b5dbc4ca5a577c688",
+                    "passes": 450,
+                    "fails": 0
+                },
+                "profile contains username": {
+                    "fails": 0,
+                    "name": "profile contains username",
+                    "path": "::profile contains username",
+                    "id": "d03f57d398705ebb10bae1598db1d343",
+                    "passes": 450
+                },
+                "test page status 200": {
+                    "name": "test page status 200",
+                    "path": "::test page status 200",
+                    "id": "c7d047d7ee06d145406a967b59069bd7",
+                    "passes": 450,
+                    "fails": 0
+                },
+                "logout status 200 or redirect": {
+                    "fails": 0,
+                    "name": "logout status 200 or redirect",
+                    "path": "::logout status 200 or redirect",
+                    "id": "9dc806210336719a2e5b294bb21623c4",
+                    "passes": 450
+                }
+            }
+    },
+    "metrics": {
+        "iterations": {
+            "rate": 3.191205469664484,
+            "count": 450
+        },
+        "http_req_failed": {
+            "passes": 0,
+            "fails": 2701,
+            "thresholds": {
+                "rate<0.5": false
+            },
+            "value": 0
+        },
+        "http_req_duration": {
+            "p(95)": 7659.937053,
+            "avg": 2246.990132234722,
+            "min": 0.101616,
+            "med": 1132.798965,
+            "max": 11527.851645,
+            "p(90)": 5931.155677
+        },
+        "iteration_duration": {
+            "max": 24176.21081,
+            "p(90)": 22882.937555,
+            "p(95)": 23806.90463275,
+            "avg": 15212.847534571114,
+            "min": 2496.851164,
+            "med": 13345.007246000001
+        },
+        "http_req_duration{expected_response:true}": {
+            "avg": 2246.990132234722,
+            "min": 0.101616,
+            "med": 1132.798965,
+            "max": 11527.851645,
+            "p(90)": 5931.155677,
+            "p(95)": 7659.937053
+        },
+        "http_req_waiting": {
+            "avg": 2246.3813760929265,
+            "min": 0,
+            "med": 1132.626591,
+            "max": 11527.571171,
+            "p(90)": 5930.897195,
+            "p(95)": 7659.614979
+        },
+        "vus": {
+            "value": 1,
+            "min": 1,
+            "max": 50
+        },
+        "http_req_connecting": {
+            "p(95)": 0,
+            "avg": 0.5121332154757497,
+            "min": 0,
+            "med": 0,
+            "max": 41.434081,
+            "p(90)": 0
+        },
+        "data_received": {
+            "count": 7024563,
+            "rate": 49815.164150228346
+        },
+        "http_req_blocked": {
+            "med": 0.000325,
+            "max": 158.923701,
+            "p(90)": 0.0006,
+            "p(95)": 0.000758,
+            "avg": 2.266041787856354,
+            "min": 0.0001
+        },
+        "http_req_tls_handshaking": {
+            "p(90)": 0,
+            "p(95)": 0,
+            "avg": 1.7054391488337652,
+            "min": 0,
+            "med": 0,
+            "max": 127.201015
+        },
+        "http_req_sending": {
+            "avg": 0.06220569937060351,
+            "min": 0.0143,
+            "med": 0.052541,
+            "max": 2.531631,
+            "p(90)": 0.096416,
+            "p(95)": 0.1156
+        },
+        "data_sent": {
+            "count": 370120,
+            "rate": 2624.731040960486
+        },
+        "vus_max": {
+            "value": 50,
+            "min": 50,
+            "max": 50
+        },
+        "http_reqs": {
+            "count": 2701,
+            "rate": 19.15432438569727
+        },
+        "checks": {
+            "passes": 4052,
+            "fails": 0,
+            "value": 1
+        },
+        "http_req_receiving": {
+            "p(90)": 0.277999,
+            "p(95)": 1.815192,
+            "avg": 0.5465504424287287,
+            "min": 0.0218,
+            "med": 0.131516,
+            "max": 59.429257
+        }
+    }
+}
