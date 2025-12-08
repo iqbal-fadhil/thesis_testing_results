@@ -1,0 +1,20 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1765030064137,1087,GET Login Page,200,OK,User Flow Thread Group 1-1,text,true,,3427,199,1,1,http://monolithic.iqbalfadhil.biz.id/accounts/login/,1087,0,321
+1765030065229,1818,POST Login,200,OK,User Flow Thread Group 1-1,text,true,,4512,1045,1,1,http://monolithic.iqbalfadhil.biz.id/accounts/profile/,1407,0,0
+1765030065229,1407,POST Login-0,302,Found,User Flow Thread Group 1-1,text,true,,1227,605,1,1,http://monolithic.iqbalfadhil.biz.id/accounts/login/,1407,0,0
+1765030066639,408,POST Login-1,200,OK,User Flow Thread Group 1-1,text,true,,3285,440,1,1,http://monolithic.iqbalfadhil.biz.id/accounts/profile/,407,0,0
+1765030067047,407,GET Profile,200,OK,User Flow Thread Group 1-1,text,true,,3283,297,1,1,http://monolithic.iqbalfadhil.biz.id/accounts/profile/,407,0,0
+1765030067455,418,GET Test 1,200,OK,User Flow Thread Group 1-1,text,true,,7616,296,1,1,http://monolithic.iqbalfadhil.biz.id/accounts/test/1/,418,0,0
+1765030067874,416,GET Test 2,200,OK,User Flow Thread Group 1-1,text,true,,7644,296,1,1,http://monolithic.iqbalfadhil.biz.id/accounts/test/2/,415,0,0
+1765030068290,418,GET Test 3,200,OK,User Flow Thread Group 1-1,text,true,,7566,296,1,1,http://monolithic.iqbalfadhil.biz.id/accounts/test/3/,418,0,0
+1765030068709,421,GET Test 4,200,OK,User Flow Thread Group 1-1,text,true,,7618,296,1,1,http://monolithic.iqbalfadhil.biz.id/accounts/test/4/,421,0,0
+1765030069131,419,GET Test 5,200,OK,User Flow Thread Group 1-1,text,true,,7573,296,1,1,http://monolithic.iqbalfadhil.biz.id/accounts/test/5/,419,0,0
+1765030069551,762,GET Test 6,200,OK,User Flow Thread Group 1-1,text,true,,7542,296,1,1,http://monolithic.iqbalfadhil.biz.id/accounts/test/6/,762,0,0
+1765030070314,419,GET Test 7,200,OK,User Flow Thread Group 1-1,text,true,,7592,296,1,1,http://monolithic.iqbalfadhil.biz.id/accounts/test/7/,419,0,0
+1765030070734,420,GET Test 8,200,OK,User Flow Thread Group 1-1,text,true,,7537,296,1,1,http://monolithic.iqbalfadhil.biz.id/accounts/test/8/,417,0,0
+1765030071154,413,GET Test 9,200,OK,User Flow Thread Group 1-1,text,true,,7580,296,1,1,http://monolithic.iqbalfadhil.biz.id/accounts/test/9/,412,0,0
+1765030071568,406,GET Test 10,200,OK,User Flow Thread Group 1-1,text,true,,7629,297,1,1,http://monolithic.iqbalfadhil.biz.id/accounts/test/10/,406,0,0
+1765030071975,402,GET Profile (after tests),200,OK,User Flow Thread Group 1-1,text,true,,3287,297,1,1,http://monolithic.iqbalfadhil.biz.id/accounts/profile/,402,0,0
+1765030072378,799,GET Logout,200,OK,User Flow Thread Group 1-1,text,true,,4363,547,1,1,http://monolithic.iqbalfadhil.biz.id/accounts/login/,414,0,0
+1765030072378,414,GET Logout-0,302,Found,User Flow Thread Group 1-1,text,true,,937,296,1,1,http://monolithic.iqbalfadhil.biz.id/accounts/logout/,414,0,0
+1765030072792,385,GET Logout-1,200,OK,User Flow Thread Group 1-1,text,true,,3426,251,1,1,http://monolithic.iqbalfadhil.biz.id/accounts/login/,385,0,0

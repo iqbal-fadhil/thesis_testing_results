@@ -1,0 +1,7 @@
+timestamp,architecture,layer,step,method,url,status,latency_ms,error
+1765028487026,monolith,django,GET Login Page,GET,/accounts/login/,OK,336,""
+1765028487790,monolith,django,POST Login,POST,/accounts/login/,OK,710,""
+1765028487946,monolith,django,GET Profile,GET,/accounts/profile/,OK,115,""
+1765028487992,monolith,django,GET Test Page - ${question_id},GET,/accounts/test/${question_id}/,KO,0,"Non HTTP response message: Illegal character in path at index 52: http://monolithic.iqbalfadhil.biz.id/accounts/test/${question_id}/"
+1765028488143,monolith,django,GET Profile (after tests),GET,/accounts/profile/,OK,115,""
+1765028488307,monolith,django,GET Logout,GET,/accounts/logout/,OK,128,""
